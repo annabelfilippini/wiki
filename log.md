@@ -117,6 +117,20 @@
 **Top stories:** Llama 4 Scout+Maverick (Meta open-weight MoE multimodal), Claude Mythos 10T parameter leak, Anthropic ends OpenClaw subscription coverage, agentic travel booking vs. loyalty optimization tension, Travel Smarter loyalty platform launch (Wayloft competitor), Microsoft MAI models in Foundry, LiteLLM supply chain attack, Gemini 3.1 Pro benchmarks, OpenAI $122B round / IPO track
 **Kill/Build signals:** Agentic booking = Wayloft positioning opportunity. Llama 4 Maverick = Second Brain architecture upgrade candidate.
 
+## [2026-04-06] scan | Community Scan (HN / Reddit / Product Hunt)
+
+**Output:** `outputs/briefing-community-scan-2026-04-06.md`
+**Sources scanned:** Hacker News (Show HN posts), r/LocalLLaMA, r/ChatGPT, r/artificial, r/SideProject, Product Hunt
+**Top stories:** Apfel (Apple on-device LLM CLI, 513 pts on HN), Gemma 4 (Apache 2.0 open model, #3 globally on Arena AI), Claw Code (open-source Claude Code harness, 72K GitHub stars), Microsoft MAI-Transcribe-1 (SOTA ASR, 50% cheaper), ChatGPT market share collapse (86.7% → 64.5%)
+**Kill/Build signals:** Apfel + Gemma 4 = viable free local inference stack on Apple Silicon. ChatGPT fragmentation = tailwind for specialist tools. MAI-Voice-1 = Ellis Church audio content path.
+**Note:** Supplemental to daily briefing; daily briefing covers Llama 4, Claude Mythos, OpenClaw, travel AI. This scan captures community-level build/ship activity.
+
+## [2026-04-06] briefing | Morning Briefing — Three-Section Daily
+
+**Output:** `outputs/briefing-daily-ai-2026-04-06.md` (overwrites earlier AI-only scan)
+**Sections:** Hot AI Tools & Resources | AI Industry News | World News
+**Top stories:** Apfel (Apple on-device LLM CLI, HN 513pts), Qwen 3.5-9B on M4 (LocalLLaMA 1159 upvotes), MCP at 97M installs, Llama 4 Scout/Maverick (Meta), Claude Mythos leak (10T params), ChatGPT below 40% mobile DAU, OpenAI $122B round / GPT-5.5 pretraining done, Iran rejects ceasefire (Hormuz deadline today), Artemis II lunar flyby, US IEEPA tariffs struck down → 15% Section 122 in effect, Bangladesh measles emergency
+
 ## [2026-04-06] ingest | Gates Year Ahead 2026 (Telegram)
 
 **Source:** `raw/telegram-2026-04-06-gates-year-ahead-2026.md` (via Telegram brain dump)

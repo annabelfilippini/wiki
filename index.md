@@ -108,4 +108,5 @@
 ## Outputs
 
 - [[ai-persona-pattern-deck]] -- **Marp deck.** How Ellis Church and Pikolai use the same AI persona pattern across two businesses. Proven vs. theory, risks, what's next.
-- [[briefing-daily-ai-2026-04-06]] -- **Daily AI Briefing, Apr 6.** Top stories: Llama 4 Maverick release, Claude Mythos leak, Anthropic OpenClaw subscription change, agentic travel booking threat to loyalty optimization, Travel Smarter competitor launch.
+- [[briefing-daily-ai-2026-04-06]] -- **Morning Briefing, Apr 6.** Three sections: Hot AI Tools (Apfel, Qwen M4, MCP, Llama 4), AI Industry (Claude Mythos, ChatGPT market share drop, OpenAI IPO track), World News (Iran-US war, Artemis II lunar flyby, tariff war).
+- [[briefing-community-scan-2026-04-06]] -- **Community Scan, Apr 6.** HN/Reddit/Product Hunt pulse: Apfel (Apple on-device LLM unlocked), Gemma 4 (Apache 2.0 open model, #3 globally), Claw Code (open-source Claude Code harness, 72K stars), Microsoft MAI-Transcribe-1, ChatGPT market share collapse.
