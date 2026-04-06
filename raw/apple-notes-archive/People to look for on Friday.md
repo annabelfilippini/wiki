@@ -1,0 +1,23 @@
+# People to look for on Friday
+
+- Jessica Berman - Commissioner for women’s soccer national team 
+	- You can ask her what she does on a day to day basis 
+	- How did sh get to where she is now - who did she reach out to and what has she learned as she works her way up in her company 
+- James Harasin - director of sponsorship consulting 
+	- It says that he originally worked at T-Mobile. How did he get this opportunity? What does his job history look like in college and then coming out of school? 
+- Jason Krochak - partner with proskauer 
+	- Ask about what he does on a day to day basis. What has his history been and how did he get started after college
+- Steve McCarthey - president of the West Michigan Whitecaps 
+	- What does his day to day look like? What did he do out of school that best helped his career flourish 
+- Justin Moore - surgical sales representative at very medical 
+	- What does his day to day look like? What projects are you currently working on 
+	- Are you able to sit in the the surgeries or what does that process look like 
+- Ashton Mullinix - senior Vice President of strategy and analytics of Detroit lions 
+	- Ask about overall process of getting to where he was 
+	- First ask about what he is currently working on and what it was like launching the first business strategy and analytics team 
+- Chris Pels - president of iDevTech 
+	- Ask about his day to day - what is he currently working on 
+	- Connect with him on running and skiing 
+	- He is movement science but if you have time you should still connect 
+- Kurt Phillips - medical sales at advisacare 
+	- Just ask for his experience in medical sales - what day to day looks like and what he most enjoys about the job 
