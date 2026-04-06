@@ -131,6 +131,29 @@
 **Sections:** Hot AI Tools & Resources | AI Industry News | World News
 **Top stories:** Apfel (Apple on-device LLM CLI, HN 513pts), Qwen 3.5-9B on M4 (LocalLLaMA 1159 upvotes), MCP at 97M installs, Llama 4 Scout/Maverick (Meta), Claude Mythos leak (10T params), ChatGPT below 40% mobile DAU, OpenAI $122B round / GPT-5.5 pretraining done, Iran rejects ceasefire (Hormuz deadline today), Artemis II lunar flyby, US IEEPA tariffs struck down → 15% Section 122 in effect, Bangladesh measles emergency
 
+## [2026-04-06] scan | AI Industry Scan — Company Moves + Broader Signals
+
+**Output:** `outputs/briefing-industry-scan-2026-04-06.md`
+**Sources scanned:** TechCrunch, VentureBeat, Washington Examiner, Axios, CalMatters, PYMNTS, FinancialContent, CNBC, IBTimes, World Economic Forum, Quinnipiac/TechCrunch trust poll, Bright Horizons, Transparency Coalition
+**Layer 1 — Company moves:**
+- OpenAI acquires TBPN (first media company acquisition, owned distribution play)
+- Anthropic forms AnthroPAC amid active Pentagon lawsuit (supply chain risk label, two federal suits filed March 9, temp block holding)
+- Anthropic acquires Coefficient Bio for $400M (AI biotech, drug R&D vertical play)
+- Anthropic is hottest trade in AI secondary markets; OpenAI cooling; SpaceX IPO looming
+- Meta cuts ~20% of workforce (~15K employees) under "Efficiency 2.0" / AI-native pivot; market rewarded it
+- Microsoft launches three in-house MAI models (Transcribe, Voice, Image) — slow decoupling from OpenAI dependency
+**Layer 2 — Bigger picture:**
+- California's Newsom EO N-5-26 + legislative multipronged approach = de facto national AI standard, despite federal deregulatory push
+- AI workforce adoption gap: 42% expect role changes, only 17% use AI frequently; 76% of Americans rarely trust AI results; 23% wage premium for AI skills
+**Kill/Build signals:** TBPN acquisition validates owned media + AI product thesis (Ellis Church). AI trust gap = transparency as brand differentiator. Meta displacement = community opportunity.
+
+## [2026-04-06] scan | AI Buzz Scan (HN / Reddit / Product Hunt / GitHub)
+
+**Output:** `outputs/ai-buzz-scan-2026-04-06.md`
+**Sources scanned:** Hacker News (Show HN), r/LocalLLaMA, r/MachineLearning, r/artificial, Product Hunt, GitHub Trending, X/Twitter community signals
+**Top items:** Cursor 3 (parallel agents IDE, April 2 launch), GPT-OSS (OpenAI Apache 2.0 open weights, 120B + 20B), Qwen3-Coder 480B (SOTA open coding agent, beats Claude Sonnet on SWE-Bench), Kimi K2 (1T-param MoE, outperforms DeepSeek V3), Cline (59.9K stars, 5M installs, $1M OSS grant), Pluck (UI copy → AI coding tools, fresh Show HN), Dimensional (agentic robotics OS, no ROS, GitHub #3 trending)
+**Note:** Supplements earlier community scan (Apfel, Gemma 4, Claw Code, MAI-Transcribe-1). This scan covers next-tier items with genuine community engagement.
+
 ## [2026-04-06] ingest | Gates Year Ahead 2026 (Telegram)
 
 **Source:** `raw/telegram-2026-04-06-gates-year-ahead-2026.md` (via Telegram brain dump)
