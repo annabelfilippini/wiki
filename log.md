@@ -110,6 +110,13 @@
 - Updated Dataview queries to reference new paths
 **No wikilinks broken** — Obsidian resolves by filename, not path.
 
+## [2026-04-06] scan | Daily AI Briefing
+
+**Output:** `outputs/briefing-daily-ai-2026-04-06.md`
+**Sources scanned:** Hacker News, Reddit (r/LocalLLaMA, r/MachineLearning), TechCrunch, VentureBeat, Skift, Business Travel Magazine, Meta AI Blog, Google DeepMind, PyPI Blog, IDC, humai.blog
+**Top stories:** Llama 4 Scout+Maverick (Meta open-weight MoE multimodal), Claude Mythos 10T parameter leak, Anthropic ends OpenClaw subscription coverage, agentic travel booking vs. loyalty optimization tension, Travel Smarter loyalty platform launch (Wayloft competitor), Microsoft MAI models in Foundry, LiteLLM supply chain attack, Gemini 3.1 Pro benchmarks, OpenAI $122B round / IPO track
+**Kill/Build signals:** Agentic booking = Wayloft positioning opportunity. Llama 4 Maverick = Second Brain architecture upgrade candidate.
+
 ## [2026-04-06] ingest | Gates Year Ahead 2026 (Telegram)
 
 **Source:** `raw/telegram-2026-04-06-gates-year-ahead-2026.md` (via Telegram brain dump)

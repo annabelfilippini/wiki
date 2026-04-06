@@ -108,3 +108,4 @@
 ## Outputs
 
 - [[ai-persona-pattern-deck]] -- **Marp deck.** How Ellis Church and Pikolai use the same AI persona pattern across two businesses. Proven vs. theory, risks, what's next.
+- [[briefing-daily-ai-2026-04-06]] -- **Daily AI Briefing, Apr 6.** Top stories: Llama 4 Maverick release, Claude Mythos leak, Anthropic OpenClaw subscription change, agentic travel booking threat to loyalty optimization, Travel Smarter competitor launch.
