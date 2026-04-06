@@ -154,6 +154,13 @@
 **Top items:** Cursor 3 (parallel agents IDE, April 2 launch), GPT-OSS (OpenAI Apache 2.0 open weights, 120B + 20B), Qwen3-Coder 480B (SOTA open coding agent, beats Claude Sonnet on SWE-Bench), Kimi K2 (1T-param MoE, outperforms DeepSeek V3), Cline (59.9K stars, 5M installs, $1M OSS grant), Pluck (UI copy → AI coding tools, fresh Show HN), Dimensional (agentic robotics OS, no ROS, GitHub #3 trending)
 **Note:** Supplements earlier community scan (Apfel, Gemma 4, Claw Code, MAI-Transcribe-1). This scan covers next-tier items with genuine community engagement.
 
+## [2026-04-06] query | World News Briefing
+
+**Output:** `outputs/briefing-world-news-2026-04-06.md`
+**Sources searched:** Al Jazeera, CNN, NPR, Bloomberg, CNBC, Russia Matters, UN Security Council Report, WHO, Euronews, Earth.org, Tax Foundation, PIIE, Wikipedia (2026 Iran war, 2026 Strait of Hormuz crisis), FinancialContent, FDD, GMA Network, Newsweek, Moscow Times
+**Stories covered:** Iran-US war / Strait of Hormuz deadline; Ukraine Easter escalation; global oil shock + Muscat Protocol partial relief; Gaza ceasefire status; US tariff IEEPA ruling struck down 6-3 (Feb 20); Italy coal phase-out delayed to 2038; WHO World Health Day "Stand with science"; US March jobs report (178K).
+**Note:** Reuters, AP News, BBC blocked to search agent (domain restrictions per Anthropic crawler policy). Coverage sourced from equivalent outlets.
+
 ## [2026-04-06] ingest | Gates Year Ahead 2026 (Telegram)
 
 **Source:** `raw/telegram-2026-04-06-gates-year-ahead-2026.md` (via Telegram brain dump)
