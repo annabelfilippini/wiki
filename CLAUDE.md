@@ -112,16 +112,33 @@ tags:
 
 **File naming:** `telegram-YYYY-MM-DD-kebab-slug.md` (e.g., `telegram-2026-04-06-china-brain-chip.md`). The slug should be 3-5 words describing the content. If multiple brain dumps arrive the same day, each gets its own file.
 
-**After saving to raw/:**
-1. Run the standard ingest workflow (Section 1 above) on the new file.
-2. Reply via Telegram with a short confirmation: what was saved, what wiki pages were created/updated. Keep it under 3 sentences.
-3. If the content conflicts with existing wiki knowledge, mention the conflict in the Telegram reply.
+**After saving to raw/ — LITE MODE (default for all Telegram ingests):**
+
+Lite mode is the default to keep token usage low. Brain dumps land cleanly without burning context on cross-referencing. Deep ingest happens later in batches.
+
+1. Save the raw file in `raw/` using the template above.
+2. Create a SINGLE source summary in `wiki/` mirroring the raw filename (e.g., `wiki/telegram-2026-04-06-china-brain-chip.md`). Include:
+   - Title, date, URL (if any)
+   - Key claims (3-5 bullets)
+   - Add `lite_ingest: true` and `needs_deep_ingest: true` to the frontmatter
+3. Append one line to `log.md`: `YYYY-MM-DD: Lite ingest — telegram-...md`
+4. **DO NOT** read other wiki pages. **DO NOT** update existing pages. **DO NOT** create new entity/concept pages. **DO NOT** update index.md. All of that happens during deep ingest.
+5. Reply via Telegram with a short confirmation: what was saved + "filed for deep ingest later". Keep it under 2 sentences.
+
+**Deep ingest (manual, batched):**
+
+Triggered when Annabel says "deep ingest", "process my dumps", "update the wiki from raw", or similar. Runs the full Section 1 workflow on every wiki/ file with `needs_deep_ingest: true` in its frontmatter. Cross-references, updates pages, creates entity pages, updates index.md, then sets `needs_deep_ingest: false`.
+
+**Override — full ingest on save:**
+
+Annabel can request full ingest at save time by including "deep ingest" or "ingest deeply" in the Telegram message. Otherwise, always default to lite.
 
 **What NOT to do:**
 - Don't reply with just "got it" without saving.
 - Don't summarize the content in chat instead of saving it.
 - Don't skip the frontmatter template.
-- Don't put Telegram content anywhere other than `raw/`.
+- Don't put Telegram content anywhere other than `raw/` (and the source summary in `wiki/`).
+- Don't run deep ingest on Telegram messages by default — it burns tokens unnecessarily.
 
 ### 2. Query
 
@@ -295,18 +312,23 @@ tags: [briefing, <scan_type>]
 
 # Brief Title — YYYY-MM-DD
 
-## Top 5
+## AI Tools, Tech & Advancements
 
-1. **[Headline]** — Why it matters to you specifically. ([Source](url))
-2. **[Headline]** — One sentence on relevance. ([Source](url))
-3. ...
+1. **[Tool/Project Name]** — What it is and why people are talking about it. ([Source](url))
+2. ...
+(3-5 items. Real buzz from YouTube, X, Reddit, HN. Skip vaporware.)
 
-## Watch List
-- Things brewing but not actionable yet. 2-3 items max.
+## AI Industry News & Shifts
 
-## Kill / Build Signal
-- Anything that validates or kills a current idea (Wayloft, Second Brain, Community Engine)
-- If nothing relevant, say "No signal this cycle."
+1. **[Headline]** — What happened and what it means. ([Source](url))
+2. ...
+(3-5 items. Company moves + bigger-picture realizations about AI.)
+
+## World News
+
+1. **[Headline]** — What happened. ([Source](url))
+2. ...
+(3-5 items. Unbiased. Multiple perspectives where relevant.)
 
 ## Raw Sources
 - [Title](url) — one-line note on why it was included

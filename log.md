@@ -161,6 +161,13 @@
 **Stories covered:** Iran-US war / Strait of Hormuz deadline; Ukraine Easter escalation; global oil shock + Muscat Protocol partial relief; Gaza ceasefire status; US tariff IEEPA ruling struck down 6-3 (Feb 20); Italy coal phase-out delayed to 2038; WHO World Health Day "Stand with science"; US March jobs report (178K).
 **Note:** Reuters, AP News, BBC blocked to search agent (domain restrictions per Anthropic crawler policy). Coverage sourced from equivalent outlets.
 
+## [2026-04-06] ingest | Fashion Finder Agent Idea (Telegram)
+
+**Source:** `raw/telegram-2026-04-06-fashion-finder-idea.md` (via Telegram brain dump, with photo)
+**Source summary created:** [[telegram-fashion-finder-idea]]
+**Pages updated:** [[apple-notes-ai-ideas]] (linked refined fashion AI concept)
+**Summary:** Photo-to-shopping agent idea: snap a photo of an outfit, AI identifies each item, returns shopping links. Concrete evolution of the earlier "fashion/closet AI" idea from Apple Notes. Agent architecture aligns with current builder trajectory. Key tech requirements: computer vision (item segmentation), product search API, affiliate revenue model.
+
 ## [2026-04-06] ingest | Gates Year Ahead 2026 (Telegram)
 
 **Source:** `raw/telegram-2026-04-06-gates-year-ahead-2026.md` (via Telegram brain dump)

@@ -3,6 +3,7 @@ title: "Apple Notes: AI Ideas"
 type: source
 created: 2026-04-06
 updated: 2026-04-06
+sources: []
 author: Annabel Filippini
 date:
 url:
@@ -21,3 +22,5 @@ tags: [apple-notes, ai, business-ideas]
 
 ## New Information
 Product idea brainstorming. The vibe coding agency idea is the most developed and connects to current AI builder trajectory. See [[ai-tools-and-frameworks]].
+
+**Update (2026-04-06):** The fashion AI idea got a more concrete articulation via Telegram: photo-in → shopping-links-out agent. See [[telegram-fashion-finder-idea]] for the refined version with computer vision + product search.

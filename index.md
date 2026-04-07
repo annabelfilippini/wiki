@@ -86,6 +86,7 @@
 
 ### Telegram Ingests
 - [[gates-year-ahead-2026]] -- Bill Gates' 2026 outlook: child mortality reversal, AI trajectory, Horizon1000, climate progress
+- [[telegram-fashion-finder-idea]] -- Photo-to-shopping agent: snap outfit photo, AI finds all the clothes. Builds on fashion AI from apple-notes.
 
 ### Apple Notes (batch ingest, Apr 6)
 - [[apple-notes-ai-ideas]] -- Product ideas: fashion AI, job tracker, vibe coding agency
