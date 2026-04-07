@@ -57,5 +57,9 @@ status: open
 project: personal
 priority: low
 ---
-This is an example entry. Delete me when the first real to-do arrives.
--->
+- nail appointment 
+- book hair appointment for graduation 
+- google reviews from telegram 
+- do music assignment 
+- finish individul assignment 
+- practice guitar 
