@@ -168,3 +168,9 @@
 **Source summary created:** [[gates-year-ahead-2026]]
 **Pages updated:** [[ai-tools-and-frameworks]] (added Gates' macro view on AI trajectory)
 **Summary:** Bill Gates' annual outlook essay (Jan 9, 2026). Key signal: child deaths under 5 rose for first time this century (4.6M→4.8M in 2025). Gates frames AI as the most transformative thing humans have ever created, with no intelligence ceiling. Two immediate risks: bioterrorism via open-source AI and job market disruption. Horizon1000 initiative (Gates Foundation + OpenAI, $50M) deploying AI in 1,000 African healthcare clinics by 2028. Also covers climate (40% emissions reduction in last decade) and education (personalized learning via AI).
+
+## [2026-04-07] briefing | Morning Briefing — 2026-04-07
+
+**Output:** `outputs/briefing-daily-ai-2026-04-07.md`
+**Sections:** AI Tools, Tech & Advancements | AI Industry News & Shifts | World News
+**Top stories:** Apfel (Apple on-device LLM CLI, HN 513pts), Qwen 3.5-9B on M4 Air (LocalLLaMA 1159 upvotes), Gemma 4 edge (sub-1.5GB, Raspberry Pi 5), MCP at 97M installs (Linux Foundation AAIF), llamafile resurgence; OpenAI/Anthropic/Google unite against Chinese distillation, Anthropic revenue $9B→$30B annualized + multi-GW compute deal, Goldman Sachs 16K AI jobs/month cut (Gen Z worst hit), AI skills power law widening; Iran war Day 38 (ceasefire rejected, Trump deadline), US pharma tariffs up to 100% (10.2% avg effective rate), Artemis II distance record, Vietnam To Lam elected president, NK daughter as heir signal.
