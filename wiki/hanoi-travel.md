@@ -3,8 +3,8 @@ title: Hanoi
 type: entity
 created: 2026-04-06
 updated: 2026-04-06
-sources: [apple-notes-hanoi-itinerary]
-tags: [travel, vietnam, apple-notes]
+sources: []
+tags: [travel, vietnam]
 missing_links: []
 ---
 

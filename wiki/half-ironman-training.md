@@ -3,8 +3,8 @@ title: Half Ironman Training
 type: concept
 created: 2026-04-06
 updated: 2026-04-06
-sources: [apple-notes-iron-man]
-tags: [endurance, triathlon, apple-notes]
+sources: []
+tags: [endurance, triathlon]
 missing_links: []
 ---
 

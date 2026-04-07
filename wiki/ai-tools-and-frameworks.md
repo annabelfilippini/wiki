@@ -4,8 +4,8 @@ type: concept
 created: 2026-04-06
 updated: 2026-04-06
 
-sources: [apple-notes-ai-ideas, apple-notes-ai-stuff, apple-notes-ai-video-notes, ami-labs-funding, gates-year-ahead-2026]
-tags: [ai, tools, apple-notes]
+sources: [ami-labs-funding, gates-year-ahead-2026]
+tags: [ai, tools]
 missing_links: []
 ---
 

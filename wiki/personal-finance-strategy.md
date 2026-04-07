@@ -3,8 +3,8 @@ title: Personal Finance Strategy
 type: concept
 created: 2026-04-06
 updated: 2026-04-06
-sources: [apple-notes-financial-meeting]
-tags: [finance, personal, apple-notes]
+sources: []
+tags: [finance, personal]
 missing_links: []
 ---
 

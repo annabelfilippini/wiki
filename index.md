@@ -31,6 +31,9 @@
 
 ### AI & Tech Knowledge
 - [[ai-tools-and-frameworks]] -- Agent architecture, four powers framework, tool inventory, agentic revolution timeline.
+- [[rag]] -- Retrieval-Augmented Generation. Grounding LLM answers in external knowledge. The pattern llm-wiki is built on.
+- [[bb-agent-system]] -- Annabel's co-founder agent system: 7 specialist agents + self-improving decision loop.
+- [[validate-before-redesigning]] -- BB decision pattern: before any redesign, prove the current version is the problem.
 - [[world-models]] -- AI systems that simulate physical environments. Emerging paradigm beyond LLMs.
 - [[ami-labs]] -- $1.03B world models company. Yann LeCun (Chairman), Alexandre LeBrun (CEO).
 - [[yann-lecun]] -- Turing Award winner, Meta Chief AI Scientist, AMI Labs Executive Chairman.
@@ -86,25 +89,7 @@
 
 ### Telegram Ingests
 - [[gates-year-ahead-2026]] -- Bill Gates' 2026 outlook: child mortality reversal, AI trajectory, Horizon1000, climate progress
-- [[telegram-fashion-finder-idea]] -- Photo-to-shopping agent: snap outfit photo, AI finds all the clothes. Builds on fashion AI from apple-notes.
-
-### Apple Notes (batch ingest, Apr 6)
-- [[apple-notes-ai-ideas]] -- Product ideas: fashion AI, job tracker, vibe coding agency
-- [[apple-notes-ai-stuff]] -- Agent architecture, tool inventory, Google CEO agentic timeline
-- [[apple-notes-ai-video-notes]] -- Four powers framework: build, automate, create, connect
-- [[apple-notes-business]] -- UMich Power BI course: ETL, DAX, Gestalt, data storytelling
-- [[apple-notes-pickleball-portal]] -- Pro interview: paddle specs, USA Pickleball guidelines, brand rep
-- [[apple-notes-wl-notes]] -- Wayloft UX bugs, "ambient businesses" goal, gstack workflow
-- [[apple-notes-go-bot]] -- Dev workflow, terminal shortcuts, central truth doc pattern (creds redacted)
-- [[apple-notes-financial-meeting]] -- Personal finance framework: Chase/Fidelity/Credit Karma
-- [[apple-notes-australia]] -- Bondi Beach restaurants, work leads, UNSW study abroad
-- [[apple-notes-hanoi-itinerary]] -- Hanoi: Train Street, Note Cafe, egg coffee, temples
-- [[apple-notes-puerto-rico]] -- WWOOF farm trip, $670/person budget, Gozalandia Falls
-- [[apple-notes-travel-india]] -- Delhi to Hampi, Pushkar Camel Festival, transport tips
-- [[apple-notes-california]] -- Berkeley/Marin guide: trails, coffee, surfing, Alameda flea market
-- [[apple-notes-california-living]] -- SF neighborhood scouting: Pacific Heights + Marina top picks
-- [[apple-notes-iron-man]] -- Half Ironman: brick workouts, tri bike fitting, gel nutrition
-- [[apple-notes-lucy-training]] -- 6-week beginner running program, progressive overload
+- [[telegram-fashion-finder-idea]] -- Photo-to-shopping agent: snap outfit photo, AI finds all the clothes.
 
 ## Outputs
 

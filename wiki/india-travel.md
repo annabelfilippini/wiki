@@ -3,8 +3,8 @@ title: India
 type: entity
 created: 2026-04-06
 updated: 2026-04-06
-sources: [apple-notes-travel-india]
-tags: [travel, india, apple-notes]
+sources: []
+tags: [travel, india]
 missing_links: []
 ---
 

@@ -3,8 +3,8 @@ title: San Francisco Neighborhoods
 type: entity
 created: 2026-04-06
 updated: 2026-04-06
-sources: [apple-notes-california-living]
-tags: [san-francisco, okta, housing, apple-notes]
+sources: []
+tags: [san-francisco, okta, housing]
 missing_links: []
 ---
 

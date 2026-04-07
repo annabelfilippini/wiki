@@ -3,8 +3,8 @@ title: Power BI
 type: concept
 created: 2026-04-06
 updated: 2026-04-06
-sources: [apple-notes-business]
-tags: [data-analytics, tools, apple-notes]
+sources: []
+tags: [data-analytics, tools]
 missing_links: []
 ---
 

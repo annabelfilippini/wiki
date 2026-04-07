@@ -3,8 +3,8 @@ title: Puerto Rico
 type: entity
 created: 2026-04-06
 updated: 2026-04-06
-sources: [apple-notes-puerto-rico]
-tags: [travel, puerto-rico, apple-notes]
+sources: []
+tags: [travel, puerto-rico]
 missing_links: []
 ---
 

@@ -3,8 +3,8 @@ title: California Guide
 type: entity
 created: 2026-04-06
 updated: 2026-04-06
-sources: [apple-notes-california]
-tags: [california, travel, san-francisco, apple-notes]
+sources: []
+tags: [california, travel, san-francisco]
 missing_links: []
 ---
 

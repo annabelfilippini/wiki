@@ -3,8 +3,8 @@ title: Beginner Running Program
 type: concept
 created: 2026-04-06
 updated: 2026-04-06
-sources: [apple-notes-lucy-training]
-tags: [endurance, running, coaching, apple-notes]
+sources: []
+tags: [endurance, running, coaching]
 missing_links: []
 ---
 

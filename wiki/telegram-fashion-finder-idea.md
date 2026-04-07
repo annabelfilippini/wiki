@@ -26,9 +26,8 @@ tags: [telegram, product-idea, fashion, ai-agent, computer-vision]
 Street style: cream oversized sweatshirt, navy wide-leg trousers, brown mules/clogs, Goyard-style tote bag.
 
 ## New Information
-Builds on the earlier "fashion/closet AI" idea from [[apple-notes-ai-ideas]] — that version focused on wardrobe gap analysis and budget constraints. This version is more concrete: photo-in, shopping-links-out. The agent framing (vs. app framing) is notable — aligns with Annabel's current agent-building trajectory.
+A concrete evolution of earlier fashion/closet AI thinking: photo-in, shopping-links-out. The agent framing (vs. app framing) is notable — aligns with Annabel's current agent-building trajectory.
 
 ## Connections
-- Prior art: [[apple-notes-ai-ideas]] (fashion AI with budget constraints)
 - Pattern: same agent architecture as [[ellis-church]] (AI does the heavy lifting, user steers)
 - Tech stack: would need computer vision (item segmentation), product search API, and affiliate links ([[affiliate-revenue-model]])
