@@ -176,6 +176,39 @@
 **Pages updated:** [[ai-tools-and-frameworks]] (added Gates' macro view on AI trajectory)
 **Summary:** Bill Gates' annual outlook essay (Jan 9, 2026). Key signal: child deaths under 5 rose for first time this century (4.6M→4.8M in 2025). Gates frames AI as the most transformative thing humans have ever created, with no intelligence ceiling. Two immediate risks: bioterrorism via open-source AI and job market disruption. Horizon1000 initiative (Gates Foundation + OpenAI, $50M) deploying AI in 1,000 African healthcare clinics by 2028. Also covers climate (40% emissions reduction in last decade) and education (personalized learning via AI).
 
+## [2026-04-08] query | World News Briefing — Apr 8
+
+**Output:** `outputs/briefing-world-news-2026-04-08.md`
+**Sources searched:** Al Jazeera, Bloomberg, CNBC, NBC News, PBS NewsHour, CBS News, ABC News, CNN, NPR, VietnamNet, VietnamPlus, US State Dept, WHO, PAHO, FDD, UNITED24 Media, SCOTUSblog, Tax Foundation. Reuters/AP/BBC blocked (Anthropic crawler policy).
+**Stories covered:** US-Iran ceasefire (2-week truce, Pakistan-brokered, Hormuz reopens, Iran declares victory); global markets (oil -14-19%, Dow futures +1000pts, Brent below $100); Ukraine talks stalled (Lavrov rejects draft, Iran war displacing US attention); Gaza ceasefire strained (Hamas rejects Phase 2 disarmament, 139 violations since October); IEEPA tariffs struck down Feb 20 / Section 122 replacement (10.7% effective rate, $1,500/household); Vietnam elects Le Minh Hung PM unanimously; WHO World Health Day "Stand with Science" (dengue record, vaccine trust drop); Iran war spillover (50K Russian tourists stranded, Zelenskyy air defense warning).
+
+## [2026-04-08] scan | AI Industry Scan — Apr 7–8, Two-Layer
+
+**Output:** `outputs/briefing-industry-scan-2026-04-07-08.md`
+**Sources scanned:** TechCrunch, CNBC, Bloomberg, Fortune, Japan Times, The Decoder, Simon Willison, Daring Fireball, CNN Politics, The Conversation, USC Dornsife, Yahoo Finance, Tech Insider
+**Layer 1 — Company moves:**
+- Anthropic releases Claude Mythos preview via Project Glasswing — zero-day vuln discovery, restricted to 40 orgs, not going public
+- OpenAI + Anthropic + Google formalize China distillation alliance via Frontier Model Forum; 16M documented extraction attempts, 24K fake accounts caught
+- OpenAI publishes "Industrial Policy for the Intelligence Age" — robot tax, public wealth fund, 4-day workweek proposals
+- OpenAI superapp: ChatGPT + Codex + Atlas merge announced; Brockman leading product overhaul
+- Broadcom signs 3.5GW compute deal with Anthropic (via Google AI processors)
+**Layer 2 — Bigger picture:**
+- AI deepfakes are now official midterm campaign strategy — 5 confirmed incidents, no federal law, 50% of voters influenced
+- AI-attributed layoffs hit 25% of Q1 tech cuts; Oracle's 20–30K reduction is the clearest substitution-for-GPUs case yet
+- Cultural homogenization research: AI outputs converging on generic familiar themes regardless of starting diversity
+
+## [2026-04-08] scan | AI Buzz Scan — Community Pulse
+
+**Output:** `outputs/ai-buzz-scan-2026-04-08.md`
+**Sources scanned:** r/LocalLLaMA, r/MachineLearning, r/artificial, r/ChatGPT, Hacker News, GitHub Trending, X/Twitter, Product Hunt
+**Top items:** Claude Sonnet 5 (92.4% SWE-bench, 88.3% OSWorld — Opus-tier performance at Sonnet pricing), Claw Code (Claude Code npm leak → clean-room Rust/Python rewrite, 100K stars in 24h, fastest GitHub repo in history), Gemma 4 (Apache 2.0, #3 open model globally on Arena AI, community "not finished" concerns), Qwen 3.6 Plus (1M context, closed-source controversy), Llama 4 Scout/Maverick (benchmark manipulation claims, LocalLLaMA backlash over MoE memory requirements), oh-my-codex (Codex CLI orchestration layer, 2867 stars, MIT), MCP at 97M installs (foundational infrastructure, 2300+ servers), Nemotron 3 Super (120B/12B active, 5x throughput, enterprise agentic inference)
+
+## [2026-04-08] briefing | Morning Briefing — 2026-04-08
+
+**Output:** `outputs/briefing-daily-ai-2026-04-08.md`
+**Sections:** AI Tools, Tech & Advancements | AI Industry News & Shifts | World News
+**Top stories:** Claude Sonnet 5 (92.4% SWE-bench, Opus-tier at Sonnet pricing), Claw Code (clean-room rewrite of leaked Claude Code source, 100K stars in 24h), Llama 4 community backlash (benchmark manipulation claims, MoE memory reqs), oh-my-codex (multi-agent Codex CLI orchestration, MIT), MCP at 97M installs; Anthropic Project Glasswing (Claude Mythos — too dangerous to release, restricted to 40 orgs for zero-day vuln hunting), GPT-5.4 native computer use (75% OSWorld, matches human baseline), OpenAI/Anthropic/Google coalition against Chinese adversarial distillation, Q1 AI layoffs 52K globally (+40% YoY); Iran two-week ceasefire (Trump announces pause, oil -16%, stocks +2.5%), Ukraine energy ceasefire proposal + Ust-Luga oil terminal struck, US tariffs at 11% effective rate (highest since 1943), Russia-Ukraine Geneva peace talks collapse.
+
 ## [2026-04-07] briefing | Morning Briefing — 2026-04-07
 
 **Output:** `outputs/briefing-daily-ai-2026-04-07.md`
