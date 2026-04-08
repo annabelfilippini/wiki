@@ -71,6 +71,19 @@ Past killed ideas worth remembering live at the bottom of this file as reference
 ## Entries
 
 ---
+id: idea-2026-04-08-004
+added: 2026-04-08
+source: telegram
+status: open
+pain: _TBD_
+wedge: _TBD_
+why_now: _TBD_
+---
+#idea when i take a pic of someones outfit google image search can tell me where everything is from
+
+[Source: raw/telegram-2026-04-08-idea-when-i-take-a-pic.md]
+
+---
 id: idea-2026-04-08-003
 added: 2026-04-08
 source: telegram
