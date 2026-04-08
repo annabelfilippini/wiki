@@ -47,19 +47,12 @@ Why it matters (optional — only if not self-evident).
 ## Entries
 
 <!-- New entries go here, directly below this line. Oldest at bottom. -->
-
-<!-- Example (delete once first real entry lands):
----
-id: todo-2026-04-07-001
-added: 2026-04-07
-source: manual
-status: open
-project: personal
-priority: low
----
-- nail appointment 
-- book hair appointment for graduation 
-- google reviews from telegram 
-- do music assignment 
-- finish individul assignment 
-- practice guitar 
+ 
+- Investigate raw/apple-notes-archive deletion in wiki working tree                                                                                                               
+  - Send Cooldown AI consulting pitch (or kill the idea)                                                                                                                            
+  - nail appointment                       
+  - book hair appointment for graduation                                                                                                                                            
+  - google reviews from telegram                                                                                                                                                    
+  - do music assignment              
+  - finish individual assignment                                                                                                                                                    
+  - practice guitar
