@@ -197,11 +197,51 @@
 - AI-attributed layoffs hit 25% of Q1 tech cuts; Oracle's 20–30K reduction is the clearest substitution-for-GPUs case yet
 - Cultural homogenization research: AI outputs converging on generic familiar themes regardless of starting diversity
 
+## [2026-04-08] ingest-batch | YouTube knx2wrILP1M duplicates (3 files) — Marc Andreessen title recovered
+
+**Sources processed:**
+- `raw/youtube-2026-04-08-httpswwwyoutubecomwatchvknx2wrilp1m-2.md` — duplicate, no new content
+- `raw/youtube-2026-04-08-marc-andreessen-introspects-on-death-of.md` — **title + channel recovered**
+- `raw/youtube-2026-04-08-youtube-video-knx2wrilp1m.md` — duplicate, no new content
+
+**Pages updated:** [[youtube-2026-04-08-knx2wrilp1m]] — upgraded stub with real title ("Marc Andreessen introspects on Death of the Browser, Pi + OpenClaw, and Why 'This Time Is Different'"), channel (Latent Space), guest (Marc Andreessen), and topic-level analysis derived from the title alone. Tags expanded. Transcript still unavailable (YouTube blocks datacenter-IP fetches).
+
+**Pages created:** none (no transcript → no content to support a new [[marc-andreessen]] entity page yet).
+
+**Key signal:** Second external high-credibility mention of [[open-claw]] in 24 hours. First was [[matei-zaharia]]'s "security nightmare" quote on 2026-04-08; second is Marc Andreessen publicly pairing "Pi + OpenClaw" in a Latent Space interview. Two founder/Turing-tier voices naming OpenClaw in the same day is a signal worth flagging — tracked in [[youtube-2026-04-08-knx2wrilp1m]] and the next briefing. Needs transcript recovery for deep ingest.
+
+**Housekeeping:** The three duplicate raw files are left as-is per the immutable-raw rule. Deep ingest deferred until transcript is available (residential IP fetch, paste, or manual summary).
+
 ## [2026-04-08] scan | AI Buzz Scan — Community Pulse
 
 **Output:** `outputs/ai-buzz-scan-2026-04-08.md`
 **Sources scanned:** r/LocalLLaMA, r/MachineLearning, r/artificial, r/ChatGPT, Hacker News, GitHub Trending, X/Twitter, Product Hunt
 **Top items:** Claude Sonnet 5 (92.4% SWE-bench, 88.3% OSWorld — Opus-tier performance at Sonnet pricing), Claw Code (Claude Code npm leak → clean-room Rust/Python rewrite, 100K stars in 24h, fastest GitHub repo in history), Gemma 4 (Apache 2.0, #3 open model globally on Arena AI, community "not finished" concerns), Qwen 3.6 Plus (1M context, closed-source controversy), Llama 4 Scout/Maverick (benchmark manipulation claims, LocalLLaMA backlash over MoE memory requirements), oh-my-codex (Codex CLI orchestration layer, 2867 stars, MIT), MCP at 97M installs (foundational infrastructure, 2300+ servers), Nemotron 3 Super (120B/12B active, 5x throughput, enterprise agentic inference)
+
+## [2026-04-08] ingest-batch | Auto-ingest of 6 raw/ files
+
+**Sources processed:**
+- `raw/article-2026-04-08-databricks-co-founder-wins-prestigious-acm-award.md` — TechCrunch article (substantive)
+- `raw/telegram-2026-04-08-idea-fashion-finder-app-for-tiktok.md` — lite ingest (already routed to `outputs/business-ideas.md` as idea-2026-04-08-001)
+- `raw/telegram-2026-04-08-todo-call-dentist-tomorrow.md` — lite ingest (already routed to `outputs/todos.md` as todo-2026-04-08-001)
+- `raw/telegram-2026-04-08-start.md` — **skipped** (Telegram `/start` bot command, no content)
+- `raw/tweet-2026-04-08-httpsxcomfarzatvstatus1910789505722036357.md` — stub (X WebFetch returns 402)
+- `raw/youtube-2026-04-08-httpswwwyoutubecomwatchvknx2wrilp1m.md` — stub (no description, no transcript)
+
+**Source summaries created:**
+- [[article-2026-04-08-databricks-co-founder-wins-prestigious-acm-award]] — full
+- [[telegram-2026-04-08-idea-fashion-finder-app-for-tiktok]] — lite
+- [[telegram-2026-04-08-todo-call-dentist-tomorrow]] — lite (mirror only)
+- [[tweet-2026-04-08-farzatv-1910789505722036357]] — stub
+- [[youtube-2026-04-08-knx2wrilp1m]] — stub
+
+**Entity pages created:** [[matei-zaharia]], [[databricks]], [[apache-spark]]
+
+**Pages updated:** [[open-claw]] — added "Security Concern (External Validation — Apr 8)" section with Zaharia's "security nightmare" quote, linked the TechCrunch article as a new source, added a security-model open question.
+
+**Key signal:** First external high-credibility professional validation of the [[open-claw]] security concern. Zaharia (Databricks CTO, 2026 ACM Prize) uses the exact phrase "security nightmare" that Annabel used in her own brain dump. This elevates the concern from vibes to first-order design tension.
+
+**Note:** Two other YouTube duplicates of the same video ID (`knx2wrILP1M`) exist in `raw/` but weren't in the hook's unprocessed list. Flagged for a future dedup pass in the [[youtube-2026-04-08-knx2wrilp1m]] stub body.
 
 ## [2026-04-08] briefing | Morning Briefing — 2026-04-08
 

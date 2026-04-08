@@ -37,6 +37,9 @@
 - [[world-models]] -- AI systems that simulate physical environments. Emerging paradigm beyond LLMs.
 - [[ami-labs]] -- $1.03B world models company. Yann LeCun (Chairman), Alexandre LeBrun (CEO).
 - [[yann-lecun]] -- Turing Award winner, Meta Chief AI Scientist, AMI Labs Executive Chairman.
+- [[matei-zaharia]] -- Databricks co-founder/CTO, Spark creator, 2026 ACM Prize winner. "AGI is here already."
+- [[databricks]] -- $134B data + AI platform company. Built on Apache Spark.
+- [[apache-spark]] -- Open-source big-data compute engine. Zaharia's 2009 Berkeley PhD. Lineage layer under Databricks.
 - [[power-bi]] -- Power BI workflow, DAX, data modeling, Gestalt principles, data storytelling.
 
 ### Life & Career
@@ -92,6 +95,11 @@
 ### Telegram Ingests
 - [[gates-year-ahead-2026]] -- Bill Gates' 2026 outlook: child mortality reversal, AI trajectory, Horizon1000, climate progress
 - [[telegram-fashion-finder-idea]] -- Photo-to-shopping agent: snap outfit photo, AI finds all the clothes.
+- [[telegram-2026-04-08-idea-fashion-finder-app-for-tiktok]] -- Fashion finder, narrowed to TikTok hauls as the wedge. Second dump of the concept.
+- [[telegram-2026-04-08-todo-call-dentist-tomorrow]] -- Personal todo mirror (routed to todos.md).
+- [[article-2026-04-08-databricks-co-founder-wins-prestigious-acm-award]] -- TechCrunch Apr 8: Matei Zaharia wins ACM Prize. AGI-is-already-here take, OpenClaw security nightmare quote, research-AI as killer app.
+- [[tweet-2026-04-08-farzatv-1910789505722036357]] -- Tweet stub (content unretrievable — X paywall).
+- [[youtube-2026-04-08-knx2wrilp1m]] -- **Marc Andreessen on Latent Space.** "Death of the Browser, Pi + OpenClaw, Why This Time Is Different." Title/channel recovered; transcript still pending. Second founder-tier OpenClaw mention in 24h (after Zaharia).
 
 ## Outputs
 
