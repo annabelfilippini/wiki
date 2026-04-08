@@ -71,6 +71,19 @@ Past killed ideas worth remembering live at the bottom of this file as reference
 ## Entries
 
 ---
+id: idea-2026-04-08-002
+added: 2026-04-08
+source: telegram
+status: open
+pain: _TBD_
+wedge: _TBD_
+why_now: _TBD_
+---
+#idea https://techcrunch.com/2026/04/08/databricks-matei-zaharia-acm-award/
+
+[Source: raw/article-2026-04-08-httpstechcrunchcom20260408databricks-matei-zaharia-acm-award.md]
+
+---
 id: idea-2026-04-08-001
 added: 2026-04-08
 source: telegram
