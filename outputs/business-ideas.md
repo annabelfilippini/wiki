@@ -71,6 +71,19 @@ Past killed ideas worth remembering live at the bottom of this file as reference
 ## Entries
 
 ---
+id: idea-2026-04-08-003
+added: 2026-04-08
+source: telegram
+status: open
+pain: _TBD_
+wedge: _TBD_
+why_now: _TBD_
+---
+#idea https://techcrunch.com/2026/04/08/this-is-a-fake-article-that-does-not-exist/
+
+[Source: raw/article-2026-04-08-techcrunch-this-is-a-fake-article.md]
+
+---
 id: idea-2026-04-08-002
 added: 2026-04-08
 source: telegram
