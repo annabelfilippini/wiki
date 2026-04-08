@@ -113,14 +113,21 @@ why_now: _TBD_
 id: idea-2026-04-08-001
 added: 2026-04-08
 source: telegram
-status: open
-pain: _TBD_
-wedge: _TBD_
-why_now: _TBD_
+status: hold
+stage: office-hours-done
+phase: 1
+tags: [fashion, reverse-image-search, consumer, anti-gatekeeping]
+bb_file: ideas/idea-2026-04-08-001-fashion-finder.md
+related_ideas: [idea-2026-04-08-004]
+canonical_user: Elsie Ratner
+committed_wedge: browser-extension-first
 ---
-#idea fashion finder app for tiktok hauls
+## Fashion Finder — anti-gatekeeping visual search for college-aged women
+
+Phase 1 (office-hours) complete. Canonical user: Elsie Ratner (U Mich, sorority). Committed wedge: browser extension first, phone camera app as v2. **HELD** for field data (Elsie observation + sister texts + sorority ask) before advancing to CEO review.
 
 [Source: raw/telegram-2026-04-08-idea-fashion-finder-app-for-tiktok.md]
+[BB working file: [[ideas/idea-2026-04-08-001-fashion-finder]]]
 
 <!-- New entries go here, directly below this line. Oldest at bottom. -->
 
