@@ -50,15 +50,14 @@ Why it matters (optional — only if not self-evident).
 id: todo-2026-04-08-002
 added: 2026-04-08
 source: session
-status: open
+status: done
+closed: 2026-04-08
 project: wiki
 priority: low
 ---
 Wiki hygiene: reconcile two naming schemas for source summaries.
 
-Legacy pages use semantic names (`wiki/ami-labs-funding.md`, `wiki/gates-year-ahead-2026.md`, `wiki/telegram-fashion-finder-idea.md`, `wiki/youtube-2026-04-08-knx2wrilp1m.md`); new schema per wiki/CLAUDE.md uses mirror names (`wiki/<raw-filename>.md`). Stage 2 (`/deep-ingest`) only sees mirror-named coverage, so legacy raw files will appear "unprocessed" forever. Options: rename legacy summaries to mirror convention + update inbound wikilinks (clean), or teach `/deep-ingest` to also check `sources:` frontmatter across all wiki pages (accommodate). Decide and execute.
-
-Affected raw files currently stuck in "unprocessed" limbo: `telegram-2026-04-06-ami-labs-world-models`, `telegram-2026-04-06-fashion-finder-idea`, `telegram-2026-04-06-gates-year-ahead-2026`, `youtube-2026-04-08-marc-andreessen-introspects-on-death-of` (the Andreessen one is partially covered — transcript still pending).
+Legacy pages used semantic names; new schema per wiki/CLAUDE.md uses mirror names (`wiki/<raw-filename>.md`). Chose the clean option: renamed 4 legacy summaries to mirror convention via `git mv`, updated 7 inbound wikilinks across 4 files, updated 4 `sources:` frontmatter lines across 3 entity/concept pages, deleted the FarzaTV tweet stub pair + trivial `/start` file. See log.md entry "Legacy naming reconciliation" for the full breakdown.
 
 ---
 id: todo-2026-04-08-001

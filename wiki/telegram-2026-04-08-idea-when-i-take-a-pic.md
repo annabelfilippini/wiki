@@ -13,9 +13,9 @@ tags: [telegram, product-idea, fashion, ai-agent, google-lens, wedge]
 # Fashion Finder — Google Image Search as the Primitive
 
 ## Key Takeaways
-- **Third iteration** of the [[telegram-fashion-finder-idea|fashion finder]] concept, this time with an explicit **implementation primitive**: Google Image Search (Lens) already does the hard part for free.
+- **Third iteration** of the [[telegram-2026-04-06-fashion-finder-idea|fashion finder]] concept, this time with an explicit **implementation primitive**: Google Image Search (Lens) already does the hard part for free.
 - The insight is a technology hypothesis: you don't need to train a computer vision model or build item segmentation from scratch. Google Lens already identifies clothing, handbags, and shoes with reasonable accuracy. The product is the *agent workflow around it*, not the CV model.
-- Reopens the "photo of someone in the wild" framing (Apr 6, [[telegram-fashion-finder-idea]]) after the Apr 8 narrowing to TikTok hauls ([[telegram-2026-04-08-idea-fashion-finder-app-for-tiktok]]). The primitive-first framing is orthogonal to the wedge question — any wedge can use this primitive.
+- Reopens the "photo of someone in the wild" framing (Apr 6, [[telegram-2026-04-06-fashion-finder-idea]]) after the Apr 8 narrowing to TikTok hauls ([[telegram-2026-04-08-idea-fashion-finder-app-for-tiktok]]). The primitive-first framing is orthogonal to the wedge question — any wedge can use this primitive.
 - Routed to `outputs/business-ideas.md` as `idea-2026-04-08-004`.
 
 ## New Information
@@ -32,7 +32,7 @@ What this iteration adds that neither prior brain dump had:
 - **Competitive moat:** if Google Lens is the primitive, why hasn't Google shipped this as a feature? Answer candidates: (a) they have, half-built, in Lens app; (b) affiliate conflicts with Shopping Ads; (c) no one has made it a consumer product yet, just a reverse-image feature.
 
 ## Connections
-- [[telegram-fashion-finder-idea]] — iteration 1 (Apr 6): the want
+- [[telegram-2026-04-06-fashion-finder-idea]] — iteration 1 (Apr 6): the want
 - [[telegram-2026-04-08-idea-fashion-finder-app-for-tiktok]] — iteration 2 (Apr 8): the wedge
 - [[affiliate-revenue-model]] — monetization via affiliate links
 - [[ai-persona-model]] — agent architecture pattern (agent does the work, user steers)

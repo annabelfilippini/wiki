@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-06
 updated: 2026-04-06
 
-sources: [ami-labs-funding, gates-year-ahead-2026]
+sources: [telegram-2026-04-06-ami-labs-world-models, telegram-2026-04-06-gates-year-ahead-2026]
 tags: [ai, tools]
 missing_links: []
 ---
@@ -75,7 +75,7 @@ Beyond LLMs, [[world-models]] represent a distinct AI direction — systems that
 
 ## Gates' View: AI Trajectory (Jan 2026)
 
-Bill Gates' "Year Ahead 2026" ([[gates-year-ahead-2026]]) adds a macro perspective:
+Bill Gates' "Year Ahead 2026" ([[telegram-2026-04-06-gates-year-ahead-2026]]) adds a macro perspective:
 - "AI will change society the most of anything humans have ever created"
 - No upper limit on AI intelligence; will exceed human levels without plateauing
 - AI already makes software devs 2x more efficient, creating "demand elasticity for code"
@@ -89,4 +89,4 @@ Bill Gates' "Year Ahead 2026" ([[gates-year-ahead-2026]]) adds a macro perspecti
 - [[ai-persona-model]] -- the cross-cutting pattern across both businesses
 - [[world-models]] -- emerging paradigm beyond LLMs
 - [[ami-labs]] -- $1.03B world models company
-- [[gates-year-ahead-2026]] -- Gates' macro view on AI trajectory and societal impact
+- [[telegram-2026-04-06-gates-year-ahead-2026]] -- Gates' macro view on AI trajectory and societal impact

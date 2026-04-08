@@ -90,17 +90,16 @@
 - [[china-approves-brain-chip]] -- Nature, Mar 2026: first BCI approved outside clinical trials (China)
 - [[notes-thoughts]] -- Personal brainstorm: autonomous business system vision, 7-layer architecture
 - [[note-2026-04-06-openclaw-freedom-brain-dump]] -- Brain dump: Obsidian/OpenClaw split, FREEDOM as north star, pre-Okta infrastructure window
-- [[ami-labs-funding]] -- TechCrunch, Mar 2026: AMI Labs $1.03B raise for world models, LeCun as Chairman
+- [[telegram-2026-04-06-ami-labs-world-models]] -- TechCrunch, Mar 2026: AMI Labs $1.03B raise for world models, LeCun as Chairman
 
 ### Telegram Ingests
-- [[gates-year-ahead-2026]] -- Bill Gates' 2026 outlook: child mortality reversal, AI trajectory, Horizon1000, climate progress
-- [[telegram-fashion-finder-idea]] -- Photo-to-shopping agent: snap outfit photo, AI finds all the clothes. (Iteration 1)
+- [[telegram-2026-04-06-gates-year-ahead-2026]] -- Bill Gates' 2026 outlook: child mortality reversal, AI trajectory, Horizon1000, climate progress
+- [[telegram-2026-04-06-fashion-finder-idea]] -- Photo-to-shopping agent: snap outfit photo, AI finds all the clothes. (Iteration 1)
 - [[telegram-2026-04-08-idea-fashion-finder-app-for-tiktok]] -- Fashion finder, narrowed to TikTok hauls as the wedge. (Iteration 2)
 - [[telegram-2026-04-08-idea-when-i-take-a-pic]] -- Fashion finder, Google Image Search / Lens as the implementation primitive. Third iteration — tech hypothesis, not a wedge change. (Iteration 3)
 - [[telegram-2026-04-08-todo-call-dentist-tomorrow]] -- Personal todo mirror (routed to todos.md).
 - [[article-2026-04-08-databricks-co-founder-wins-prestigious-acm-award]] -- TechCrunch Apr 8: Matei Zaharia wins ACM Prize. AGI-is-already-here take, OpenClaw security nightmare quote, research-AI as killer app.
-- [[tweet-2026-04-08-farzatv-1910789505722036357]] -- Tweet stub (content unretrievable — X paywall).
-- [[youtube-2026-04-08-knx2wrilp1m]] -- **Marc Andreessen on Latent Space.** "Death of the Browser, Pi + OpenClaw, Why This Time Is Different." Title/channel recovered; transcript still pending. Second founder-tier OpenClaw mention in 24h (after Zaharia).
+- [[youtube-2026-04-08-marc-andreessen-introspects-on-death-of]] -- **Marc Andreessen on Latent Space.** "Death of the Browser, Pi + OpenClaw, Why This Time Is Different." Title/channel recovered; transcript still pending. Second founder-tier OpenClaw mention in 24h (after Zaharia).
 
 ## Outputs
 

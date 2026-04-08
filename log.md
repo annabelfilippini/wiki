@@ -268,3 +268,32 @@
 **Source summary created:** [[telegram-2026-04-08-idea-when-i-take-a-pic]]
 **Pages updated:** [[telegram-fashion-finder-idea]] (added iteration trail, bumped updated to 2026-04-08), [[telegram-2026-04-08-idea-fashion-finder-app-for-tiktok]] (added "Iteration 3 landed" section noting the primitive question is now partially answered, flipped `needs_deep_ingest: false`)
 **Summary:** First real run of Stage 2 (`/deep-ingest`) after Stage 1 deployment and schema cleanup. Third fashion-finder brain dump in 48 hours, this time introducing Google Image Search / Lens as the implementation primitive — a technology hypothesis that collapses the "build our own CV model" cost concern and validates that the recognition step is approximately free. Cross-linked all three iterations into a coherent trail. Flagged pattern: three iterations at this cadence suggests a dedicated `[[fashion-finder]]` concept page on the next pass, tying the want (iteration 1), wedge (iteration 2), and primitive (iteration 3) together as a single synthesis.
+
+## [2026-04-08] maintain | Legacy naming reconciliation (closes todo-2026-04-08-002)
+
+**Scope:** Reconciled the two-naming-schema problem discovered during Stage 2 smoke-test prep. Four wiki source summaries written before the mirror-naming convention was enforced were using semantic names that `/deep-ingest`'s existence-check couldn't see, leaving their raw files in perpetual "unprocessed" limbo.
+
+**Renames (git mv, history preserved):**
+- `wiki/ami-labs-funding.md` → `wiki/telegram-2026-04-06-ami-labs-world-models.md`
+- `wiki/telegram-fashion-finder-idea.md` → `wiki/telegram-2026-04-06-fashion-finder-idea.md`
+- `wiki/gates-year-ahead-2026.md` → `wiki/telegram-2026-04-06-gates-year-ahead-2026.md`
+- `wiki/youtube-2026-04-08-knx2wrilp1m.md` → `wiki/youtube-2026-04-08-marc-andreessen-introspects-on-death-of.md` (still a lite stub pending transcript from residential IP — rename only makes it discoverable under the mirror convention; deep ingest remains blocked on the transcript)
+
+**Wikilinks updated (7 edits across 4 files):**
+- `index.md` — 4 lines
+- `wiki/ai-tools-and-frameworks.md` — 2 wikilinks + 1 `sources:` frontmatter line (both legacy names in the list)
+- `wiki/telegram-2026-04-08-idea-fashion-finder-app-for-tiktok.md` — 2 wikilinks (1 pipe-syntax, 1 plain)
+- `wiki/telegram-2026-04-08-idea-when-i-take-a-pic.md` — 2 wikilinks (1 pipe-syntax, 1 plain)
+
+**`sources:` frontmatter updates (3 additional files):**
+- `wiki/yann-lecun.md`, `wiki/ami-labs.md`, `wiki/world-models.md` — all three pointed at `ami-labs-funding`, now point at the new mirror name.
+
+**Deletions (authorized raw/ modification, same pattern as 6d439b4 hygiene cleanup):**
+- `raw/tweet-2026-04-08-httpsxcomfarzatvstatus1910789505722036357.md` + `wiki/tweet-2026-04-08-farzatv-1910789505722036357.md` — FarzaTV tweet stub pair. Raw was an ugly-slug artifact from before the 16:25 slug-fix. Both files were stubs (X paywall blocked fetch; wiki page literally said "not worth re-attempting"). If the tweet content is ever re-shared directly, it gets captured cleanly under the new slug logic.
+- `raw/telegram-2026-04-08-start.md` — trivial `/start` bot-init message, no content.
+
+**Not touched:** `log.md` historical entries. Log is append-only chronological — rewriting old entries would falsify what actually happened. Old wikilinks in prior log entries will 404 in Obsidian; that's correct behavior for a historical record.
+
+**Closes:** `todo-2026-04-08-002` in `outputs/todos.md`.
+
+**Next:** Run `/deep-ingest` to verify the 4 renamed files are now correctly recognized as "already processed" (mirror exists → skip). The only raw file that should remain unprocessable is any content that legitimately hasn't been ingested yet.

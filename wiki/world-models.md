@@ -3,7 +3,7 @@ title: World Models
 type: concept
 created: 2026-04-06
 updated: 2026-04-06
-sources: [ami-labs-funding]
+sources: [telegram-2026-04-06-ami-labs-world-models]
 tags: [ai, world-models]
 missing_links: []
 ---
