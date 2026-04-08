@@ -87,27 +87,33 @@ why_now: _TBD_
 id: idea-2026-04-08-003
 added: 2026-04-08
 source: telegram
-status: open
-pain: _TBD_
-wedge: _TBD_
-why_now: _TBD_
+status: killed
+stage: killed-at-intake
+phase: 0
 ---
 #idea https://techcrunch.com/2026/04/08/this-is-a-fake-article-that-does-not-exist/
 
-[Source: raw/article-2026-04-08-techcrunch-this-is-a-fake-article.md]
+[Source: raw/article-2026-04-08-techcrunch-this-is-a-fake-article.md] (orphaned — file deleted)
+
+### killed: 2026-04-08
+Reason: Orphaned raw pointer. Raw file was stub test residue from yesterday's slug-fix testing, cleaned up during the 13:35 wiki hygiene pass. No actual business idea content — the URL is a fake TechCrunch URL used to exercise the Stage 1 slug generator.
+Lesson: Auto-kill orphaned raw pointers at Phase 0 intake. Cleanup of `raw/` files should probably also sweep `business-ideas.md` for entries pointing at the deleted files, but that's Stage 2 polish, not a blocker.
 
 ---
 id: idea-2026-04-08-002
 added: 2026-04-08
 source: telegram
-status: open
-pain: _TBD_
-wedge: _TBD_
-why_now: _TBD_
+status: killed
+stage: killed-at-intake
+phase: 0
 ---
 #idea https://techcrunch.com/2026/04/08/databricks-matei-zaharia-acm-award/
 
-[Source: raw/article-2026-04-08-httpstechcrunchcom20260408databricks-matei-zaharia-acm-award.md]
+[Source: raw/article-2026-04-08-httpstechcrunchcom20260408databricks-matei-zaharia-acm-award.md] (orphaned — file deleted)
+
+### killed: 2026-04-08
+Reason: Orphaned raw pointer. Raw file was a Stage 1 smoke-test artifact with the ugly pre-16:25-slug-fix filename, cleaned up during the 13:35 wiki hygiene pass. The underlying URL is a real TechCrunch article about Databricks CEO Matei Zaharia winning an ACM award, but that's a news read, not a business idea — the `#idea` tag was used during testing, not as a genuine idea capture.
+Lesson: Same as idea-003 — orphaned entries auto-kill at Phase 0. Separately, pure news articles tagged `#idea` during testing shouldn't have created business-ideas.md entries in the first place; that's a Stage 1 router refinement (distinguish genuine idea tags from test data) for a later session.
 
 ---
 id: idea-2026-04-08-001
