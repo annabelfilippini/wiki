@@ -58,7 +58,8 @@
 - [[neuralink]] -- Elon Musk's BCI company. Human trials, not yet approved outside trials.
 
 ### System Design
-- [[autonomous-business-system]] -- **Vision.** 7-layer autonomous system: capture → process → challenge → build → scan → ship → distribute.
+- [[autonomous-business-system]] -- **Vision.** 7-layer autonomous system: capture → process → challenge → build → scan → ship → distribute. Freedom-first.
+- [[open-claw]] -- Execution layer for Layers 3-7. Action half of the Obsidian ↔ OpenClaw split.
 
 ### Tools & History
 - [[llm-wiki]] -- This wiki system. Karpathy-inspired LLM knowledge base pattern. Layer 1-2 of autonomous system.
@@ -85,6 +86,7 @@
 - [[bb-session-2026-04-04-pbp-triage]] -- PBP triage: fix everything broken, Genius Links dead, parallel execution
 - [[china-approves-brain-chip]] -- Nature, Mar 2026: first BCI approved outside clinical trials (China)
 - [[notes-thoughts]] -- Personal brainstorm: autonomous business system vision, 7-layer architecture
+- [[note-2026-04-06-openclaw-freedom-brain-dump]] -- Brain dump: Obsidian/OpenClaw split, FREEDOM as north star, pre-Okta infrastructure window
 - [[ami-labs-funding]] -- TechCrunch, Mar 2026: AMI Labs $1.03B raise for world models, LeCun as Chairman
 
 ### Telegram Ingests

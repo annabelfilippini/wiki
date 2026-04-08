@@ -208,6 +208,13 @@
 **Output:** `outputs/briefing-daily-ai-2026-04-08.md`
 **Sections:** AI Tools, Tech & Advancements | AI Industry News & Shifts | World News
 **Top stories:** Claude Sonnet 5 (92.4% SWE-bench, Opus-tier at Sonnet pricing), Claw Code (clean-room rewrite of leaked Claude Code source, 100K stars in 24h), Llama 4 community backlash (benchmark manipulation claims, MoE memory reqs), oh-my-codex (multi-agent Codex CLI orchestration, MIT), MCP at 97M installs; Anthropic Project Glasswing (Claude Mythos — too dangerous to release, restricted to 40 orgs for zero-day vuln hunting), GPT-5.4 native computer use (75% OSWorld, matches human baseline), OpenAI/Anthropic/Google coalition against Chinese adversarial distillation, Q1 AI layoffs 52K globally (+40% YoY); Iran two-week ceasefire (Trump announces pause, oil -16%, stocks +2.5%), Ukraine energy ceasefire proposal + Ust-Luga oil terminal struck, US tariffs at 11% effective rate (highest since 1943), Russia-Ukraine Geneva peace talks collapse.
+## [2026-04-07] ingest | OpenClaw + Freedom Brain Dump
+
+**Source:** `raw/note-2026-04-06-openclaw-freedom-brain-dump.md`
+**Source summary created:** [[note-2026-04-06-openclaw-freedom-brain-dump]]
+**Pages created:** [[open-claw]] (entity — was previously in `autonomous-business-system` missing_links)
+**Pages updated:** [[autonomous-business-system]] (added Thinking↔Action split section, elevated Freedom-first to top principle, expanded open questions, removed `open-claw` from missing_links), [[llm-wiki]] (added new source, framed as "thinking half" opposite [[open-claw]])
+**Summary:** Second articulation of the autonomous system vision, sharper than [[notes-thoughts]]. New framings: (1) explicit Obsidian ↔ OpenClaw split between thinking and action layers, (2) FREEDOM promoted from implicit goal to stated core value, (3) pre-Okta window framed as deliberate infrastructure time. Created [[open-claw]] entity page to capture the execution-layer concept. Flagged real open questions: whether OpenClaw is the right substrate (no alternatives evaluated), how Obsidian↔OpenClaw handoff actually works, how Layer 7 (distribute) gets built.
 
 ## [2026-04-07] briefing | Morning Briefing — 2026-04-07
 

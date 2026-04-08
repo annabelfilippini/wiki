@@ -2,8 +2,8 @@
 title: LLM Wiki
 type: concept
 created: 2026-04-05
-updated: 2026-04-06
-sources: [llm-wiki-pattern.md, notes-thoughts.md]
+updated: 2026-04-07
+sources: [llm-wiki-pattern.md, notes-thoughts.md, note-2026-04-06-openclaw-freedom-brain-dump.md]
 tags: [methodology, knowledge-management, core]
 missing_links: [rag, dataview, marp]
 ---
@@ -42,7 +42,7 @@ Traditional wikis die because maintenance burden grows faster than value. LLMs e
 
 ## Role in Autonomous Business System
 
-The LLM Wiki serves as Layers 1-2 (Capture + Process) of the [[autonomous-business-system]]. Raw brain dumps flow into `raw/`, get processed into structured wiki knowledge, and feed downstream layers: idea challenge (BB agents), market scanning, building, and distribution.
+The LLM Wiki serves as Layers 1-2 (Capture + Process) of the [[autonomous-business-system]] — the **thinking half** of Annabel's two-layer model. Raw brain dumps flow into `raw/`, get processed into structured wiki knowledge, and are meant to hand off to the **action half** ([[open-claw]]) for idea challenge, building, scanning, shipping, and distribution. The handoff mechanism between the two halves is still unresolved.
 
 ## Intellectual Lineage
 

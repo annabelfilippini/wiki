@@ -5,28 +5,57 @@ This is Annabel's second brain. A persistent, compounding knowledge base maintai
 ## Architecture
 
 ```
-wiki/                   # Vault root (Obsidian opens here)
-├── raw/                # Source documents. Immutable. LLM reads, never writes.
-│   └── assets/         # Downloaded images referenced by sources
-├── wiki/               # The organized knowledge graph. LLM maintains this entirely.
-├── outputs/            # Answers, reports, analyses, slide decks the LLM generates.
-├── CLAUDE.md           # This file. The schema.
-├── index.md            # Content catalog. LLM reads first on every query.
-└── log.md              # Chronological operation record.
+wiki/                        # Vault root (Obsidian opens here)
+├── raw/                     # Source documents. Immutable. LLM reads, never writes.
+│   └── assets/              # Downloaded images referenced by sources
+├── wiki/                    # The organized knowledge graph. LLM maintains this entirely.
+├── outputs/                 # Answers, reports, analyses, slide decks the LLM generates.
+│   ├── todos.md             # Running to-do list. Fed by Telegram + sessions. BB reads this.
+│   ├── business-ideas.md    # Running business-ideas list. Fed by Telegram + sessions. BB reads this.
+│   └── briefing-*.md        # Scheduled scan reports.
+├── CLAUDE.md                # This file. The schema.
+├── index.md                 # Content catalog. LLM reads first on every query.
+└── log.md                   # Chronological operation record.
 ```
 
 Three folders. That's it.
 - `raw/` is the junk drawer. Annabel dumps articles, notes, screenshots, docs here. LLM never modifies these.
 - `wiki/` is the organized version. Entity pages, concept pages, and source summaries all live here. The `type` frontmatter field distinguishes them.
-- `outputs/` is where query answers, syntheses, comparisons, and slide decks go.
+- `outputs/` is where query answers, syntheses, comparisons, slide decks, and the BB work queues (`todos.md`, `business-ideas.md`) go.
 
 ## Conventions
 
 ### File naming
+
+**Strict format for `raw/`:** `{source}-{YYYY-MM-DD}-{slug}.md`
+
+Allowed `source` prefixes:
+- `telegram` — brain dumps via Telegram (see Section 1b)
+- `article` — web articles fetched manually or via link drop
+- `youtube` — YouTube videos (transcripts, summaries)
+- `tweet` — X/Twitter content
+- `note` — Annabel's direct notes/brain dumps
+- `bb-session` — BB working session artifacts
+- `<project-name>` — project-specific dumps (`wayloft-`, `pbp-`, etc.) — date optional for non-dated project docs
+
+**Slugs:** lowercase-kebab-case, 3-6 words, describe the content. No spaces, no capitals, no special characters except hyphens.
+
+Examples:
+- ✅ `telegram-2026-04-06-fashion-finder-idea.md`
+- ✅ `article-2026-04-07-china-brain-chip-paralysis.md`
+- ✅ `youtube-2026-04-07-openclaw-lenny-podcast.md`
+- ✅ `note-2026-04-07-second-brain-thoughts.md`
+- ✅ `wayloft-build-plan.md` (non-dated project doc, project prefix)
+- ❌ `China approves brain chip.md` (spaces, no prefix, no date)
+- ❌ `Notes thoughts.md` (spaces, no prefix)
+
+**For `wiki/` and `outputs/`:**
 - All files are markdown (`.md`), except slide deck exports (`.html`)
 - Lowercase kebab-case filenames: `transfer-partners.md`, `chase-sapphire-preferred.md`
 - Source summaries mirror the raw filename: if raw is `amex-gold-review.md`, summary is `wiki/amex-gold-review.md`
 - No spaces in filenames. Use hyphens.
+
+**Enforcement:** When creating any file in `raw/`, validate against the format above BEFORE writing. If the name doesn't conform, fix it first. When Annabel drops a file with a non-conforming name, rename it as the first step of ingest and log the rename in `log.md`.
 
 ### Cross-references
 - Use Obsidian wikilinks: `[[page-name]]` or `[[page-name|Display Text]]`
@@ -132,6 +161,20 @@ Triggered when Annabel says "deep ingest", "process my dumps", "update the wiki 
 **Override — full ingest on save:**
 
 Annabel can request full ingest at save time by including "deep ingest" or "ingest deeply" in the Telegram message. Otherwise, always default to lite.
+
+**Tag-based routing to outputs (runs IN ADDITION to raw/ save):**
+
+Certain Telegram messages route to `outputs/todos.md` or `outputs/business-ideas.md` on top of the standard raw/ save. Classification rules:
+
+| Trigger | Action |
+|---|---|
+| Message contains `#todo`, `#task`, "todo:", "remind me to", "don't forget", "need to" | Append a new entry to `outputs/todos.md` at the TOP of the `## Entries` section (see that file's format). ID: `todo-YYYY-MM-DD-NNN`. Still save to raw/ as `telegram-YYYY-MM-DD-slug.md` for the full record. |
+| Message contains `#idea`, `#business`, "business idea", "what if we", "could we build", "idea for" | Append a new entry to `outputs/business-ideas.md` at the TOP of the `## Entries` section. ID: `idea-YYYY-MM-DD-NNN`. Fill in as many fields as you can from the message (pain, wedge, why-now). Unknown fields get `_TBD_`. Still save to raw/ for the full record. |
+| Neither | Standard lite ingest only. No outputs/ routing. |
+
+**Why both raw/ AND outputs/:** raw/ is the permanent record. outputs/ is the BB work queue. An idea sent via Telegram needs to exist in BOTH places — raw/ so it's never lost, outputs/ so BB can find and work through it.
+
+**Reply pattern:** Telegram confirmation should name the destination. "Saved to todos (todo-2026-04-07-003) and raw." or "Saved as business idea (idea-2026-04-07-001) for BB review."
 
 **What NOT to do:**
 - Don't reply with just "got it" without saving.
@@ -444,6 +487,8 @@ SORT date DESC
 9. **Sources are cited.** Every factual claim should trace back to a source via the `sources` frontmatter or inline citations.
 10. **The index is the truth.** If it's not in index.md, it doesn't exist to the query workflow.
 11. **Telegram content follows the Section 1b template exactly.** Every Telegram brain dump uses the `telegram-YYYY-MM-DD-slug.md` naming, the frontmatter template with `source: "telegram"`, and gets a full ingest. No shortcuts.
+12. **Running lists are append-top, never-delete.** `outputs/todos.md` and `outputs/business-ideas.md` grow forever. Mark items `done`, `dropped`, or `killed` — don't remove them. History compounds; the graveyard teaches future decisions.
+13. **Outputs routing for Telegram is in addition to raw/, not instead of.** Every Telegram message still gets saved to `raw/` even if it also gets routed to `todos.md` or `business-ideas.md`. Raw/ is the permanent record; outputs/ is the work queue.
 
 ## Interaction Model
 
