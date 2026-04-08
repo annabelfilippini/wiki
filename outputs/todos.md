@@ -46,6 +46,18 @@ Why it matters (optional — only if not self-evident).
 
 ## Entries
 
+---
+id: todo-2026-04-08-001
+added: 2026-04-08
+source: telegram
+status: open
+project: personal
+priority: med
+---
+#todo call dentist tomorrow
+
+[Source: raw/telegram-2026-04-08-todo-call-dentist-tomorrow.md]
+
 <!-- New entries go here, directly below this line. Oldest at bottom. -->
  
 - Investigate raw/apple-notes-archive deletion in wiki working tree                                                                                                               
