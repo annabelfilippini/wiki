@@ -70,6 +70,19 @@ Past killed ideas worth remembering live at the bottom of this file as reference
 
 ## Entries
 
+---
+id: idea-2026-04-08-001
+added: 2026-04-08
+source: telegram
+status: open
+pain: _TBD_
+wedge: _TBD_
+why_now: _TBD_
+---
+#idea fashion finder app for tiktok hauls
+
+[Source: raw/telegram-2026-04-08-idea-fashion-finder-app-for-tiktok.md]
+
 <!-- New entries go here, directly below this line. Oldest at bottom. -->
 
 <!-- Example (delete once first real entry lands):
