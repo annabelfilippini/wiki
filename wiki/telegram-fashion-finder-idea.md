@@ -2,7 +2,7 @@
 title: "Fashion Finder Agent — Photo-to-Shopping Idea"
 type: source
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-04-08
 author: Annabel Filippini
 date: 2026-04-06
 url:
@@ -27,6 +27,11 @@ Street style: cream oversized sweatshirt, navy wide-leg trousers, brown mules/cl
 
 ## New Information
 A concrete evolution of earlier fashion/closet AI thinking: photo-in, shopping-links-out. The agent framing (vs. app framing) is notable — aligns with Annabel's current agent-building trajectory.
+
+## Iteration Trail
+This was **iteration 1**. Two follow-ups have landed since:
+- **Iteration 2 (Apr 8 morning):** [[telegram-2026-04-08-idea-fashion-finder-app-for-tiktok]] — narrowed the wedge to TikTok haul attribution specifically.
+- **Iteration 3 (Apr 8 afternoon):** [[telegram-2026-04-08-idea-when-i-take-a-pic]] — identified Google Image Search / Lens as a zero-cost implementation primitive, potentially collapsing the CV-model requirement.
 
 ## Connections
 - Pattern: same agent architecture as [[ellis-church]] (AI does the heavy lifting, user steers)

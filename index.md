@@ -94,8 +94,9 @@
 
 ### Telegram Ingests
 - [[gates-year-ahead-2026]] -- Bill Gates' 2026 outlook: child mortality reversal, AI trajectory, Horizon1000, climate progress
-- [[telegram-fashion-finder-idea]] -- Photo-to-shopping agent: snap outfit photo, AI finds all the clothes.
-- [[telegram-2026-04-08-idea-fashion-finder-app-for-tiktok]] -- Fashion finder, narrowed to TikTok hauls as the wedge. Second dump of the concept.
+- [[telegram-fashion-finder-idea]] -- Photo-to-shopping agent: snap outfit photo, AI finds all the clothes. (Iteration 1)
+- [[telegram-2026-04-08-idea-fashion-finder-app-for-tiktok]] -- Fashion finder, narrowed to TikTok hauls as the wedge. (Iteration 2)
+- [[telegram-2026-04-08-idea-when-i-take-a-pic]] -- Fashion finder, Google Image Search / Lens as the implementation primitive. Third iteration — tech hypothesis, not a wedge change. (Iteration 3)
 - [[telegram-2026-04-08-todo-call-dentist-tomorrow]] -- Personal todo mirror (routed to todos.md).
 - [[article-2026-04-08-databricks-co-founder-wins-prestigious-acm-award]] -- TechCrunch Apr 8: Matei Zaharia wins ACM Prize. AGI-is-already-here take, OpenClaw security nightmare quote, research-AI as killer app.
 - [[tweet-2026-04-08-farzatv-1910789505722036357]] -- Tweet stub (content unretrievable — X paywall).

@@ -261,3 +261,10 @@
 **Output:** `outputs/briefing-daily-ai-2026-04-07.md`
 **Sections:** AI Tools, Tech & Advancements | AI Industry News & Shifts | World News
 **Top stories:** Apfel (Apple on-device LLM CLI, HN 513pts), Qwen 3.5-9B on M4 Air (LocalLLaMA 1159 upvotes), Gemma 4 edge (sub-1.5GB, Raspberry Pi 5), MCP at 97M installs (Linux Foundation AAIF), llamafile resurgence; OpenAI/Anthropic/Google unite against Chinese distillation, Anthropic revenue $9B→$30B annualized + multi-GW compute deal, Goldman Sachs 16K AI jobs/month cut (Gen Z worst hit), AI skills power law widening; Iran war Day 38 (ceasefire rejected, Trump deadline), US pharma tariffs up to 100% (10.2% avg effective rate), Artemis II distance record, Vietnam To Lam elected president, NK daughter as heir signal.
+
+## [2026-04-08] deep-ingest | Fashion Finder iteration 3 — Google Lens primitive
+
+**Source:** `raw/telegram-2026-04-08-idea-when-i-take-a-pic.md`
+**Source summary created:** [[telegram-2026-04-08-idea-when-i-take-a-pic]]
+**Pages updated:** [[telegram-fashion-finder-idea]] (added iteration trail, bumped updated to 2026-04-08), [[telegram-2026-04-08-idea-fashion-finder-app-for-tiktok]] (added "Iteration 3 landed" section noting the primitive question is now partially answered, flipped `needs_deep_ingest: false`)
+**Summary:** First real run of Stage 2 (`/deep-ingest`) after Stage 1 deployment and schema cleanup. Third fashion-finder brain dump in 48 hours, this time introducing Google Image Search / Lens as the implementation primitive — a technology hypothesis that collapses the "build our own CV model" cost concern and validates that the recognition step is approximately free. Cross-linked all three iterations into a coherent trail. Flagged pattern: three iterations at this cadence suggests a dedicated `[[fashion-finder]]` concept page on the next pass, tying the want (iteration 1), wedge (iteration 2), and primitive (iteration 3) together as a single synthesis.
