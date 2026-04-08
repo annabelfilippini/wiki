@@ -1,3 +1,0 @@
-# dippin daisy
-
-tate micray

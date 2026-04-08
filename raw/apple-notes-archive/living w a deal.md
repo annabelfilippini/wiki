@@ -1,2 +1,0 @@
-# living w a deal
-
