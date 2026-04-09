@@ -95,6 +95,19 @@ When you're ready to come back, `/bb revive <id>` restores the `parked_from_stat
 ## Entries
 
 ---
+id: idea-2026-04-09-001
+added: 2026-04-09
+source: telegram
+status: open
+pain: _TBD_
+wedge: _TBD_
+why_now: _TBD_
+---
+#idea post something on LinkedIn that says are you struggling looking for a job. Use this tool to scrape all job availabilities so that you can quickly apply to various jobs
+
+[Source: raw/telegram-2026-04-09-idea-post-something-on-linkedin-that.md]
+
+---
 id: idea-2026-04-08-004
 added: 2026-04-08
 source: telegram
