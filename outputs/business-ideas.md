@@ -74,14 +74,17 @@ Past killed ideas worth remembering live at the bottom of this file as reference
 id: idea-2026-04-08-004
 added: 2026-04-08
 source: telegram
-status: open
-pain: _TBD_
-wedge: _TBD_
-why_now: _TBD_
+status: merged
+merged_into: idea-2026-04-08-001
+merged_date: 2026-04-08
 ---
 #idea when i take a pic of someones outfit google image search can tell me where everything is from
 
 [Source: raw/telegram-2026-04-08-idea-when-i-take-a-pic.md]
+[Merged into: [[ideas/idea-2026-04-08-001-fashion-finder]]]
+
+### merged: 2026-04-08
+Same concept as idea-001 (fashion finder) — the camera-first wedge of the same underlying "point at an outfit, get the source" product. Already captured in idea-001's iteration trail (variant #2) and `related_raw` frontmatter during the Phase 0 intake. Merged via `/bb` duplicate-concept path — no separate working file created. All future Phase work proceeds on idea-001. This variant (phone camera → any outfit in real life) is held as the v2 wedge per the Phase 1 office-hours decision (browser extension first, camera app second).
 
 ---
 id: idea-2026-04-08-003
