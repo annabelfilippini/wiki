@@ -12,7 +12,10 @@ related_raw:
   - raw/telegram-2026-04-08-idea-when-i-take-a-pic.md
 stage: office-hours-done
 phase: 1
-status: hold
+status: parked
+parked_date: 2026-04-08
+parked_from_status: hold
+parked_reason: Not ready to engage — Elsie watch + sister/sorority assignments still apply, just letting it sit
 tags: [idea, fashion, reverse-image-search, consumer, anti-gatekeeping]
 canonical_user: Elsie Ratner
 committed_wedge: browser-extension-first
@@ -178,3 +181,5 @@ _Logged to `~/.claude/bb/knowledge/decisions.jsonl` with tag `idea-2026-04-08-00
 ## Log
 
 - **2026-04-08 14:30 — Phase 0 intake complete (BB).** Route recommendation: advance to office-hours. Iteration trail noted. VeloVista-shaped cost risk flagged for office-hours pre-screen.
+- **2026-04-08 15:10 — Phase 1 office-hours complete (BB).** Canonical user Elsie Ratner identified, wedge committed (browser extension first), 5 premises agreed, 3 blocking assignments defined. HELD for field data.
+- **2026-04-08 20:15 — Parked (BB coordinator).** First real use of the `/bb park` mechanism. Not ready to engage with the Elsie observation. Field assignments preserved (`parked_from_status: hold`) so the blockers restore on revive. Revive with `/bb revive idea-2026-04-08-001`.

@@ -24,7 +24,7 @@ Each entry is a fenced block with frontmatter + body:
 id: idea-YYYY-MM-DD-NNN
 added: YYYY-MM-DD
 source: telegram | session | manual
-status: raw | exploring | validating | killed | shipping | shipped
+status: raw | exploring | validating | hold | parked | killed | merged | shipping | shipped
 stage: hypothesis | office-hours-done | ceo-review-done | plan-locked | built
 tags: [category, category]
 ---
@@ -65,6 +65,30 @@ Lesson: [what this teaches you about future ideas]
 ```
 
 Past killed ideas worth remembering live at the bottom of this file as reference entries.
+
+## Parked convention
+
+Parking is the "not now, no blocker, revive when ready" state. Distinct from HOLD (which waits on specific field work) and from killed (which is a decision to stop). Parked ideas are invisible to the BB queue — `/bb` won't recommend them, `/begin` shows only a compact count at the bottom of the queue section. They surface only when Annabel explicitly asks.
+
+Frontmatter fields for parked entries:
+
+```
+status: parked
+parked_date: YYYY-MM-DD
+parked_from_status: active | hold     # what state to restore on revive
+parked_reason: "optional one-liner"
+```
+
+And a `### parked:` sub-block at the bottom of the entry:
+
+```
+### parked: 2026-04-08
+Reason: [why you paused it — "not ready to engage", "waiting for life context to shift", "exploring other directions first"]
+From status: hold (field assignments still apply when revived)
+Revive with: `/bb revive <id>`
+```
+
+When you're ready to come back, `/bb revive <id>` restores the `parked_from_status` and the idea rejoins the queue at its exact prior phase. No progress lost. Parking as many times as you want is fine — parked ideas are cheap.
 
 ---
 
@@ -122,7 +146,10 @@ Lesson: Same as idea-003 — orphaned entries auto-kill at Phase 0. Separately, 
 id: idea-2026-04-08-001
 added: 2026-04-08
 source: telegram
-status: hold
+status: parked
+parked_date: 2026-04-08
+parked_from_status: hold
+parked_reason: Not ready to engage — field assignments (Elsie watch etc.) are real but Annabel wants to let this sit and focus elsewhere first
 stage: office-hours-done
 phase: 1
 tags: [fashion, reverse-image-search, consumer, anti-gatekeeping]
@@ -133,10 +160,16 @@ committed_wedge: browser-extension-first
 ---
 ## Fashion Finder — anti-gatekeeping visual search for college-aged women
 
-Phase 1 (office-hours) complete. Canonical user: Elsie Ratner (U Mich, sorority). Committed wedge: browser extension first, phone camera app as v2. **HELD** for field data (Elsie observation + sister texts + sorority ask) before advancing to CEO review.
+Phase 1 (office-hours) complete. Canonical user: Elsie Ratner (U Mich, sorority). Committed wedge: browser extension first, phone camera app as v2. Originally HELD on field assignments, then parked 2026-04-08 — Annabel wants to let the idea sit rather than chase the Elsie observation right now.
 
 [Source: raw/telegram-2026-04-08-idea-fashion-finder-app-for-tiktok.md]
 [BB working file: [[ideas/idea-2026-04-08-001-fashion-finder]]]
+
+### parked: 2026-04-08
+Reason: Not ready to engage. The three Phase 1 field assignments (Elsie watch, sister text, sorority ask) are real and still apply — the idea isn't stuck on a missing resource, Annabel just isn't feeling ready to sit with Elsie and run the observation session. Parking honestly is cleaner than leaving it in infinite HOLD pretending the assignments are coming tomorrow.
+From status: hold (field assignments still apply when revived)
+Revive with: `/bb revive idea-2026-04-08-001`
+First use of the parking mechanism — this idea is the test case for the feature.
 
 <!-- New entries go here, directly below this line. Oldest at bottom. -->
 
