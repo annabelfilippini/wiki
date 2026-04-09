@@ -297,3 +297,8 @@
 **Closes:** `todo-2026-04-08-002` in `outputs/todos.md`.
 
 **Next:** Run `/deep-ingest` to verify the 4 renamed files are now correctly recognized as "already processed" (mirror exists → skip). The only raw file that should remain unprocessable is any content that legitimately hasn't been ingested yet.
+
+## [2026-04-09] briefing | Morning Briefing — 2026-04-09
+
+**Output:** `outputs/briefing-daily-ai-2026-04-09.md`
+**Summary:** Daily AI briefing. Tools: Google Gemma 4 (Apache 2.0, 31B beats 400B rivals), Claude Mythos withheld via Project Glasswing (sandbox escape, zero-days, 11-partner restricted release), vibe coding driving 84% App Store surge + Apple crackdown, ElevenLabs ElevenMusic iOS app. Industry: frontier labs anti-China distillation pact (DeepSeek/Moonshot/MiniMax named), Anthropic $30B revenue run rate + Google/Broadcom compute expansion, national AI legislative framework + state employment AI laws. World: US-Iran ceasefire fragile with Islamabad talks beginning today (Vance leading), North Korea cluster-bomb warhead missile tests, US tariffs one-year anniversary (doubled down, $29B/month revenue, consumer prices rising), Israel/Lebanon continuing outside ceasefire terms.
