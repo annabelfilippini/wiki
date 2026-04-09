@@ -95,6 +95,19 @@ When you're ready to come back, `/bb revive <id>` restores the `parked_from_stat
 ## Entries
 
 ---
+id: idea-2026-04-09-002
+added: 2026-04-09
+source: telegram
+status: open
+pain: _TBD_
+wedge: _TBD_
+why_now: _TBD_
+---
+#idea have wayloft go through bb on yolo mode
+
+[Source: raw/telegram-2026-04-09-idea-have-wayloft-go-through-bb.md]
+
+---
 id: idea-2026-04-09-001
 added: 2026-04-09
 source: telegram
