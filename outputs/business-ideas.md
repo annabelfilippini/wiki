@@ -95,6 +95,19 @@ When you're ready to come back, `/bb revive <id>` restores the `parked_from_stat
 ## Entries
 
 ---
+id: idea-2026-04-10-002
+added: 2026-04-10
+source: telegram
+status: open
+pain: _TBD_
+wedge: _TBD_
+why_now: _TBD_
+---
+#idea have claude reflect on what ive been doing the past coupld of days and then set of skills to automate this process
+
+[Source: raw/telegram-2026-04-10-idea-have-claude-reflect-on-what.md]
+
+---
 id: idea-2026-04-10-001
 added: 2026-04-10
 source: telegram
