@@ -95,56 +95,50 @@ When you're ready to come back, `/bb revive <id>` restores the `parked_from_stat
 ## Entries
 
 ---
-id: idea-2026-04-10-002
-added: 2026-04-10
-source: telegram
-status: open
-pain: _TBD_
-wedge: _TBD_
-why_now: _TBD_
----
-#idea have claude reflect on what ive been doing the past coupld of days and then set of skills to automate this process
-
-[Source: raw/telegram-2026-04-10-idea-have-claude-reflect-on-what.md]
-
----
-id: idea-2026-04-10-001
-added: 2026-04-10
-source: telegram
-status: open
-pain: _TBD_
-wedge: _TBD_
-why_now: _TBD_
----
-#idea scan to find niches on reddit, make a company and deploy all without my input
-
-[Source: raw/telegram-2026-04-10-idea-scan-to-find-niches-on.md]
-
----
 id: idea-2026-04-09-002
 added: 2026-04-09
 source: telegram
-status: open
+status: merged
+merged_into: career-launch
+merged_date: 2026-04-09
+stage: hypothesis
 pain: _TBD_
 wedge: _TBD_
 why_now: _TBD_
 ---
-#idea have wayloft go through bb on yolo mode
+## LinkedIn job scraping tool — help job seekers quickly apply to multiple openings
 
-[Source: raw/telegram-2026-04-09-idea-have-wayloft-go-through-bb.md]
+#idea post something on LinkedIn that says are you struggling looking for a job. Use this tool to scrape all job availabilities so that you can quickly apply to various jobs
+
+[Source: raw/telegram-2026-04-09-idea-post-something-on-linkedin-that.md]
+
+### merged: 2026-04-09
+Absorbed into career-launch project. The LinkedIn job scraping / scan-and-apply concept is exactly what career-launch's `scan` mode does — automated portal scanning with qualification filtering for entry-level roles. Career-launch already includes LinkedIn as a configured portal in `config/profile.example.yml`. The idea's distribution angle (posting on LinkedIn to attract users) is noted as a future distribution play once the tool is built and validated.
 
 ---
 id: idea-2026-04-09-001
 added: 2026-04-09
-source: telegram
-status: open
-pain: _TBD_
-wedge: _TBD_
-why_now: _TBD_
+source: session
+status: parked
+parked_date: 2026-04-09
+parked_from_status: active
+parked_reason: Acted on directly — ran audits already, parking formal pipeline version
+stage: office-hours-done
+tags: [ai-consulting, small-business, outreach, portfolio]
+bb_file: ideas/idea-2026-04-09-001-ai-site-audit.md
+canonical_user: Cooldown founders
+committed_wedge: free-ai-site-audit-cold-outreach
 ---
-#idea post something on LinkedIn that says are you struggling looking for a job. Use this tool to scrape all job availabilities so that you can quickly apply to various jobs
+## AI Site Audit — free audits as outreach to small businesses Annabel knows
 
-[Source: raw/telegram-2026-04-09-idea-post-something-on-linkedin-that.md]
+Phase 1 (office-hours) complete. Canonical user: Cooldown founders (personal connection). Wedge: run AI-powered website audit on public sites, send polished report as free value, offer to fix top issues. Not a revenue play — practice, portfolio, reputation. Agent can automate the mechanical crawl/report while Annabel adds business judgment.
+
+### parked: 2026-04-09
+Reason: Acted on directly — ran audits on real businesses already. Parking the formal BB pipeline version since the core value (practice, portfolio, connections) is being captured through direct action rather than a structured idea funnel.
+From status: active
+Revive with: `/bb revive idea-2026-04-09-001`
+
+[BB working file: [[ideas/idea-2026-04-09-001-ai-site-audit]]]
 
 ---
 id: idea-2026-04-08-004
