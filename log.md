@@ -248,6 +248,12 @@
 **Output:** `outputs/briefing-daily-ai-2026-04-08.md`
 **Sections:** AI Tools, Tech & Advancements | AI Industry News & Shifts | World News
 **Top stories:** Claude Sonnet 5 (92.4% SWE-bench, Opus-tier at Sonnet pricing), Claw Code (clean-room rewrite of leaked Claude Code source, 100K stars in 24h), Llama 4 community backlash (benchmark manipulation claims, MoE memory reqs), oh-my-codex (multi-agent Codex CLI orchestration, MIT), MCP at 97M installs; Anthropic Project Glasswing (Claude Mythos — too dangerous to release, restricted to 40 orgs for zero-day vuln hunting), GPT-5.4 native computer use (75% OSWorld, matches human baseline), OpenAI/Anthropic/Google coalition against Chinese adversarial distillation, Q1 AI layoffs 52K globally (+40% YoY); Iran two-week ceasefire (Trump announces pause, oil -16%, stocks +2.5%), Ukraine energy ceasefire proposal + Ust-Luga oil terminal struck, US tariffs at 11% effective rate (highest since 1943), Russia-Ukraine Geneva peace talks collapse.
+## [2026-04-10] briefing | Morning Briefing — 2026-04-10
+
+**Output:** `outputs/briefing-daily-ai-2026-04-10.md`
+**Sections:** AI Tools, Tech & Advancements | AI Industry News & Shifts | World News
+**Top stories:** Meta Muse Spark (first model from Meta Superintelligence Labs under Alexandr Wang, closed-source, rolling to WhatsApp/Instagram), Anthropic emotion vectors (171 emotion-like concepts mapped in Claude Sonnet 4.5, causally shape behavior), GPT-5.4 fully live across Codex + API / GPT-5.5 "Spud" expected by June, MCP hits 97M installs; OpenAI/Anthropic/Google vs China adversarial distillation (DeepSeek/Moonshot/MiniMax named, 16M extractions via 24K fake accounts), Broadcom-Anthropic 3.5GW chip deal, SCOTUS $166B tariff refund in progress / new pharma tariffs at 100%; US-Iran ceasefire fracturing over Lebanon (Operation Eternal Darkness, 254 killed, Strait closed again), Ukraine Easter ceasefire announcement (Putin April 11–12, Zelenskyy energy-infra proposal), Islamabad Talks today (Pakistan hosting US-Iran diplomacy).
+
 ## [2026-04-07] ingest | OpenClaw + Freedom Brain Dump
 
 **Source:** `raw/note-2026-04-06-openclaw-freedom-brain-dump.md`
