@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-04-10] briefing | Morning Briefing — 2026-04-10
+
+**File:** `outputs/briefing-daily-ai-2026-04-10.md`
+**Sections:** AI Tools (Meta Muse Spark, Anthropic emotion vectors, Qwen3.6-Plus, MCP 97M installs), AI Industry (Mythos/Glasswing, US labs vs Chinese distillation, OpenAI $122B/IPO, Broadcom compute deal), World News (US-Iran ceasefire + Lebanon fracture, Ukraine Easter ceasefire, North Korea tests, Trump tariffs SCOTUS ruling)
+
 ## [2026-04-05] ingest | LLM Wiki Pattern
 
 **Source:** `raw/llm-wiki-pattern.md`
