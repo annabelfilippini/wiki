@@ -1,0 +1,17 @@
+{
+  "last_ran_at": "2026-04-11T19:50:06Z",
+  "supabase_status": "ok",
+  "supabase_http": 200,
+  "supabase_response_ms": 752,
+  "vercel_status": "skipped",
+  "vercel_skip_reason": "VERCEL_TOKEN not set",
+  "vercel_last_deploy_status": null,
+  "vercel_last_deploy_id": null,
+  "live_site_status": "ok",
+  "live_site_http": 200,
+  "live_site_response_ms": 2511,
+  "live_site_body_size": 8565,
+  "live_site_marker_found": true,
+  "last_severity": "warning",
+  "last_alerted": false
+}
