@@ -28,44 +28,55 @@ WAYLOFT_ENV_FILE=~/Documents/Claude/MO/apps/web/.env.local \
 
 Or let the script use the default `/opt/wayloft/.env` if you're on the VPS.
 
+## VPS layout reference
+
+Two separate wiki clones live on the Hetzner box — don't confuse them:
+
+| Path | Owner | Purpose |
+|---|---|---|
+| `/root/.openclaw/workspace/wiki` | OpenClaw (root) | Used by OpenClaw jobs (morning briefing, this sweep). Read + write. **This is the one we use.** |
+| `/opt/annie-intake/wiki` | `annie-intake` user | Write-clone for the annie-intake Telegram router. Separate service, separate concerns. **Do not touch from OpenClaw jobs.** |
+
+The path `/root/.openclaw/workspace/wiki` is inferred from `projects/annie-intake/DESIGN.md` ("Annie's existing clone at `/root/.openclaw/workspace/wiki`"). Verify it matches reality before deploying — if OpenClaw was reinstalled or reorganized since that doc, the path may have drifted. The setup steps below include a verification step.
+
 ## VPS Setup — first-time deployment
 
 One-time setup on Hetzner. Run as `root`.
 
-### 1. Verify wiki repo is cloned
+### 1. Find the OpenClaw wiki clone
 
 ```bash
-ls /root/wiki/wayloft/scripts/wayloft-qa-sweep.sh
+# Expected location, based on annie-intake DESIGN.md:
+ls /root/.openclaw/workspace/wiki/wayloft/scripts/wayloft-qa-sweep.sh 2>/dev/null && echo "FOUND: /root/.openclaw/workspace/wiki"
 ```
 
-If the file is missing, either the wiki repo isn't cloned on this VPS, or OpenClaw's wiki checkout is somewhere else. Find the wiki checkout:
+If that prints nothing, the clone is somewhere else. Search:
 
 ```bash
-find / -maxdepth 4 -type d -name wiki 2>/dev/null
-# or check what OpenClaw uses
-grep -r "wiki" /root/.openclaw/ 2>/dev/null | head
+find / -maxdepth 5 -type d -name wiki 2>/dev/null | grep -v annie-intake
 ```
 
-If no clone exists:
+Look for a path that contains `.git/` and is owned by root. Once you find it, use that path in the rest of the steps below (replace `$WIKI` with the actual path).
 
 ```bash
-cd /root && git clone https://github.com/annabelfilippini/wiki.git
+# For the rest of the setup, set this variable to whatever you found:
+WIKI=/root/.openclaw/workspace/wiki   # or wherever the OpenClaw clone actually lives
 ```
-
-Adjust paths in the cron job below to match wherever the wiki actually lives on this VPS.
 
 ### 2. Pull latest wiki
 
 ```bash
-cd /root/wiki && git pull
+cd "$WIKI" && git pull
 ```
+
+The bash script + this README should now exist at `$WIKI/wayloft/scripts/`. If `git pull` fails or the files aren't there, check that the clone is tracking `origin/main` on `github.com/annabelfilippini/wiki`.
 
 ### 3. Verify script is executable
 
 ```bash
-ls -l /root/wiki/wayloft/scripts/wayloft-qa-sweep.sh
+ls -l "$WIKI/wayloft/scripts/wayloft-qa-sweep.sh"
 # should show -rwxr-xr-x (executable)
-chmod +x /root/wiki/wayloft/scripts/wayloft-qa-sweep.sh
+chmod +x "$WIKI/wayloft/scripts/wayloft-qa-sweep.sh"
 ```
 
 ### 4. Add env vars to `/opt/wayloft/.env`
@@ -102,7 +113,7 @@ EOF
 ### 5. Test-run the script manually
 
 ```bash
-/root/wiki/wayloft/scripts/wayloft-qa-sweep.sh
+"$WIKI/wayloft/scripts/wayloft-qa-sweep.sh"
 ```
 
 Expected output on success:
@@ -114,7 +125,7 @@ Sweep complete: severity=info file=wayloft/findings/YYYY-MM-DD-HHMM-qa-sweep.md
 Verify the finding file exists:
 
 ```bash
-ls -la /root/wiki/wayloft/findings/ | tail -5
+ls -la "$WIKI/wayloft/findings/" | tail -5
 ```
 
 If the push succeeded, you'll see the new commit on the [wiki repo on GitHub](https://github.com/annabelfilippini/wiki) within seconds.
@@ -129,13 +140,13 @@ cat /root/.openclaw/cron/jobs.json
 
 Add a new entry for the sweep. The exact schema depends on what OpenClaw expects — match the existing job format. The schedule should be `0 6 * * *` (06:00 UTC = 2am ET EDT), and the command should invoke the script directly.
 
-Example entry (adjust field names to match OpenClaw's schema):
+Example entry (adjust field names to match OpenClaw's schema, and replace the command path with the actual `$WIKI` path you verified in step 1):
 
 ```json
 {
   "name": "wayloft-qa-sweep",
   "schedule": "0 6 * * *",
-  "command": "/root/wiki/wayloft/scripts/wayloft-qa-sweep.sh",
+  "command": "/root/.openclaw/workspace/wiki/wayloft/scripts/wayloft-qa-sweep.sh",
   "description": "Wayloft runtime QA sweep — Supabase, Vercel, live site"
 }
 ```
