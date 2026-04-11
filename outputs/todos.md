@@ -2,7 +2,7 @@
 title: To-Dos
 type: running-list
 created: 2026-04-07
-updated: 2026-04-08
+updated: 2026-04-11
 tags: [todos, bb-queue]
 ---
 
@@ -45,6 +45,35 @@ Why it matters (optional — only if not self-evident).
 ---
 
 ## Entries
+
+---
+id: todo-2026-04-11-001
+added: 2026-04-11
+source: session
+status: open
+project: wayloft
+priority: med
+---
+Build a Wayloft article scraper — a second OpenClaw job, separate from `wayloft-qa-sweep`.
+
+**What:** Weekly Claude Code skill running on the Hetzner VPS that reads credit card + flight award sources, extracts structured candidate updates (signup bonus changes, transfer partner additions/removals, program devaluations, new routes), and writes findings to `wiki/wayloft/data-updates/YYYY-MM-DD-weekly-digest.md`. Annabel reviews, promotes manually to Wayloft's data layer.
+
+**Why:** Wayloft's credit card and flight program data needs to stay fresh. Manual curation doesn't scale. Automation-assisted curation (agent proposes, human approves) is the right middle ground — captures most of the value without risking bad extractions corrupting prod data.
+
+**Design decisions already made (2026-04-11 session with Claude):**
+- **Separate skill from `wayloft-qa-sweep`.** Different class of work entirely: content ingest vs health check. Different runtime profile, different output folder, different schedule.
+- **Needs Claude in the loop.** Unlike the QA sweep (pure bash + curl), extraction requires reading comprehension — can't be a bash script.
+- **Output model: findings → human review → manual propagation (option 1 of 3 considered).** Rejected: direct Supabase writes (too risky until extractions trusted), data file + auto-PR (medium risk, premature automation).
+- **Schedule: weekly, not daily.** CC offers and flight program changes don't move fast enough for nightly runs.
+- **Matches existing OpenClaw morning-briefing pattern** — scrape articles, synthesize, write markdown, commit wiki repo. Proven pattern, just Wayloft-scoped instead of general-AI-news-scoped.
+
+**Blocked on:** finishing step 5 of `wayloft-qa-sweep` deployment first (get it running on OpenClaw cron, watch it for at least a few clean nightly sweeps). Don't start this until the QA sweep is stable.
+
+**Sources to consider (refine before building):** The Points Guy, Doctor of Credit, View from the Wing, NerdWallet card roundups, One Mile at a Time, seats.aero blog, AwardWallet blog, God Save the Points, airline mileage program pages, Chase/Amex press pages for primary source material.
+
+**Extraction targets:**
+- **Credit cards:** signup bonus changes, transfer partner additions/removals, benefit changes, reviewer ranking shifts
+- **Flights:** program devaluations, award chart changes, new routes on points, partner additions/removals, dynamic-pricing baseline shifts
 
 ---
 id: todo-2026-04-08-002
