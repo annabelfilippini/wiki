@@ -13,15 +13,18 @@ wiki/                        # Vault root (Obsidian opens here)
 │   ├── todos.md             # Running to-do list. Fed by Telegram + sessions. BB reads this.
 │   ├── business-ideas.md    # Running business-ideas list. Fed by Telegram + sessions. BB reads this.
 │   └── briefing-*.md        # Scheduled scan reports.
+├── <project>/               # Per-project operational brain (wayloft/, pbp/, career-launch/).
+│   └── findings/, state/    # Operational artifacts only — NOT part of the knowledge graph.
 ├── CLAUDE.md                # This file. The schema.
 ├── index.md                 # Content catalog. LLM reads first on every query.
 └── log.md                   # Chronological operation record.
 ```
 
-Three folders. That's it.
+Three folders for the knowledge graph, plus per-project operational folders.
 - `raw/` is the junk drawer. Annabel dumps articles, notes, screenshots, docs here. LLM never modifies these.
 - `wiki/` is the organized version. Entity pages, concept pages, and source summaries all live here. The `type` frontmatter field distinguishes them.
 - `outputs/` is where query answers, syntheses, comparisons, slide decks, and the BB work queues (`todos.md`, `business-ideas.md`) go.
+- **Per-project folders** (`wayloft/`, `pbp/`, `career-launch/`) are **operational artifacts, not knowledge-graph content.** They hold findings from project-scoped agents (e.g., Wayloft QA sweeps) and project-specific state. They do NOT appear in `index.md`, are NOT wikilinked from concept pages, and are NOT counted as wiki content by lint. Each project's brain is isolated — findings for one project never cross into another, and they never bleed into the general knowledge graph.
 
 ## Conventions
 
