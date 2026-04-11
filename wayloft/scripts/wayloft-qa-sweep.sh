@@ -9,12 +9,12 @@
 # from a laptop with the wiki repo checked out.
 #
 # Env expected (load from /opt/wayloft/.env on VPS, apps/web/.env.local on laptop):
-#   NEXT_PUBLIC_SUPABASE_URL
-#   SUPABASE_SERVICE_ROLE_KEY
+#   SUPABASE_URL
+#   SUPABASE_SERVICE_KEY
 #   VERCEL_TOKEN                (optional — check is skipped if missing)
 #   WAYLOFT_LIVE_URL            (default: https://wayloft.app)
 #   TELEGRAM_BOT_TOKEN          (optional — no alert fired if missing)
-#   TELEGRAM_CHAT_ID            (optional — no alert fired if missing)
+#   ANNABEL_CHAT_ID            (optional — no alert fired if missing)
 #   WAYLOFT_ENV_FILE            (override env file path, default: /opt/wayloft/.env)
 
 set -uo pipefail
@@ -39,7 +39,7 @@ fi
 
 WAYLOFT_LIVE_URL="${WAYLOFT_LIVE_URL:-https://wayloft.app}"
 
-if [ -z "${NEXT_PUBLIC_SUPABASE_URL:-}" ] || [ -z "${SUPABASE_SERVICE_ROLE_KEY:-}" ]; then
+if [ -z "${SUPABASE_URL:-}" ] || [ -z "${SUPABASE_SERVICE_KEY:-}" ]; then
   echo "ERROR: Supabase env vars missing from $ENV_FILE" >&2
   exit 1
 fi
@@ -52,9 +52,9 @@ FINDING_FILE="$FINDINGS_DIR/${TS_FILENAME}-qa-sweep.md"
 # -- Check A: Supabase ------------------------------------------------------
 SB_TMP="$(mktemp)"
 SB_METRICS="$(curl -sS -o "$SB_TMP" -w "%{http_code}|%{time_total}|%{size_download}" \
-  -H "apikey: $SUPABASE_SERVICE_ROLE_KEY" \
-  -H "Authorization: Bearer $SUPABASE_SERVICE_ROLE_KEY" \
-  "$NEXT_PUBLIC_SUPABASE_URL/rest/v1/upcoming_flights?select=*&limit=1" 2>/dev/null || echo "000|0|0")"
+  -H "apikey: $SUPABASE_SERVICE_KEY" \
+  -H "Authorization: Bearer $SUPABASE_SERVICE_KEY" \
+  "$SUPABASE_URL/rest/v1/upcoming_flights?select=*&limit=1" 2>/dev/null || echo "000|0|0")"
 SB_HTTP="$(echo "$SB_METRICS" | cut -d'|' -f1)"
 SB_TIME_S="$(echo "$SB_METRICS" | cut -d'|' -f2)"
 SB_MS="$(awk -v t="$SB_TIME_S" 'BEGIN{printf "%d", t*1000}')"
@@ -147,17 +147,17 @@ fi
 ALERTED="false"
 ALERT_NOTE=""
 if [ "$SEVERITY" = "urgent" ]; then
-  if [ -n "${TELEGRAM_BOT_TOKEN:-}" ] && [ -n "${TELEGRAM_CHAT_ID:-}" ]; then
+  if [ -n "${TELEGRAM_BOT_TOKEN:-}" ] && [ -n "${ANNABEL_CHAT_ID:-}" ]; then
     ALERT_MSG="🚨 Wayloft QA sweep URGENT — SB=${SB_STATUS} VC=${VC_STATUS} LS=${LS_STATUS}. See wayloft/findings/${TS_FILENAME}-qa-sweep.md"
     if curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
-        --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+        --data-urlencode "chat_id=${ANNABEL_CHAT_ID}" \
         --data-urlencode "text=${ALERT_MSG}" > /dev/null 2>&1; then
       ALERTED="true"
     else
       ALERT_NOTE="Telegram send failed — alert not delivered."
     fi
   else
-    ALERT_NOTE="Urgent finding but Telegram creds missing (TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID) — no alert fired."
+    ALERT_NOTE="Urgent finding but Telegram creds missing (TELEGRAM_BOT_TOKEN / ANNABEL_CHAT_ID) — no alert fired."
   fi
 fi
 

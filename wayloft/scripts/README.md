@@ -12,12 +12,12 @@ Runtime health sweep. Checks Supabase, Vercel, and the live site. Writes a findi
 
 From `/opt/wayloft/.env` on the VPS (or `apps/web/.env.local` on a laptop, via `WAYLOFT_ENV_FILE` override):
 
-- `NEXT_PUBLIC_SUPABASE_URL` — already present on VPS
-- `SUPABASE_SERVICE_ROLE_KEY` — already present on VPS
+- `SUPABASE_URL` — already present on VPS
+- `SUPABASE_SERVICE_KEY` — already present on VPS
 - `VERCEL_TOKEN` — **needs to be added to VPS env**
 - `WAYLOFT_LIVE_URL` — defaults to `https://wayloft.app` if unset
 - `TELEGRAM_BOT_TOKEN` — optional, required only for urgent alerts
-- `TELEGRAM_CHAT_ID` — optional, required only for urgent alerts
+- `ANNABEL_CHAT_ID` — optional, required only for urgent alerts
 
 ### Manual laptop run
 
@@ -95,7 +95,7 @@ Optional — Telegram alert creds (can be added later):
 ```bash
 cat >> /opt/wayloft/.env <<'EOF'
 TELEGRAM_BOT_TOKEN=<paste annie bot token>
-TELEGRAM_CHAT_ID=<paste your chat id>
+ANNABEL_CHAT_ID=<paste your chat id>
 EOF
 ```
 
@@ -168,7 +168,7 @@ First automated run will fire at 06:00 UTC. Watch for a new commit on the wiki r
 The default path is `/opt/wayloft/.env`. Override with `WAYLOFT_ENV_FILE=/custom/path`.
 
 **Script exits with "Supabase env vars missing":**
-`NEXT_PUBLIC_SUPABASE_URL` or `SUPABASE_SERVICE_ROLE_KEY` isn't in the env file. Check with `grep SUPABASE /opt/wayloft/.env` (var names only, don't echo values).
+`SUPABASE_URL` or `SUPABASE_SERVICE_KEY` isn't in the env file. Check with `grep SUPABASE /opt/wayloft/.env` (var names only, don't echo values).
 
 **Vercel check always returns "warning":**
 `VERCEL_TOKEN` isn't set in env, or the token is invalid. Test the token: `curl -H "Authorization: Bearer $VERCEL_TOKEN" https://api.vercel.com/v2/user` (should return your Vercel user JSON).
