@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-04-12] briefing | Morning Briefing — 2026-04-12
+
+**File:** `outputs/briefing-daily-ai-2026-04-12.md`
+**Sections:** AI Tools (GPT-6 "Spud" imminent, OpenAI Super App ChatGPT+Codex+Atlas, vibe coding Day-1 vs Day-2 stack split), AI Industry (Goldman Sachs 16K jobs/month + Gen Z scarring, Gemini 3.1 Pro benchmark leader, pharma tariffs + Iran weapons tariff threat), World News (Islamabad US-Iran talks collapse after 21hrs, Russia-Ukraine Easter ceasefire collapses Day 1, tariff consumer impact window now, Peru elections)
+
 ## [2026-04-11] briefing | Morning Briefing — 2026-04-11
 
 **File:** `outputs/briefing-daily-ai-2026-04-11.md`
