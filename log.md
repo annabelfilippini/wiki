@@ -4,6 +4,14 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-04-13] scan | Wayloft Competitor Scan — 2026-04-13
+
+**File:** `outputs/briefing-weekly-competitors-2026-04-13.md`
+**Competitors scanned:** CardPointers, Point.me, AwardWallet, The Points Guy, MaxRewards, Seats.aero, AwardFares, Rove Miles, Capital One Travel, NerdWallet, Bankrate.
+**Top threats:** CardPointers v7 MCP/AI integration (direct competitor, significant product leap). AwardWallet content pivot (SEO competition heating up).
+**Top opportunities:** Rove Miles uncovered by any tool (first-mover SEO). Annual-fee interactive tool gap uncontested. r/awardtravel went private — audience displaced.
+**Recommended actions:** Cover Rove Miles now. Define Wayloft's MCP answer. Publish top-5 Worth-It pages before AwardWallet notices.
+
 ## [2026-04-13] scan | Weekly Opportunity Scan — 2026-04-13
 
 **File:** `outputs/briefing-weekly-opportunities-2026-04-13.md`
