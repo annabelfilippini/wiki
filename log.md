@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-04-13] briefing | Morning Briefing — 2026-04-13
+
+**File:** `outputs/briefing-daily-ai-2026-04-13.md`
+**Sections:** AI Tools (Cursor 3 agent-first relaunch, GPT-6 "Spud" imminent April 14 tip, Yahoo Scout Claude-powered answer engine, Attie Bluesky no-code feed builder, Dimensional robotics OS trending), AI Industry (Anthropic Managed Agents enterprise launch, $242B VC into AI in Q1 = 80% of global VC, 49% Gen Z say degree devalued + 16K jobs/month displacement, Gemini 3.1 Ultra 2M token native multimodal), World News (Hormuz blockade begins 10am ET ceasefire fragile oil $100, Orbán out after 16yrs Magyar supermajority EU unblocked, Ukraine Easter ceasefire 2299 violations both sides blaming, tariff consumer impact window now $1500/household peak April-October)
+
 ## [2026-04-12] briefing | Morning Briefing — 2026-04-12
 
 **File:** `outputs/briefing-daily-ai-2026-04-12.md`
