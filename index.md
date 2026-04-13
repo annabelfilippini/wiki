@@ -103,6 +103,7 @@
 
 ## Outputs
 
+- [[briefing-weekly-opportunities-2026-04-13]] -- **Weekly Opportunity Scan, Apr 13.** Top 5: Managed LLM Wiki (Karpathy first-mover window), Cross-Currency Points Optimizer (Wayloft build signal), Freelancer Scope Shield, SMB Weekly Narrative, Community Digest Engine. 7 ideas killed. Strong build signals for Wayloft and Second Brain product.
 - [[briefing-daily-ai-2026-04-08]] -- **Morning Briefing, Apr 8.** Three sections: AI Tools (Claude Sonnet 5, Claw Code, Llama 4 backlash, oh-my-codex, MCP 97M installs), AI Industry (Anthropic Project Glasswing/Mythos, GPT-5.4 computer use, OpenAI/Anthropic/Google distillation coalition, 52K AI layoffs in Q1), World News (Iran 2-week ceasefire + oil -16%, Ukraine energy ceasefire proposal + Ust-Luga strike, US tariffs at 11% highest since 1943, Geneva peace talks collapse).
 - [[briefing-daily-ai-2026-04-07]] -- **Morning Briefing, Apr 7.** Three sections: Apfel, Qwen M4, Gemma 4 edge, MCP/AAIF, llamafile; OpenAI/Anthropic/Google vs Chinese distillation, Anthropic $30B ARR, Goldman 16K AI jobs/month, skills power law; Iran Day 38, pharma tariffs 100%, Artemis II, Vietnam, NK succession.
 - [[ai-persona-pattern-deck]] -- **Marp deck.** How Ellis Church and Pikolai use the same AI persona pattern across two businesses. Proven vs. theory, risks, what's next.

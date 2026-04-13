@@ -4,6 +4,13 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-04-13] scan | Weekly Opportunity Scan — 2026-04-13
+
+**File:** `outputs/briefing-weekly-opportunities-2026-04-13.md`
+**Sources searched:** HN Ask/Show threads (Apr 2026), Reddit (r/SideProject, r/freelancers, r/smallbusiness, r/EntrepreneurRideAlong), Product Hunt (Apr 2026 leaderboard), Indie Hackers, award travel community, Karpathy LLM Wiki coverage.
+**Top 5 survivors:** Managed LLM Wiki, Cross-Currency Points Optimizer, Freelancer Scope Shield, SMB Weekly Narrative, Community Digest Engine.
+**Key signals:** Strong build signal for Wayloft (confirmed market gap in cross-currency portfolio view). Strong build signal for Second Brain product (Karpathy first-mover window open now). 7 ideas killed.
+
 ## [2026-04-13] briefing | Morning Briefing — 2026-04-13
 
 **File:** `outputs/briefing-daily-ai-2026-04-13.md`
