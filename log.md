@@ -339,6 +339,11 @@
 
 **Next:** Run `/deep-ingest` to verify the 4 renamed files are now correctly recognized as "already processed" (mirror exists → skip). The only raw file that should remain unprocessable is any content that legitimately hasn't been ingested yet.
 
+## [2026-04-14] briefing | Morning Briefing — 2026-04-14
+
+**Output:** `outputs/briefing-daily-ai-2026-04-14.md`
+**Summary:** Daily AI briefing. Tools: OpenClaw security meltdown (9 CVEs in 4 days, 135K exposed instances, Hong Kong ban — despite 351K GitHub stars), Dimensional OS/dimos (agentic OS for physical robots — humanoids, drones, quadrupeds — in pure Python, no ROS, GitHub #3 trending), GPT-5.4 record computer-use benchmarks (OSWorld-Verified + WebArena Verified, record scores). Industry: OpenAI shareholder memo attacking Anthropic ("operating on meaningfully smaller curve" — 30GW vs 7–8GW compute by 2030, both near IPO), Anthropic exploring custom AI chips (early-stage, NVIDIA dependency reduction play), Claude Mythos zero-day discovery + Project Glasswing governance precedent (every major OS/browser, autonomous 17-year-old FreeBSD RCE exploit — model withheld, restricted to 40 orgs). World: US naval blockade of Iranian ports in effect (April 13, Islamabad talks collapsed, Brent crude $102/barrel, UK not joining, France/UK pursuing parallel talks), Hungary election — Orban ousted after 16 years (Tisza 53.6% vs Fidesz 37.8%, record 76.5% turnout, 2/3 majority, EU Ukraine aid veto expected to end), Russia violates Easter ceasefire ~11,000 times (artillery, drones, assault actions during declared pause).
+
 ## [2026-04-09] briefing | Morning Briefing — 2026-04-09
 
 **Output:** `outputs/briefing-daily-ai-2026-04-09.md`
