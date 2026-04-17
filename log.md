@@ -349,6 +349,11 @@
 
 **Next:** Run `/deep-ingest` to verify the 4 renamed files are now correctly recognized as "already processed" (mirror exists → skip). The only raw file that should remain unprocessable is any content that legitimately hasn't been ingested yet.
 
+## [2026-04-17] briefing | Morning Briefing — 2026-04-17
+
+**Output:** `outputs/briefing-daily-ai-2026-04-17.md`
+**Summary:** Daily AI briefing. Tools: Claude Opus 4.7 (3x vision resolution, xhigh reasoning, Glasswing cybersecurity kill switch baked in), Anthropic Managed Agents Studio (no-code agent deployment, enterprise waitlist), Plain Python framework for humans + agents (Show HN trending), MCP 2026 roadmap (97M installs, Linux Foundation governance, enterprise readiness push), "Ask HN: Where's the disruptive AI software?" thread capturing builder community self-audit. Industry: OpenAI CEO/CFO IPO split (Altman wants Q4 2026, Friar citing $14B loss forecast), Opus 4.7's architecture-level cybersecurity blocking as safety precedent, $242B AI VC in Q1 2026 (80% of all global VC), Stanford AI Index trust + incident trends. World: Russia's deadliest Ukraine strike of 2026 (659 drones + 44 missiles, 18 killed including child, Easter ceasefire broken, Zelenskyy touring Europe), US-Iran Hormuz blockade fully implemented (13 ships turned back, April 21 ceasefire expiry, Islamabad talks collapsed, Pakistan hosting round 2), Pope Leo XIV condemns war tyrants on Africa visit (Sudan "forgotten catastrophe"), US tariff one-year-later accounting (11% effective rate, highest since 1943, IEEPA ruled illegal, Section 122 replacement).
+
 ## [2026-04-14] briefing | Morning Briefing — 2026-04-14
 
 **Output:** `outputs/briefing-daily-ai-2026-04-14.md`
