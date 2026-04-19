@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-04-19] briefing | Morning Briefing — 2026-04-19
+
+**File:** `outputs/briefing-daily-ai-2026-04-19.md`
+**Sections:** AI Tools (Claude Opus 4.7 — task budgets + vision upgrade + cyber safeguards, dual-agent coding workflows normalized Cursor+Claude Code, Kimi 2M context window gaining traction, Brila PH launch 1213 upvotes websites from Maps reviews, Anthropic Cyber Verification Program), AI Industry (Anthropic passes OpenAI in revenue $30B ARR + enterprise customers doubled to 1000+, Frontier Model Forum becomes anti-distillation intel network 16M unauthorized exchanges documented, Anthropic-Google-Broadcom 3.5GW TPU deal, Apple reimagines Siri on Google Gemini), World News (Iran re-closes Strait of Hormuz April 18 — tanker fired on, ceasefire expires April 22, progress reported, Russia fires 219 drones at Ukraine overnight 190 intercepted + Lavrov says no talks priority, US tariffs post-SCOTUS 13.7% effective rate + court challenges, Israel-Lebanon ceasefire holds)
+
 ## [2026-04-16] briefing | Morning Briefing — 2026-04-16
 
 **File:** `outputs/briefing-daily-ai-2026-04-16.md`
