@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-04-20] scan | Wayloft Competitor Scan — 2026-04-20
+
+**File:** `outputs/briefing-weekly-competitors-2026-04-20.md`
+**Top findings:** CardPointers v7 ships ChatGPT/Claude/MCP integration + Android beta (direct threat to Ellis Church positioning), PointsYeah named NerdWallet #1 with transfer bonus bundling, Kudos Premium "Autopilot" launch targets same casual-optimizer user as Wayloft, MaxRewards sync reliability documented as major user pain point (opportunity), AwardFares wins Scandinavian Business Award + AI Flex Alerts (neutral/watch).
+
 ## [2026-04-20] briefing | Morning Briefing — 2026-04-20
 
 **File:** `outputs/briefing-daily-ai-2026-04-20.md`
