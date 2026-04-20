@@ -103,6 +103,7 @@
 
 ## Outputs
 
+- [[briefing-weekly-opportunities-2026-04-20]] -- **Weekly Opportunity Scan, Apr 20.** Top 5: Construction WIP Automation (QBO gap), Startup Compliance Calendar, B2B Case Study Generator from Reviews, SMB Employment Law Monitor, Personal Brand Visibility in AI Search (creator tier). Wayloft signal: PointsYeah #1 NerdWallet but card-opt wedge intact; Awayz multi-modal is new threat. 7 ideas killed.
 - [[briefing-weekly-competitors-2026-04-13]] -- **Wayloft Competitor Brief, Apr 13.** Top threats: CardPointers v7 MCP/AI integration, AwardWallet content pivot. Top opps: Rove Miles uncovered, annual-fee tool gap uncontested. Actions: cover Rove Miles now, define MCP answer, publish Worth-It top 5.
 - [[briefing-weekly-opportunities-2026-04-13]] -- **Weekly Opportunity Scan, Apr 13.** Top 5: Managed LLM Wiki (Karpathy first-mover window), Cross-Currency Points Optimizer (Wayloft build signal), Freelancer Scope Shield, SMB Weekly Narrative, Community Digest Engine. 7 ideas killed. Strong build signals for Wayloft and Second Brain product.
 - [[briefing-daily-ai-2026-04-08]] -- **Morning Briefing, Apr 8.** Three sections: AI Tools (Claude Sonnet 5, Claw Code, Llama 4 backlash, oh-my-codex, MCP 97M installs), AI Industry (Anthropic Project Glasswing/Mythos, GPT-5.4 computer use, OpenAI/Anthropic/Google distillation coalition, 52K AI layoffs in Q1), World News (Iran 2-week ceasefire + oil -16%, Ukraine energy ceasefire proposal + Ust-Luga strike, US tariffs at 11% highest since 1943, Geneva peace talks collapse).

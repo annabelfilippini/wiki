@@ -4,6 +4,13 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-04-20] scan | Weekly Opportunity Scan — 2026-04-20
+
+**File:** `outputs/briefing-weekly-opportunities-2026-04-20.md`
+**Sources searched:** HN Ask/Show threads (Apr 2026), Reddit (r/SideProject, r/microsaas, r/EntrepreneurRideAlong, r/humanresources, r/Construction), Product Hunt (Apr 2026 leaderboard + weekly Apr 13), Indie Hackers, NerdWallet award travel coverage, QBO community forums, GEO/AI-search visibility market, regulatory compliance market, Kruze/Shay CPA startup compliance guides, AIToolly claude-mem coverage.
+**Top 5 survivors:** Construction WIP Automation for QBO, Startup Compliance Calendar, B2B Case Study Generator from Reviews, SMB Employment Law Change Monitor, Personal Brand Visibility in AI Search (Creator Tier).
+**Key signals:** Wayloft competitive update — PointsYeah named NerdWallet #1 but focuses on award SEARCH not card OPTIMIZATION; Wayloft's wedge intact. Awayz is a new multi-modal competitor to watch. Award Flight Daily MCP server is a potential Wayloft data source. Second Brain window still open — claude-mem/lcm/Memorix are developer tools, not managed consumer wikis. 7 ideas killed.
+
 ## [2026-04-19] briefing | Morning Briefing — 2026-04-19
 
 **File:** `outputs/briefing-daily-ai-2026-04-19.md`
