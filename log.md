@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-04-21] briefing | Morning Briefing — 2026-04-21
+
+**File:** `outputs/briefing-daily-ai-2026-04-21.md`
+**Sections:** AI Tools (Qwen 3.5 tops r/LocalLLaMA community consensus, llamafile/Mozilla single-executable local LLM gaining HN traction, agent orchestration wave dominates Product Hunt this week — Hapax/Crossnode/Adaptive, Fabricate-era AI app builders sparking HN debate on junior dev roles), AI Industry (OpenAI abandons Sora + pivots hard to B2B — business now 40% of revenue targeting 50%, Anthropic $30B ARR edges OpenAI + gap widening, OpenAI/Anthropic/Google anti-China distillation coalition via Frontier Model Forum — 24K fake accounts caught cloning Claude, Meta Muse Spark goes closed-source breaking Llama open-source tradition), World News (US-Iran ceasefire expires Wednesday — US seized Iranian vessel + Iran vows retaliation + Vance heading to Islamabad but Iran says no decision on talks, Kyiv mass shooting 6 dead Moscow-born attacker investigated as terrorism, UK probes Iranian proxy arson on London Jewish sites, US tariffs shifting from businesses to consumers in 2026 — $760-940 household loss projected)
+
 ## [2026-04-20] scan | Wayloft Competitor Scan — 2026-04-20
 
 **File:** `outputs/briefing-weekly-competitors-2026-04-20.md`
