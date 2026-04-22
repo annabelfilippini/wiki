@@ -376,6 +376,11 @@
 
 **Next:** Run `/deep-ingest` to verify the 4 renamed files are now correctly recognized as "already processed" (mirror exists → skip). The only raw file that should remain unprocessable is any content that legitimately hasn't been ingested yet.
 
+## [2026-04-22] briefing | Morning Briefing — 2026-04-22
+
+**Output:** `outputs/briefing-daily-ai-2026-04-22.md`
+**Summary:** Daily AI briefing. Tools: GPT-Rosalind (OpenAI life sciences model, drug discovery, 50+ science tool integrations, Amgen/Moderna/Allen Institute partners), Mythos URL-guessing breach (Discord group accessed "too dangerous" model via guessed API endpoint, Bloomberg live demo, Anthropic investigating), Nature paper (human scientists still outperform AI agents on complex open-ended research tasks). Industry: NSA using Mythos despite Pentagon blacklisting Anthropic (DoD supply-chain-risk label, NSA using for vuln scanning, Dario met Wiles + Bessent), Novo Nordisk x OpenAI full-stack deal (discovery → manufacturing, end-of-2026 target), PwC AI performance study (20% of companies capturing 75% of gains, AI-native wins over AI-retrofitted), Microsoft $10B Japan AI infrastructure commitment (data centers + 1M engineer training). World: Iran ceasefire extended indefinitely (blockade stays, Iran won't negotiate under pressure, gunboat fires on ship hours after extension — day 54), Ukraine (143 Russian drones, 116 intercepted, Sumy medical facility struck, 194 ground attacks, 1.32M cumulative Russian losses), Israel-Lebanon round 2 talks at State Dept today (Rubio + Huckabee leading, 2,454 Lebanese dead, strikes continuing despite ceasefire).
+
 ## [2026-04-17] briefing | Morning Briefing — 2026-04-17
 
 **Output:** `outputs/briefing-daily-ai-2026-04-17.md`
