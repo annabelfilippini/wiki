@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-04-23] briefing | Morning Briefing — 2026-04-23
+
+**File:** `outputs/briefing-daily-ai-2026-04-23.md`
+**Sections:** AI Tools (Rowboat open-source AI coworker + living knowledge graph — Karpathy-inspired Show HN hit, SpeakON MagSafe AI device #1 Product Hunt April 22, Google A2A protocol v1.0 in production at 150+ orgs, Qwen 3.5 + Ollama as r/LocalLLaMA default stack post-Muse-Spark-closure), AI Industry (Anthropic $100B AWS commitment + $25B Amazon investment + $30B ARR tripling from $9B in 4 months, Google Cloud Next 2026 full-stack agentic bet — Gemini Enterprise Agent Platform + Workspace Studio + 8th-gen TPUs + $750M partner fund, foundation layer consolidation thesis — Anthropic and Google locking compute + protocols simultaneously), World News (Iran seizes MSC Francesca + Epaminondas hours after Trump extends ceasefire — Strait still closed + FM calls blockade act of war, Ukraine EU 20th sanctions package passed after Hungary/Slovakia drop veto + Druzhba pipeline resumes, US tariff refund system live for 330K+ importers after Supreme Court ruling + ongoing Court of International Trade challenges)
+
 ## [2026-04-21] briefing | Morning Briefing — 2026-04-21
 
 **File:** `outputs/briefing-daily-ai-2026-04-21.md`
