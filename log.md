@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-04-25] briefing | Morning Briefing — 2026-04-25
+
+**File:** `outputs/briefing-daily-ai-2026-04-25.md`
+**Sections:** AI Tools (OpenClaw security meltdown — 9 CVEs in 4 days + 135K exposed instances + China enterprise bans, ChatGPT Images 2.0 — first reasoning image model, text rendering that works, Thinking mode for Plus/Pro; Runway Gen-4.5 — image-to-video added, r/AIVideo default tool; OpenAI Codex workspace agents in research preview for Business/Enterprise teams), AI Industry (Anthropic extends Microsoft 365 connector to all Claude users — Outlook/Teams/SharePoint/OneDrive; Anthropic locks multi-gigawatt next-gen TPU compute for 2027; Claude Sonnet 4.6 leads GDPval-AA Elo at 1633 at Sonnet pricing; A2A protocol v1.2 under Linux Foundation, 150+ orgs in production including Microsoft/AWS/Salesforce), World News (Iran-US Islamabad talks today — Witkoff+Kushner in Pakistan, Iran FM Araghchi there too but Tehran denies meeting is planned; Trump orders US military to shoot Iranian small boats in Strait of Hormuz; Duterte committed to ICC trial on 3 counts crimes against humanity for 76 murders)
+
 ## [2026-04-24] briefing | Morning Briefing — 2026-04-24
 
 **File:** `outputs/briefing-daily-ai-2026-04-24.md`
