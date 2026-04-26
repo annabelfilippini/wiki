@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-04-26] briefing | Morning Briefing — 2026-04-26
+
+**File:** `outputs/briefing-daily-ai-2026-04-26.md`
+**Sections:** AI Tools (DeepSeek V4-Pro + V4-Flash — MIT open weights, 1M context, SWE-bench 80.6% near Claude Opus 4.6, $0.14/M tokens for Flash; Gemini CLI v0.38.2 — Google's free open-source terminal agent with 1K req/day, MCP-native, @search grounding; Emergent Wingman — messaging-first autonomous agent for non-developers; Cursor 3 + parallel-agent workspaces converging across Claude Code/Copilot/Codex), AI Industry (Sora app dies today April 26 — $1M/day compute burn, Disney blindsided 1hr before announcement, video economics don't work at consumer scale; DeepSeek V4 MIT release as pricing bomb + OpenAI/Anthropic IP war over model cloning; GPT-5.5 rolling out to all paid tiers; Ukraine deploying 25K autonomous ground robots in H1 2026), World News (Iran rules out next negotiations round — nuclear enrichment unresolved, ceasefire holds but talks stalled; Russia's largest overnight barrage in weeks — 261 guided bombs + 6,849 drones, 7 killed; US tariff refund system live with $127B in claims + April 28 hearings, effective rate 11% highest since 1943; coordinated militant attack across Mali including Bamako)
+
 ## [2026-04-25] briefing | Morning Briefing — 2026-04-25
 
 **File:** `outputs/briefing-daily-ai-2026-04-25.md`
