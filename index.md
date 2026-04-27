@@ -103,6 +103,7 @@
 
 ## Outputs
 
+- [[briefing-weekly-opportunities-2026-04-27]] -- **Weekly Opportunity Scan, Apr 27.** Top 5: Agentic PM Workspace (LangAlpha pattern), New Grad Compensation & Benefits Decoder (no competitor), Startup SaaS Renewal Tracker (Okta angle), Freelancer Scope Creep Monitor (ScopeShield validates market), AI Visibility for Solo Creators (act this quarter). Wayloft annual-fee angle uncontested x3 weeks. LangAlpha Show HN validates "Claude Code for vertical" pattern.
 - [[briefing-weekly-opportunities-2026-04-20]] -- **Weekly Opportunity Scan, Apr 20.** Top 5: Construction WIP Automation (QBO gap), Startup Compliance Calendar, B2B Case Study Generator from Reviews, SMB Employment Law Monitor, Personal Brand Visibility in AI Search (creator tier). Wayloft signal: PointsYeah #1 NerdWallet but card-opt wedge intact; Awayz multi-modal is new threat. 7 ideas killed.
 - [[briefing-weekly-competitors-2026-04-13]] -- **Wayloft Competitor Brief, Apr 13.** Top threats: CardPointers v7 MCP/AI integration, AwardWallet content pivot. Top opps: Rove Miles uncovered, annual-fee tool gap uncontested. Actions: cover Rove Miles now, define MCP answer, publish Worth-It top 5.
 - [[briefing-weekly-opportunities-2026-04-13]] -- **Weekly Opportunity Scan, Apr 13.** Top 5: Managed LLM Wiki (Karpathy first-mover window), Cross-Currency Points Optimizer (Wayloft build signal), Freelancer Scope Shield, SMB Weekly Narrative, Community Digest Engine. 7 ideas killed. Strong build signals for Wayloft and Second Brain product.

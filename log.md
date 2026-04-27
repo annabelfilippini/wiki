@@ -4,6 +4,13 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-04-27] scan | Weekly Opportunity Scan — 2026-04-27
+
+**File:** `outputs/briefing-weekly-opportunities-2026-04-27.md`
+**Sources searched:** HN Ask/Show threads (Apr 2026 — LangAlpha Show HN, "Ask HN: What are you working on?" April threads, "Ask HN: SaaS product ideas"), Reddit (r/SideProject, r/microsaas, r/EntrepreneurRideAlong, r/smallbusiness, r/freelance), Product Hunt (Apr 2026 monthly leaderboard), Indie Hackers, FrequentMiler/award travel community, MicroGaps scope creep research, GEO tools landscape (AthenaHQ, Otterly, SE Ranking), Okta SaaS management research, new grad equity/benefits market.
+**Top 5 survivors:** Agentic PM Workspace (LangAlpha pattern validated), New Grad Compensation & Benefits Decoder (no competitor found), Startup SaaS Renewal & Redundancy Tracker (Okta research angle), Freelancer Scope Creep Monitor (ScopeShield competitor validates market), AI Visibility for Solo Creators (carry from Apr 20, window narrowing — act this quarter).
+**Key signals:** Wayloft annual-fee decision angle confirmed uncontested for third consecutive week. PointsYeah dominates award search; Wayloft absent from search results = distribution is the problem. LangAlpha pattern ("Claude Code for [vertical]") validated by HN Show HN this week — PM workspace is the strongest open slot. New grad benefits/equity decoder is genuinely novel with no competitor found. SaaS renewal tracker has a 12–18 month window before Ramp/Brex expand into this tier. 7 ideas killed.
+
 ## [2026-04-27] briefing | Morning Briefing — 2026-04-27
 
 **File:** `outputs/briefing-daily-ai-2026-04-27.md`
