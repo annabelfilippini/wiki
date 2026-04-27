@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-04-27] briefing | Morning Briefing — 2026-04-27
+
+**File:** `outputs/briefing-daily-ai-2026-04-27.md`
+**Sections:** AI Tools (Cursor 3 agent-window identity debate — parallel agents vs IDE-first philosophy, dev Twitter/Reddit still arguing 3 weeks post-launch; GPT-5.4 computer use as daily driver — record OSWorld benchmarks, o1/o3 retired; Claude Opus 4.7 ships April 16 — third major Anthropic release in 10 weeks; Google enterprise agent inbox at Cloud Next — first-class product for managing multi-agent workflows), AI Industry (Google $40B Anthropic investment — $10B now at $350B valuation + $30B milestone-contingent, Anthropic ARR $30B up from $9B, $65B+ raised this month combined with Amazon; OpenAI/Anthropic/Google anti-cloning coalition via Frontier Model Forum — 24K fake accounts caught, competitors cooperating on shared security threat; HN "two kinds of AI users" schism — power users compounding, everyone else using it like Google), World News (US-Iran talks collapse — Trump canceled envoys, Pezeshkian says no negotiations under blockade, FM meets Putin in Moscow, 38 ships blocked; Ukraine strikes Crimea — 3 warships + fighter jet + air defense hit overnight, Russia Belousov in Pyongyang deepening DPRK ties; Lebanon 2,509 killed since March 2 per health ministry; WHCD gunman subdued — officer shot but OK, under investigation; US tariff refund system $127B claims from 56K+ importers, 8.9% effective rate)
+
 ## [2026-04-26] briefing | Morning Briefing — 2026-04-26
 
 **File:** `outputs/briefing-daily-ai-2026-04-26.md`
