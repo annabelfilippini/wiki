@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-04-28] briefing | Morning Briefing — 2026-04-28
+
+**Output:** `outputs/briefing-daily-ai-2026-04-28.md`
+**Summary:** Daily AI briefing. Tools: Cursor 3 parallel agents + Agents Window (developer reaction split on architect-vs-coder philosophy shift), DeepSeek V4-Pro/Flash (frontier coding benchmarks at $0.145/M — open weights, pressure on Western pricing), App Store boom (104% YoY, Lovable $20M ARR in 2 months), Claude Code powers GitHub Copilot enterprise tier. Industry: Google $40B Anthropic investment ($10B now, $30B contingent — Anthropic $30B ARR), Meta 8,000 layoffs + $135B AI capex (20k jobs cut across Meta+Microsoft in one week), Big Tech talent exodus to AI startups ($18.8B VC to 2025+ AI startups, Periodic Labs $300M raise), OpenAI $25B+ revenue eyeing late-2026 IPO. World: Iran peace talks stall — Trump reportedly not open to Hormuz proposal (Day 59, UN warns global food emergency), King Charles state visit to Washington (state banquet tonight, Congress address tomorrow), US tariff recession risk (Goldman 45%, JP Morgan 60% global, 11% effective rate highest since 1943), IMF cuts global growth to 3.1% citing war and tariffs.
+
 ## [2026-04-27] scan | Weekly Opportunity Scan — 2026-04-27
 
 **File:** `outputs/briefing-weekly-opportunities-2026-04-27.md`
