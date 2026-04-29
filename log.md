@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-04-29] briefing | Morning Briefing — 2026-04-29
+
+**Output:** `outputs/briefing-daily-ai-2026-04-29.md`
+**Summary:** Daily AI briefing. Tools: OpenClaw hits 347K GitHub stars (most-starred project ever, open-source personal AI agent, April 25 voice TTS update), llamafile 0.9.2 + LocalScore (Mozilla single-file local LLM with hardware benchmarking), Runway ML Gen-4 still dominating AI video. Industry: OpenAI missed Q1 revenue and 1B WAU targets (WSJ) — CFO warning on capex vs. revenue, chip stocks Oracle/CoreWeave sold off; Google signed Pentagon "any lawful purpose" AI deal after Anthropic refused (Anthropic now branded DoD "supply-chain risk," injunction obtained, Trump EO draft to bring Anthropic back); AI market consolidating into two-horse race as Google-Anthropic relationship deepens and OpenAI navigates alone. World: Iran ceasefire stalls Day 60 — Trump unlikely to accept latest proposal, naval blockade continues, Brent at $112; UAE quits OPEC after 60 years (effective May 1, WTI crossed $100, cartel cohesion fracturing); James Comey indicted over "8647" seashell Instagram post (second DOJ prosecution attempt, 10-year max charges).
+
 ## [2026-04-28] briefing | Morning Briefing — 2026-04-28
 
 **Output:** `outputs/briefing-daily-ai-2026-04-28.md`
