@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-04-30] briefing | Morning Briefing — 2026-04-30
+
+**Output:** `outputs/briefing-daily-ai-2026-04-30.md`
+**Summary:** Daily AI briefing. Tools: Cursor 3 "Glass" agent-window debate continues on HN/Reddit (parallel agents vs IDE-first philosophy, SDK beta now open, $2B ARR); Grok 4.3 Beta drops for SuperGrok Heavy ($300/mo) — formatted PDF/spreadsheet/PPTX output from chat, no memory, no benchmark card; Midjourney V8.1 real price cuts (HD 3x faster/cheaper, standard 50% faster/25% cheaper); Microsoft Agent 365 launches May 1 as enterprise agent control plane. Industry: Google commits up to $40B to Anthropic ($10B now at $350B valuation + $30B contingent + 5GW compute, Anthropic ARR $30B+, IPO floated for October); OpenAI ends Microsoft exclusivity April 27 — models now on AWS, Microsoft stays primary partner through 2032 but not exclusively; Claude Opus 4.7 ships with 1M context + 12-point CursorBench jump; bigger shift: exclusive cloud AI partnerships are over, race moves up-stack to agent runtimes. World: Iran blockade extends — oil hits $126/barrel (wartime high, IEA calls it largest supply disruption in history, recession risk if H2 continues); Ukraine — mass drone strike on Odesa overnight (18+ injured), Putin offers May 9 ceasefire via Trump call, Zelensky approves new offensive operations instead; US tariffs at 11.8% effective rate = largest tax increase as % of GDP since 1993 ($1,500/household avg), IMF projects 2.4% growth, Supreme Court invalidated some tariffs.
+
 ## [2026-04-29] briefing | Morning Briefing — 2026-04-29
 
 **Output:** `outputs/briefing-daily-ai-2026-04-29.md`
