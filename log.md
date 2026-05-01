@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-01] briefing | Morning Briefing — 2026-05-01
+
+**Output:** `outputs/briefing-daily-ai-2026-05-01.md`
+**Summary:** Daily AI briefing. Tools: Microsoft 365 E7 "Frontier Suite" goes GA today ($99/user/month, Agent 365 control plane, Claude-powered, first new enterprise tier since 2015); Anthropic Mythos found and fixed 271 Firefox vulnerabilities via Project Glasswing (most concrete AI security demonstration yet); Perplexity Comet expands to enterprise with MDM deployment and Opus 4.6 as default model; App Store up 104% YoY in April — Lovable hits $20M ARR in 2 months. Industry: Anthropic closing $50B round at ~$900B valuation, IPO floated for October; OpenAI-Microsoft post-exclusivity era officially starts (models on any cloud, Azure stays primary); Huawei Ascend 950PR driving $12B AI chip revenue in 2026 (+60% YoY) — two non-interoperable AI hardware ecosystems solidifying; AI cybersecurity shift accelerating as Glasswing scales. World: May Day Strong protests nationwide today (500+ orgs, teacher walkouts, 20+ NC school districts closed, "no work no school no shopping"); Ukraine — Putin signals May 9 ceasefire, 90-95% peace deal agreed with Trump/Zelensky, Tuapse refinery struck for 4th time; Iran — US blockade stalled talks, Iran crude storage may run out in 12-22 days, gas prices +30 cents/gallon in one week; RSF press freedom index hits 25-year low (52% of countries "difficult/very serious," US 64th, only 1% of world in "good" environment).
+
 ## [2026-04-30] briefing | Morning Briefing — 2026-04-30
 
 **Output:** `outputs/briefing-daily-ai-2026-04-30.md`
