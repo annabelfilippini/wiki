@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-02] briefing | Morning Briefing — 2026-05-02
+
+**Output:** `outputs/briefing-daily-ai-2026-05-02.md`
+**Summary:** Daily AI briefing. Tools: Cursor SDK launches (April 28) — Cursor becomes programmable agent infrastructure via TypeScript API, devs can script agents from CI/CD pipelines; Show HN finds 76% of AI agent repos have no tool call guards (no validation/sandboxing — critical gap as agents hit production); Kimi K2.6 full release still generating r/LocalLLaMA buzz as strong open-weights coding model. Industry: Pentagon formally signs 7-company classified AI deal (OpenAI, Google, Microsoft, Nvidia, AWS, SpaceX, Reflection) — Anthropic remains blacklisted as "supply chain risk," CA judge blocked designation but DC Circuit upheld it, Trump signals deal "possible"; Amazon's Anthropic stake generated $16.8B in Q1 pre-tax gains (>50% of Amazon's total pre-tax income, $8B investment now worth $70B+, Fortune flags as financial-position vs. actual-business-performance risk); GPT-5.5 ships, described as OpenAI's strongest agentic model yet, no benchmark card. World: US-Iran war day 64 — ceasefire holds but peace talks deadlocked, Trump "not satisfied" with Iran's proposal, blockade continues, $4.30/gallon US gas; Senate rejects War Powers resolution at 60-day mark, legislative check sidelined; Trump announces 25% tariffs on EU autos (up from 15%), EU rejects non-compliance claim, threatens retaliation; May Day protests worldwide driven by Iran war energy costs, labor unrest spreading.
+
 ## [2026-05-01] briefing | Morning Briefing — 2026-05-01
 
 **Output:** `outputs/briefing-daily-ai-2026-05-01.md`
