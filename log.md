@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-03] briefing | Morning Briefing — 2026-05-03
+
+**Output:** `outputs/briefing-daily-ai-2026-05-03.md`
+**Summary:** Daily AI briefing. Tools: DeepSeek V4 (April 24 release, MIT license, 1.6T-param MoE model at $3.48/1M tokens, benchmarks rival GPT-5.5, strong dev buzz on Reddit/HuggingFace); OpenAI Codex CLI gaining traction as open-source terminal coding agent; agentic wave goes mainstream with Microsoft Agent 365 (May 1), Lovable, Devin. Industry: AI job displacement hitting now — Goldman Sachs 16K US jobs/month, Gen Z hardest hit, Meta 8K layoffs starting May 20, CNBC flags 20K combined Meta+Microsoft cuts as AI labor crisis signal; Pentagon/Anthropic standoff — White House reportedly reopened talks after Anthropic tech announcements, but no resolution; model release velocity accelerating (4 Claude updates in 50 days, GPT-5.5 6 weeks after 5.4, Gemini 3.1 Ultra with 2M context now GA). World: Iran submits 14-point peace plan, Trump skeptical ("can't imagine it acceptable"), ceasefire violations ongoing, 3,375 dead in Iran + 2,509 in Lebanon; Ukraine — Russian drone kills 2 in Kherson civilian bus, Russia deployed 1,600+ drones past week, Trump/Zelensky 90-95% on peace deal, Belarus border activity flagged; Trump 25% EU auto tariffs take effect (up from 15% deal ceiling), EU rejects non-compliance claim, German automakers warn US consumers will pay.
+
 ## [2026-05-02] briefing | Morning Briefing — 2026-05-02
 
 **Output:** `outputs/briefing-daily-ai-2026-05-02.md`
