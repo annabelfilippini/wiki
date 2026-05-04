@@ -4,6 +4,13 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-04] scan | Weekly Opportunity Scan — 2026-05-04
+
+**File:** `outputs/briefing-weekly-opportunities-2026-05-04.md`
+**Sources searched:** HN Show HN digest (BuilderPulse Apr 16, BestOfShowHN week of Apr 25–May 2), Reddit (r/SideProject, r/microsaas, r/EntrepreneurRideAlong via search indexing), Product Hunt (top launches May 2026, hunted.space), Indie Hackers, Cursor SDK launch coverage, loyalty program devaluation sources (FrequentMiler, One Mile at a Time, LoyaltyLobby, MileageSpot), career/benefits sources (BenefitsPro, Enhancv, GlobeNewswire CareerHub), AI visibility landscape (Profound, Peec AI, HubSpot AEO), MicroGaps scope creep research.
+**Top 5 survivors:** Loyalty Devaluation Alerter (Wayloft native — Aeroplan June 1 + Amex→Cathay + Capital One→Emirates = three events, zero tools), Cursor SDK Agent Templates for Non-Engineers (3-week first-mover window post April 29 launch), New Grad Total Compensation Decoder (carry — still no competitor), Managed LLM Wiki as Product (HN top 10 validated week of Apr 25), AI Displacement Career Compass (not resume help — 90-day pivot plan for at-risk workers).
+**Key signals:** Wayloft STRONG BUILD — most concentrated loyalty devaluation run in years with no alert tool. Second Brain STRONG SIGNAL — Karpathy LLM wiki in HN top 10 confirms window still open. Community Engine: no signal. 6 ideas killed (scheduling, tariff calculator, GEO tools, agent observability, deterministic browser automation, vertical CRM).
+
 ## [2026-05-03] briefing | Morning Briefing — 2026-05-03
 
 **Output:** `outputs/briefing-daily-ai-2026-05-03.md`
