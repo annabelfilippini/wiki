@@ -4,6 +4,14 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-04] scan | Wayloft Competitor Scan — 2026-05-04
+
+**File:** `outputs/briefing-weekly-competitors-2026-05-04.md`
+**Competitors scanned:** Capital One Travel, Amex Travel, Kudos, MaxRewards, CardPointers, PointsYeah, Seats.aero, AwardFares, NerdWallet, Bankrate, HeyMax, r/churning community.
+**Top threats:** Kudos at 200K users / $10M funded / free — browser extension window closing. Capital One + Amex standalone travel apps pulling users into walled gardens.
+**Top opportunities:** NerdWallet/Bankrate annual fee calculator gap confirmed open. MaxRewards churn documented with specifics (2-4x/month re-auth). Issuer app comparison content angle available now.
+**Recommended actions:** Publish issuer app comparison piece (timely, uncontested). Add "no bank credentials" to Wayloft copy. Recalibrate extension checkpoint decision against Kudos data. Push top-5 card Worth-It pages to ranking now.
+
 ## [2026-05-04] briefing | Morning Briefing — 2026-05-04
 
 **Output:** `outputs/briefing-daily-ai-2026-05-04.md`
