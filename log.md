@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-04] briefing | Morning Briefing — 2026-05-04
+
+**Output:** `outputs/briefing-daily-ai-2026-05-04.md`
+**Summary:** Daily AI briefing. Tools: OpenClaw viral agent runtime (100K+ GitHub stars, local-first LLM-to-computer intermediary, Reddit/LinkedIn buzz); Hugging Face ml-intern open-source agent automating LLM post-training workflows end-to-end; GPT-5.5 rolling out broadly to Plus/Pro/Business/Enterprise (fewer tokens per Codex task, research workflow gains); Emergent+Lovable+Bolt stack solidifying as the vibe-coding-to-production pipeline on r/SideProject; local-first agent automation (n8n+Temporal+LLM pattern) trending on HN. Industry: Google commits $40B to Anthropic ($10B now + $30B milestones, $350B valuation, 5GW TPU compute, October IPO floated) — Fortune flags >50% of Google/Amazon Q1 AI profits came from Anthropic stakes not core products; Pentagon-Anthropic Mythos paradox (DOD blacklist stands but NSA quietly using Mythos which found zero-days in all major browsers/OSes, CA judge blocked blacklist, DC Circuit upheld it); Fed chair transition — Senate voting on Kevin Warsh this week, Powell term expires, Trump demanding rate-cut agenda; AI job displacement arriving in data (Fed analysis 19K jobs/month lost to tariff headwinds, layoffs doubling in supply chain, May Day rallies incorporate AI displacement thread). World: US-Iran war day 65 — Trump says "very positive discussions," Iran reviewing US response to 14-point proposal, CENTCOM launches Operation Freedom (15K troops, 100+ aircraft) for Strait of Hormuz, Iran warns this violates ceasefire, tanker struck near Fujairah; DHS unfunded since Feb 14 (ICE/BSO standoff, patchwork reconciliation attempted); EU-US trade friction — Trump 25% EU auto tariffs targeting Germany post-Merz criticism, Sánchez plane emergency landing in Ankara; northern Israel sirens, Lebanon ceasefire under strain.
+
 ## [2026-05-04] scan | Weekly Opportunity Scan — 2026-05-04
 
 **File:** `outputs/briefing-weekly-opportunities-2026-05-04.md`
