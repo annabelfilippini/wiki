@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-05] briefing | Morning Briefing — 2026-05-05
+
+**Output:** `outputs/briefing-daily-ai-2026-05-05.md`
+**Summary:** Daily AI briefing. Tools: Agentic AI hits default mode (Microsoft Agent 365, Devin, Lovable/Bolt/Replit vibe-to-production stack — May 2026 is the inflection); Claude Opus 4.7 in practitioners' hands (13% coding lift, high-res vision, Cyber Verification Program friction in security circles); Gemini Deep Research Agent GA (strong for multi-source synthesis, weak on real-time data); AI-assisted cyberattacks becoming mainstream threat (Project Glasswing + Opus 4.7 Cyber Verification as response). Industry: Pentagon locks out Anthropic from classified IL6/IL7 AI deals — 8 companies signed, Anthropic excluded for refusing to drop weapons/surveillance safety guardrails, Trump blacklisted them, Anthropic sued, CA judge blocked ban, DC Circuit upheld it — landmark AI safety vs. military confrontation; OpenAI breaks Microsoft cloud exclusivity (GPT-5.5 out, now distributing via Amazon + Google path); White-collar AI displacement confirmed in Q1 data (Goldman 16K jobs/month, Meta 8K AI-linked layoffs May 20, narrative shift from "augmentation" to "replacement"). World: Iran/UAE/Hormuz escalation — UAE intercepted 15 missiles + 4 drones, US sank 7 Iranian boats, Trump "Project Freedom" escort mission, ceasefire functionally in peril; Russia/Ukraine competing unilateral ceasefires for Victory Day (May 8-9) — neither recognized the other's terms, Kharkiv missile killed 7; Fed analysis: tariffs cost ~19K US jobs/month, avg $1,500/household, SCOTUS Feb ruling struck IEEPA tariff authority; Hantavirus outbreak on cruise ship off Cape Verde — 3 dead, 150 aboard, under investigation.
+
 ## [2026-05-04] scan | Wayloft Competitor Scan — 2026-05-04
 
 **File:** `outputs/briefing-weekly-competitors-2026-05-04.md`
