@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-06] briefing | Morning Briefing — 2026-05-06
+
+**Output:** `outputs/briefing-daily-ai-2026-05-06.md`
+**Summary:** Daily AI briefing. Tools: Cursor 3 parallel-agent IDE (community divided on vendor lock-in, Anysphere's answer to Claude Code/Codex); Anthropic ships 10 preconfigured financial sector agents (investment banking, asset management, insurance — vertical go-to-market); Gemini 3.1 Flash-Lite ($0.25/million tokens, 2.5× faster — inference cost floor keeps dropping). Industry: Anthropic commits $200B to Google Cloud over 5 years — accounts for 40%+ of Google's revenue backlog; Alphabet also investing $40B in Anthropic; OpenAI + Anthropic simultaneously launch rival Wall Street enterprise JVs (Anthropic: $1.5B with Goldman/Blackstone/H&F; OpenAI: $4B at $10B valuation with TPG/Brookfield/Bain) — both embed engineers in companies, AI is now consulting; center of gravity shift from model competition to infrastructure/deployment race. World: Iran — Trump pauses Operation Project Freedom (ship escort) to create deal space, blockade stays, 22,500+ mariners stranded, ceasefire fragile (Iran attacked US forces 10× since ceasefire); Ukraine — competing Victory Day ceasefires (Russia May 8–9, Ukraine May 5–6), both still fighting, Russia launched 268 drones/missiles May 2, Ukrainian drones hit Tuapse port 4th time; RSF Press Freedom Index 2026 — lowest in 25 years, US fell 7 places, Syria +36 spots post-Assad.
+
 ## [2026-05-05] briefing | Morning Briefing — 2026-05-05
 
 **Output:** `outputs/briefing-daily-ai-2026-05-05.md`
