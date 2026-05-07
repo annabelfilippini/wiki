@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-07] briefing | Morning Briefing — 2026-05-07
+
+**Output:** `outputs/briefing-daily-ai-2026-05-07.md`
+**Summary:** Daily AI briefing. Tools: OpenClaw at 347K GitHub stars (up from 100K May 4, 12K/day star velocity, 450K subreddit members — fastest-growing OS repo ever, local-first AI agent for all messaging channels); accidental AI coding stack (Cursor+Claude Code+Codex converging into unified professional workflow, 72% of devs use AI coding daily, 41% of code AI-generated, Claude Code #1 for professional engineers at 80.8% SWE-bench); llamafile renewed attention (Mozilla's single-executable local LLM runner, no Docker/Ollama, getting HN traction as privacy-conscious teams question cloud AI data policies). Industry: Anthropic ARR eclipses OpenAI for first time ($30B vs $24B, enterprise agentic workflows driving gap, not consumer chat); MCP donated to Linux Foundation / Agentic AI Foundation (97M installs, OpenAI+AWS+Google+Microsoft co-founders, standards war over — MCP is the HTTP of the agent layer); compute is the new model race (Anthropic's $200B Google Cloud commitment, CoreWeave+Amazon+Broadcom deals — capacity to serve inference at scale is the new competitive moat, Alphabet briefly topped Nvidia in market cap). World: Iran-US war — Iran expected to respond to US one-page peace memo today via Pakistani mediators; China's Wang Yi pressed Araghchi in Beijing to accept comprehensive ceasefire and reopen Hormuz (first time China publicly pushed Iran toward concessions, timed before Trump-Xi summit May 14-15); Trump threatening resumed bombing if no deal; ~3,468 dead Iran, 2,702 Lebanon. Ukraine — both competing ceasefires (Russia May 8-9, Ukraine May 5-6) collapsed; 22 killed in overnight Russian strikes; Zelenskyy says "Russia choosing war." Tariffs one-year mark — Moody's: "significant damage," $1,500/household cost, job growth stalled, inflation 3%; Trump added 25% EU auto tariff under Section 232; SCOTUS Feb ruling limited IEEPA tariff authority.
+
 ## [2026-05-06] briefing | Morning Briefing — 2026-05-06
 
 **Output:** `outputs/briefing-daily-ai-2026-05-06.md`
