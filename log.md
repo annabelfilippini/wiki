@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-08] briefing | Morning Briefing — 2026-05-08
+
+**Output:** `outputs/briefing-daily-ai-2026-05-08.md`
+**Summary:** Daily AI briefing. Tools: GPT-5.5 + Codex parallel agents in isolated git worktrees (82.7% Terminal-Bench, the moment agentic coding became production infrastructure); Kimi 2M token context window gaining practitioner attention (Moonshot AI, competes with vector DBs for certain retrieval workloads); Microsoft Agent 365 live May 1 (enterprise agent control plane — provisioning, monitoring, access control, Okta-adjacent); Hachigo quiet buzz on PH/HN (plain-language to workflow, Zapier + AI UX pattern). Industry: OpenAI + Anthropic launch rival enterprise consulting JVs on same day ($11.5B coordinated strike on consulting, Blackstone/Goldman/TPG/Bain — AI labs now competing with McKinsey); Anthropic Mythos cybersecurity crisis — Dario "narrow window" warning, ~40 orgs have access, EU locked out, Mythos found thousands of vulns in every major OS/browser, China 6-12mo behind; US govt signs pre-deployment testing agreements with Google/Microsoft/xAI (CAISI, not OpenAI/Anthropic); OpenAI at $25B ARR eyeing late-2026 IPO. World: Iran/Hormuz — UAE air defenses engaging overnight, Iran struck US Navy ships, Operation Project Freedom paused, ~1,600 ships stranded, Pakistan mediating one-page memo; Ukraine Victory Day — Russia's 48-hr ceasefire started midnight Friday, competing truces (Ukraine declared May 5-6), Russian attacks continued May 7 before truce; Hungary — Magyar sworn in Saturday, Orbán's 16-year rule ends (supermajority, pro-EU, anti-Russia 180° shift); US tariffs one-year mark — Moody's "significant damage," 19K jobs/month cost, $1,500/household, SCOTUS Feb ruling pushed Trump to Section 122.
+
 ## [2026-05-07] briefing | Morning Briefing — 2026-05-07
 
 **Output:** `outputs/briefing-daily-ai-2026-05-07.md`
