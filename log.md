@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-09] briefing | Morning Briefing — 2026-05-09
+
+**Output:** `outputs/briefing-daily-ai-2026-05-09.md`
+**Summary:** Daily AI briefing. Tools: Meta Muse Spark (Alexandr Wang's Superintelligence Labs, first flagship LLM, $115-135B capex commitment); Gemini 3.1 Ultra (2M context, native multimodal without transcription, sandboxed code execution mid-conversation); jcode + agentic coding moment (GitHub Trending, Blitzy $200M raise, 61% of engineering teams running agents — copilot-to-agent shift is here); AI-assisted cyberattacks landing (HN/security community alarm, Mythos-class capabilities in the wild, Glasswing as defender head start). Industry: Anthropic targets $900B valuation in $50B round (most valuable private co ever if closes); CAISI pre-deployment testing finalized with Google/Microsoft/xAI (US building de facto federal AI pre-clearance process); Google/Amazon Q1 AI profits were mostly Anthropic equity appreciation, not product deployment; discourse shift — AI is becoming the worker, not just the tool. World: Iran Day 70 — US/Iran close to 14-point MOU (moratorium on enrichment, Hormuz reopened, sanctions lifted), simultaneously US military disabled two Iranian tankers and Iran attacked US warships Thursday; Ukraine — Trump brokered 3-day ceasefire (May 9-11, confirmed by Zelenskyy + Kremlin, 1K POW exchange each), two prior unilateral ceasefires this week both collapsed; US tariffs one year — Moody's "significant damage," 3% inflation, stalled jobs, $1,500/household, SCOTUS Feb ruling limits IEEPA expansion; UN FAO food prices up 3rd straight month, Hormuz blockade driving fertilizer/supply shock.
+
 ## [2026-05-08] briefing | Morning Briefing — 2026-05-08
 
 **Output:** `outputs/briefing-daily-ai-2026-05-08.md`
@@ -94,7 +99,7 @@
 ## [2026-04-25] briefing | Morning Briefing — 2026-04-25
 
 **File:** `outputs/briefing-daily-ai-2026-04-25.md`
-**Sections:** AI Tools (OpenClaw security meltdown — 9 CVEs in 4 days + 135K exposed instances + China enterprise bans, ChatGPT Images 2.0 — first reasoning image model, text rendering that works, Thinking mode for Plus/Pro; Runway Gen-4.5 — image-to-video added, r/AIVideo default tool; OpenAI Codex workspace agents in research preview for Business/Enterprise teams), AI Industry (Anthropic extends Microsoft 365 connector to all Claude users — Outlook/Teams/SharePoint/OneDrive; Anthropic locks multi-gigawatt next-gen TPU compute for 2027; Claude Sonnet 4.6 leads GDPval-AA Elo at 1633 at Sonnet pricing; A2A protocol v1.2 under Linux Foundation, 150+ orgs in production including Microsoft/AWS/Salesforce), World News (Iran-US Islamabad talks today — Witkoff+Kushner in Pakistan, Iran FM Araghchi there too but Tehran denies meeting is planned; Trump orders US military to shoot Iranian small boats in Strait of Hormuz; Duterte committed to ICC trial on 3 counts crimes against humanity for 76 murders)
+**Sections:** AI Tools (OpenClaw security meltdown — 9 CVEs in 4 days + 135K exposed instances + China enterprise bans, ChatGPT Images 2.0 — first reasoning image model, text rendering that works, Thinking mode for Plus/Pro; Runway Gen-4.5 — image-to-video added, r/AIVideo default tool; OpenAI Codex workspace agents in research preview for Business/Enterprise teams), AI Industry (Anthropic extends Microsoft 365 connector to all Claude users — Outlook/Teams/SharePoint/OneDrive; Anthropic locks multi-gigawatt next-gen TPU compute for 2027; Claude Sonnet 4.6 leads GDPval-AA Elo at 1633 at Sonnet pricing; A2A protocol v1.2 under Linux Foundation, 150+ orgs in production including Microsoft/AWS/Salesforce), World News (US-Iran Islamabad talks today — Witkoff+Kushner in Pakistan, Iran FM Araghchi there too but Tehran denies meeting is planned; Trump orders US military to shoot Iranian small boats in Strait of Hormuz; Duterte committed to ICC trial on 3 counts crimes against humanity for 76 murders)
 
 ## [2026-04-24] briefing | Morning Briefing — 2026-04-24
 

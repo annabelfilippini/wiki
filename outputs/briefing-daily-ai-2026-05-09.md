@@ -1,0 +1,58 @@
+---
+title: 'Morning Briefing — 2026-05-09'
+type: synthesis
+created: 2026-05-09
+updated: 2026-05-09
+scan_type: daily-ai
+sources: []
+tags: [briefing, daily-ai]
+---
+
+# Morning Briefing — 2026-05-09
+
+## AI Tools, Tech & Advancements
+
+1. **Meta Muse Spark** — Meta's first real flagship LLM dropped today, built under Chief AI Officer Alexandr Wang's newly formed Superintelligence Labs. Competitive across multimodal perception, reasoning, health, and agentic tasks at reportedly lower compute than Llama 4's mid-size variant. Meta also announced $115–135B in AI capex for 2026, nearly double last year — Zuckerberg is done playing catch-up and betting the infrastructure race. ([Source](https://aitoolsrecap.com/Blog/ai-news-may-9-2026))
+
+2. **Google Gemini 3.1 Ultra** — Google's flagship model release of the year. 2M token context window, native processing across text, image, audio, and video without transcription intermediaries. The standout new feature: sandboxed Code Execution, where the model writes, runs, and tests code mid-conversation in a live environment. For practitioners who want one model to handle document-heavy, multimodal, code-adjacent workflows, this is the strongest option Google has shipped. ([Source](https://aitoolsrecap.com/Blog/ai-news-may-9-2026))
+
+3. **jcode + the copilot-to-agent moment** — jcode, a new open-source programming agent framework, hit GitHub Trending this week and has AI Twitter talking. The excitement isn't about jcode specifically — it's what it signals: practitioners are done with copilots that suggest code and want agents that act, test, and deploy. Blitzy's $200M raise at $1.4B valuation (announced Wednesday) for autonomous enterprise coding confirms the thesis from the funding side. 61% of engineering teams are already running some form of autonomous coding agent. The "agent as teammate" era is arriving faster than most companies are ready for. ([Sources](https://aitoolly.com/ai-news/article/2026-05-06-jcode-a-new-programming-agent-framework-emerges-as-a-trending-project-on-github), [Cybernews Centre](https://www.cybernewscentre.com/ai-startup-blitzy-raises-200m-autonomous-software-development/))
+
+4. **AI-assisted cyberattacks: 2026 is the year** — Hacker News and the security community are in an active, alarmed conversation this week. The headline: what Claude Mythos found (thousands of zero-days across every major OS and browser) is now the playbook that adversaries are running with similar-capability models. Project Glasswing is defenders getting a head start — but it's a narrow window. Security teams at companies of all sizes are now treating AI-powered exploitation as a live threat, not a 2027 problem. ([Source](https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html))
+
+## AI Industry News & Shifts
+
+1. **Anthropic eyes $900B valuation in $50B round** — New today. If this closes, Anthropic becomes the most valuable private company in history. The number is staggering — and it comes on top of the $200B Google Cloud commitment and Google's separate $40B equity investment. Revenue estimates range from $19B to $30B ARR depending on the source (different methodologies, both cited this week). The strategic logic: Anthropic is building the case that it is the infrastructure bet, not just an AI lab. Glasswing gave it a credible government/enterprise moat story; this round would give it the balance sheet to match OpenAI on distribution. ([Source](https://aitoolsrecap.com/Blog/ai-news-may-9-2026))
+
+2. **Trump administration formalizes pre-deployment AI testing** — CAISI (Center for AI Standards and Innovation) this week finalized pre-deployment testing agreements with Google DeepMind, Microsoft, and xAI, expanding on 2024 agreements with OpenAI and Anthropic. The US government now has formal pre-clearance arrangements with every major frontier lab. This is a significant regulatory shift happening quietly — a de facto federal review process for the most capable models, modeled on how the government handles dual-use tech. Worth watching: the EU is not party to these agreements and has explicitly not been given Mythos access. ([Source](https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html))
+
+3. **Google and Amazon's AI profits are mostly Anthropic equity, not product** — Fortune's analysis this week cuts through the earnings hype: a significant portion of Google and Amazon's blowout Q1 2026 "AI profits" came from the appreciation of their Anthropic equity stakes — not from deploying AI in their actual cloud or consumer businesses. This is a useful corrective. The AI profit story remains concentrated at the foundation model layer. Enterprise adoption is real but slower and messier than headline numbers suggest. If Anthropic's valuation corrects, so do some of these reported earnings. ([Source](https://fortune.com/2026/04/30/google-amazon-ai-profits-anthropic-stake-bubble-earnings-2026/))
+
+4. **The world is realizing AI isn't a tool — it's becoming the worker** — The discourse this week is crossing a threshold. It's not "AI makes developers 30% faster." It's "61% of engineering teams are running agents, Blitzy promises to replace your modernization team, and the defense industry just gave an unreleased AI model access to critical global software infrastructure." Think pieces are catching up to what builders have known for months: the shift from assistant to actor is no longer theoretical. The labor market conversation is just starting to land in mainstream publications, and it's going to accelerate. ([Source](https://medium.com/@dave-patten/the-state-of-ai-coding-agents-2026-from-pair-programming-to-autonomous-ai-teams-b11f2b39232a))
+
+## World News
+
+1. **US-Iran war, Day 70: ceasefire talks active, military strikes ongoing simultaneously** — The US and Iran are negotiating a 14-point memorandum of understanding that would declare an end to the war, trigger 30 days of detailed talks on reopening the Strait of Hormuz, limit Iran's nuclear program (including a moratorium on enrichment and removal of highly enriched uranium), and lift US sanctions. Trump says talks have been "very good" in the past 24 hours. At the same time, the US military fired on and disabled two Iranian-flagged oil tankers Friday for attempting to break the blockade — and Iran attacked three American warships Thursday, with all threats destroyed and US self-defense strikes launched in return. Iran's response to the peace framework is expected today; some US officials remain skeptical any deal will hold. ([Sources](https://www.cbsnews.com/live-updates/iran-war-trump-us-attacks-qeshm-island-ceasefire/), [CNN](https://www.cnn.com/2026/05/09/world/live-news/iran-war-news), [Al Jazeera](https://www.aljazeera.com/news/2026/5/7/what-are-us-proposals-to-end-war-and-will-iran-agree-to-them))
+
+2. **Russia-Ukraine: Trump's 3-day ceasefire (May 9–11) confirmed by both sides** — Trump announced Friday that Russia and Ukraine have agreed to a three-day ceasefire covering May 9–11, coinciding with Russia's WWII Victory Day commemorations. Both Zelenskyy and Kremlin aide Yuri Ushakov confirmed the deal. Terms include full suspension of kinetic activity and an exchange of 1,000 prisoners by each side. Context matters: two prior unilateral ceasefires this week — Russia's May 8–9 declaration and Ukraine's May 5–6 — both collapsed within hours, with each side blaming the other. Whether this US-brokered version holds through the weekend is the question. ([Sources](https://www.npr.org/2026/05/09/nx-s1-5816478/trump-russia-ukraine-ceasefire), [Al Jazeera](https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war))
+
+3. **US tariffs: one year of "significant damage," per Moody's** — One year since Trump's Liberation Day tariff regime, Moody's chief economist Mark Zandi says the economic damage is real and measurable. Inflation sits at 3% year-over-year — above the Fed's 2% target and up from 2.5% pre-tariffs. Job growth has stalled; only non-traded healthcare is meaningfully adding payrolls. Average household cost: $1,500/year. The February Supreme Court ruling (6-3, IEEPA does not authorize tariffs) limits further expansion to Section 232 authority. GDP growth is 2.1%, showing resilience, but below where it would have been. ([Source](https://fortune.com/2026/05/06/liberation-day-trump-tariffs-damage-economy-moody-zandi/))
+
+4. **Global food prices rose for the third straight month** — The UN Food and Agriculture Organization reported today that global food prices increased for the third consecutive month in April. The Middle East conflict is the key driver: the Strait of Hormuz blockade is disrupting agricultural commodity shipments and pushing up fertilizer costs globally. The compounding effect on food security in import-dependent countries in Africa and South Asia is beginning to draw attention at the UN. ([Source](https://www.gmanetwork.com/news/topstories/world/986995/live-updates-conflict-in-the-middle-east-may-9-2026/story/))
+
+## Raw Sources
+- [AI News May 9 2026 — Anthropic $900B, Meta Muse Spark, OpenAI $25B ARR](https://aitoolsrecap.com/Blog/ai-news-may-9-2026) — May 9 roundup, Anthropic valuation round + Meta flagship launch
+- [Anthropic Project Glasswing](https://www.anthropic.com/glasswing) — primary source for Mythos/Glasswing initiative
+- [jcode GitHub trending](https://aitoolly.com/ai-news/article/2026-05-06-jcode-a-new-programming-agent-framework-emerges-as-a-trending-project-on-github) — programming agent framework, agentic coding signal
+- [Blitzy $200M raise](https://www.cybernewscentre.com/ai-startup-blitzy-raises-200m-autonomous-software-development/) — autonomous enterprise coding funding
+- [2026: The Year of AI-Assisted Attacks](https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html) — security community response to Mythos-class capabilities
+- [Trump admin AI oversight — CNBC](https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html) — CAISI pre-deployment testing agreements
+- [Google/Amazon AI profits from Anthropic stake — Fortune](https://fortune.com/2026/04/30/google-amazon-ai-profits-anthropic-stake-bubble-earnings-2026/) — earnings analysis, foundation-layer concentration
+- [State of AI Coding Agents 2026 — Medium](https://medium.com/@dave-patten/the-state-of-ai-coding-agents-2026-from-pair-programming-to-autonomous-ai-teams-b11f2b39232a) — practitioner perspective on agent transition
+- [US-Iran war live updates — CBS News](https://www.cbsnews.com/live-updates/iran-war-trump-us-attacks-qeshm-island-ceasefire/) — tanker strikes + peace framework
+- [US-Iran peace proposal — CNN](https://www.cnn.com/2026/05/09/world/live-news/iran-war-news) — Day 70 live coverage
+- [Al Jazeera — US proposals to end war](https://www.aljazeera.com/news/2026/5/7/what-are-us-proposals-to-end-war-and-will-iran-agree-to-them) — multiperspective coverage of MOU terms
+- [Trump 3-day Ukraine ceasefire — NPR](https://www.npr.org/2026/05/09/nx-s1-5816478/trump-russia-ukraine-ceasefire) — confirmed ceasefire terms
+- [Al Jazeera — Ukraine ceasefire announced](https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war) — additional confirmation
+- [Liberation Day tariffs one-year — Fortune](https://fortune.com/2026/05/06/liberation-day-trump-tariffs-damage-economy-moody-zandi/) — Moody's economic damage assessment
+- [Middle East food price impact — GMA News](https://www.gmanetwork.com/news/topstories/world/986995/live-updates-conflict-in-the-middle-east-may-9-2026/story/) — UN FAO food price report
