@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-10] briefing | Morning Briefing — 2026-05-10
+
+**Output:** `outputs/briefing-daily-ai-2026-05-10.md`
+**Summary:** Daily AI briefing. Tools: GPT-5.5 Instant now default ChatGPT (52.5% fewer hallucinations, 30% shorter — wordiness problem finally addressed at model level); Anthropic Mythos rewriting Firefox security posture (300 zero-days found vs. 20 by prior Claude, 40+ orgs now running sweeps, $100M in usage credits); Cursor 3 parallel agents — engineers treating it as orchestration layer, not editor (build-in-parallel feature, community divided on costs/identity but capability shift is real); MCP at 97M installs donated to Linux Foundation — standards war over, MCP is the HTTP of the agent layer. Industry: Anthropic Mythos "hysteria" expert pushback — capabilities were always there, speed/autonomy is what changed, OpenAI responded with GPT-5.5-Cyber; Anthropic $200B Google Cloud deal confirmed (5GW TPU capacity, 5 years, largest compute bet in AI history, "Switzerland" narrative dead); US quietly building AI pre-clearance infrastructure via CAISI (Google/Microsoft/xAI joined OpenAI/Anthropic, pre-deployment testing evolving from voluntary to expected). World: Russia-Ukraine 3-day ceasefire live (May 9-11, 1K prisoner swap, Victory Day parade with no military hardware for first time in ~20 years, Putin "coming to an end"); Iran — Pakistan says deal is close but US struck two Iranian-flagged ships May 8, Iran seized Ocean Koi, Chinese tanker hit May 7, Strait still closed; US trade court struck down Trump's 10% global blanket tariffs 2-1 (Section 122 not appropriate, tariffs stay during appeal, refund portal live, Moody's "significant damage"); India-Pakistan 1-year anniversary of Operation Sindoor — ceasefire holds but Pakistan military issued formal warning, diplomacy frozen, escalation rhetoric returning.
+
 ## [2026-05-09] briefing | Morning Briefing — 2026-05-09
 
 **Output:** `outputs/briefing-daily-ai-2026-05-09.md`
