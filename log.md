@@ -4,6 +4,13 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-11] scan | Weekly Opportunity Scan — 2026-05-11
+
+**File:** `outputs/briefing-weekly-opportunities-2026-05-11.md`
+**Sources searched:** HN Ask/Show threads (May 2026 — "What are you working on?" thread, "Can anyone suggest a SaaS idea?" thread), Reddit (r/SideProject, r/microsaas, r/EntrepreneurRideAlong via search indexing), Product Hunt (top launches May 2026, hunted.space, Kanwas), Indie Hackers, MileLion/AwardWallet (Cathay Pacific devaluation + loyalty monitoring gap), Metaintro (AI displacement survival playbook), FANGFire RSU dashboard, Research and Markets (second brain market), Celestix (regulatory monitoring), 9to5Mac (CardPointers MCP integration), DesignRush/Goldman (AI displacement statistics), Paychex/WorldatWork (new hire benefits confusion), Monolit/NxCode (solo founder landscape).
+**Top 5 survivors:** Loyalty Devaluation Alerter (Wayloft-native — Cathay 3rd devaluation in 12 months, AwardWallet 2FA confirmed broken), New Grad Total Compensation Decoder (week 4 — still no competitor), Regulatory Pulse (NEW — HN thread confirms someone building change-monitoring pipeline, validates demand), AI Displacement Career Pivot Plan (carry — Metaintro is blog content not a tool), Managed LLM Wiki (carry — $2.16B market at 30% CAGR confirmed, Kanwas adds pressure).
+**Key signals:** Wayloft STRONG BUILD (4th week) — Cathay Pacific devaluation rush confirmed, no predictive alert tool exists, CardPointers MCP integration is live threat to Wayloft AI positioning. Second Brain SIGNAL HOLDS — market growing 30% CAGR, Kanwas (YC) entering adjacent team KB space adds urgency. Community Engine NO SIGNAL (3rd week) — deprioritize. 7 ideas killed (creator tools, community digest, construction WIP, B2B case study generator, generic compliance calendar, SaaS renewal tracker, generic agent builder).
+
 ## [2026-05-11] briefing | Morning Briefing — 2026-05-11
 
 **Output:** `outputs/briefing-daily-ai-2026-05-11.md`
@@ -23,3 +30,494 @@
 
 **Output:** `outputs/briefing-daily-ai-2026-05-08.md`
 **Summary:** Daily AI briefing. Tools: GPT-5.5 + Codex parallel agents in isolated git worktrees (82.7% Terminal-Bench, the moment agentic coding became production infrastructure); Kimi 2M token context window gaining practitioner attention (Moonshot AI, competes with vector DBs for certain retrieval workloads); Microsoft Agent 365 live May 1 (enterprise agent control plane — provisioning, monitoring, access control, Okta-adjacent); Hachigo quiet buzz on PH/HN (plain-language to workflow, Zapier + AI UX pattern). Industry: OpenAI + Anthropic launch rival enterprise consulting JVs on same day ($11.5B coordinated strike on consulting, Blackstone/Goldman/TPG/Bain — AI labs now competing with McKinsey); Anthropic Mythos cybersecurity crisis — Dario "narrow window" warning, ~40 orgs have access, EU locked out, Mythos found thousands of vulns in every major OS/browser, China 6-12mo behind; US govt signs pre-deployment testing agreements with Google/Microsoft/xAI (CAISI, not OpenAI/Anthropic); OpenAI at $25B ARR eyeing late-2026 IPO. World: Iran/Hormuz — UAE air defenses engaging overnight, Iran struck US Navy ships, Operation Project Freedom paused, ~1,600 ships stranded, Pakistan mediating one-page memo; Ukraine Victory Day — Russia's 48-hr ceasefire started midnight Friday, competing truces (Ukraine declared May 5-6), Russian attacks continued May 7 before truce; Hungary — Magyar sworn in Saturday, Orbán's 16-year rule ends (supermajority, pro-EU, anti-Russia 180° shift); US tariffs one-year mark — Moody's "significant damage," 19K jobs/month cost, $1,500/household, SCOTUS Feb ruling pushed Trump to Section 122.
+
+## [2026-05-07] briefing | Morning Briefing — 2026-05-07
+
+**Output:** `outputs/briefing-daily-ai-2026-05-07.md`
+**Summary:** Daily AI briefing. Tools: OpenClaw at 347K GitHub stars (up from 100K May 4, 12K/day star velocity, 450K subreddit members — fastest-growing OS repo ever, local-first AI agent for all messaging channels); accidental AI coding stack (Cursor+Claude Code+Codex converging into unified professional workflow, 72% of devs use AI coding daily, 41% of code AI-generated, Claude Code #1 for professional engineers at 80.8% SWE-bench); llamafile renewed attention (Mozilla's single-executable local LLM runner, no Docker/Ollama, getting HN traction as privacy-conscious teams question cloud AI data policies). Industry: Anthropic ARR eclipses OpenAI for first time ($30B vs $24B, enterprise agentic workflows driving gap, not consumer chat); MCP donated to Linux Foundation / Agentic AI Foundation (97M installs, OpenAI+AWS+Google+Microsoft co-founders, standards war over — MCP is the HTTP of the agent layer); compute is the new model race (Anthropic's $200B Google Cloud commitment, CoreWeave+Amazon+Broadcom deals — capacity to serve inference at scale is the new competitive moat, Alphabet briefly topped Nvidia in market cap). World: Iran-US war — Iran expected to respond to US one-page peace memo today via Pakistani mediators; China's Wang Yi pressed Araghchi in Beijing to accept comprehensive ceasefire and reopen Hormuz (first time China publicly pushed Iran toward concessions, timed before Trump-Xi summit May 14-15); Trump threatening resumed bombing if no deal; ~3,468 dead Iran, 2,702 Lebanon. Ukraine — both competing ceasefires (Russia May 8-9, Ukraine May 5-6) collapsed; 22 killed in overnight Russian strikes; Zelenskyy says "Russia choosing war." Tariffs one-year mark — Moody's: "significant damage," $1,500/household cost, job growth stalled, inflation 3%; Trump added 25% EU auto tariff under Section 232; SCOTUS Feb ruling limited IEEPA tariff authority.
+
+## [2026-05-06] briefing | Morning Briefing — 2026-05-06
+
+**Output:** `outputs/briefing-daily-ai-2026-05-06.md`
+**Summary:** Daily AI briefing. Tools: Cursor 3 parallel-agent IDE (community divided on vendor lock-in, Anysphere's answer to Claude Code/Codex); Anthropic ships 10 preconfigured financial sector agents (investment banking, asset management, insurance — vertical go-to-market); Gemini 3.1 Flash-Lite ($0.25/million tokens, 2.5× faster — inference cost floor keeps dropping). Industry: Anthropic commits $200B to Google Cloud over 5 years — accounts for 40%+ of Google's revenue backlog; Alphabet also investing $40B in Anthropic; OpenAI + Anthropic simultaneously launch rival Wall Street enterprise JVs (Anthropic: $1.5B with Goldman/Blackstone/H&F; OpenAI: $4B at $10B valuation with TPG/Brookfield/Bain) — both embed engineers in companies, AI is now consulting; center of gravity shift from model competition to infrastructure/deployment race. World: Iran — Trump pauses Operation Project Freedom (ship escort) to create deal space, blockade stays, 22,500+ mariners stranded, ceasefire fragile (Iran attacked US forces 10× since ceasefire); Ukraine — competing Victory Day ceasefires (Russia May 8–9, Ukraine May 5–6), both still fighting, Russia launched 268 drones/missiles May 2, Ukrainian drones hit Tuapse port 4th time; RSF Press Freedom Index 2026 — lowest in 25 years, US fell 7 places, Syria +36 spots post-Assad.
+
+## [2026-05-05] briefing | Morning Briefing — 2026-05-05
+
+**Output:** `outputs/briefing-daily-ai-2026-05-05.md`
+**Summary:** Daily AI briefing. Tools: Agentic AI hits default mode (Microsoft Agent 365, Devin, Lovable/Bolt/Replit vibe-to-production stack — May 2026 is the inflection); Claude Opus 4.7 in practitioners' hands (13% coding lift, high-res vision, Cyber Verification Program friction in security circles); Gemini Deep Research Agent GA (strong for multi-source synthesis, weak on real-time data); AI-assisted cyberattacks becoming mainstream threat (Project Glasswing + Opus 4.7 Cyber Verification as response). Industry: Pentagon locks out Anthropic from classified IL6/IL7 AI deals — 8 companies signed, Anthropic excluded for refusing to drop weapons/surveillance safety guardrails, Trump blacklisted them, Anthropic sued, CA judge blocked ban, DC Circuit upheld it — landmark AI safety vs. military confrontation; OpenAI breaks Microsoft cloud exclusivity (GPT-5.5 out, now distributing via Amazon + Google path); White-collar AI displacement confirmed in Q1 data (Goldman 16K jobs/month, Meta 8K AI-linked layoffs May 20, narrative shift from "augmentation" to "replacement"). World: Iran/UAE/Hormuz escalation — UAE intercepted 15 missiles + 4 drones, US sank 7 Iranian boats, Trump "Project Freedom" escort mission, ceasefire functionally in peril; Russia/Ukraine competing unilateral ceasefires for Victory Day (May 8-9) — neither recognized the other's terms, Kharkiv missile killed 7; Fed analysis: tariffs cost ~19K US jobs/month, avg $1,500/household, SCOTUS Feb ruling struck IEEPA tariff authority; Hantavirus outbreak on cruise ship off Cape Verde — 3 dead, 150 aboard, under investigation.
+
+## [2026-05-04] scan | Wayloft Competitor Scan — 2026-05-04
+
+**File:** `outputs/briefing-weekly-competitors-2026-05-04.md`
+**Competitors scanned:** Capital One Travel, Amex Travel, Kudos, MaxRewards, CardPointers, PointsYeah, Seats.aero, AwardFares, NerdWallet, Bankrate, HeyMax, r/churning community.
+**Top threats:** Kudos at 200K users / $10M funded / free — browser extension window closing. Capital One + Amex standalone travel apps pulling users into walled gardens.
+**Top opportunities:** NerdWallet/Bankrate annual fee calculator gap confirmed open. MaxRewards churn documented with specifics (2-4x/month re-auth). Issuer app comparison content angle available now.
+**Recommended actions:** Publish issuer app comparison piece (timely, uncontested). Add "no bank credentials" to Wayloft copy. Recalibrate extension checkpoint decision against Kudos data. Push top-5 card Worth-It pages to ranking now.
+
+## [2026-05-04] briefing | Morning Briefing — 2026-05-04
+
+**Output:** `outputs/briefing-daily-ai-2026-05-04.md`
+**Summary:** Daily AI briefing. Tools: OpenClaw viral agent runtime (100K+ GitHub stars, local-first LLM-to-computer intermediary, Reddit/LinkedIn buzz); Hugging Face ml-intern open-source agent automating LLM post-training workflows end-to-end; GPT-5.5 rolling out broadly to Plus/Pro/Business/Enterprise (fewer tokens per Codex task, research workflow gains); Emergent+Lovable+Bolt stack solidifying as the vibe-coding-to-production pipeline on r/SideProject; local-first agent automation (n8n+Temporal+LLM pattern) trending on HN. Industry: Google commits $40B to Anthropic ($10B now + $30B milestones, $350B valuation, 5GW TPU compute, October IPO floated) — Fortune flags >50% of Google/Amazon Q1 AI profits came from Anthropic stakes not core products; Pentagon-Anthropic Mythos paradox (DOD blacklist stands but NSA quietly using Mythos which found zero-days in all major browsers/OSes, CA judge blocked blacklist, DC Circuit upheld it); Fed chair transition — Senate voting on Kevin Warsh this week, Powell term expires, Trump demanding rate-cut agenda; AI job displacement arriving in data (Fed analysis 19K jobs/month lost to tariff headwinds, layoffs doubling in supply chain, May Day rallies incorporate AI displacement thread). World: US-Iran war day 65 — Trump says "very positive discussions," Iran reviewing US response to 14-point proposal, CENTCOM launches Operation Freedom (15K troops, 100+ aircraft) for Strait of Hormuz, Iran warns this violates ceasefire, tanker struck near Fujairah; DHS unfunded since Feb 14 (ICE/BSO standoff, patchwork reconciliation attempted); EU-US trade friction — Trump 25% EU auto tariffs targeting Germany post-Merz criticism, Sánchez plane emergency landing in Ankara; northern Israel sirens, Lebanon ceasefire under strain.
+
+## [2026-05-04] scan | Weekly Opportunity Scan — 2026-05-04
+
+**File:** `outputs/briefing-weekly-opportunities-2026-05-04.md`
+**Sources searched:** HN Show HN digest (BuilderPulse Apr 16, BestOfShowHN week of Apr 25–May 2), Reddit (r/SideProject, r/microsaas, r/EntrepreneurRideAlong via search indexing), Product Hunt (top launches May 2026, hunted.space), Indie Hackers, Cursor SDK launch coverage, loyalty program devaluation sources (FrequentMiler, One Mile at a Time, LoyaltyLobby, MileageSpot), career/benefits sources (BenefitsPro, Enhancv, GlobeNewswire CareerHub), AI visibility landscape (Profound, Peec AI, HubSpot AEO), MicroGaps scope creep research.
+**Top 5 survivors:** Loyalty Devaluation Alerter (Wayloft native — Aeroplan June 1 + Amex→Cathay + Capital One→Emirates = three events, zero tools), Cursor SDK Agent Templates for Non-Engineers (3-week first-mover window post April 29 launch), New Grad Total Compensation Decoder (carry — still no competitor), Managed LLM Wiki as Product (HN top 10 validated week of Apr 25), AI Displacement Career Compass (not resume help — 90-day pivot plan for at-risk workers).
+**Key signals:** Wayloft STRONG BUILD — most concentrated loyalty devaluation run in years with no alert tool. Second Brain STRONG SIGNAL — Karpathy LLM wiki in HN top 10 confirms window still open. Community Engine: no signal. 6 ideas killed (scheduling, tariff calculator, GEO tools, agent observability, deterministic browser automation, vertical CRM).
+
+## [2026-05-03] briefing | Morning Briefing — 2026-05-03
+
+**Output:** `outputs/briefing-daily-ai-2026-05-03.md`
+**Summary:** Daily AI briefing. Tools: DeepSeek V4 (April 24 release, MIT license, 1.6T-param MoE model at $3.48/1M tokens, benchmarks rival GPT-5.5, strong dev buzz on Reddit/HuggingFace); OpenAI Codex CLI gaining traction as open-source terminal coding agent; agentic wave goes mainstream with Microsoft Agent 365 (May 1), Lovable, Devin. Industry: AI job displacement hitting now — Goldman Sachs 16K US jobs/month, Gen Z hardest hit, Meta 8K layoffs starting May 20, CNBC flags 20K combined Meta+Microsoft cuts as AI labor crisis signal; Pentagon/Anthropic standoff — White House reportedly reopened talks after Anthropic tech announcements, but no resolution; model release velocity accelerating (4 Claude updates in 50 days, GPT-5.5 6 weeks after 5.4, Gemini 3.1 Ultra with 2M context now GA). World: Iran submits 14-point peace plan, Trump skeptical ("can't imagine it acceptable"), ceasefire violations ongoing, 3,375 dead in Iran + 2,509 in Lebanon; Ukraine — Russian drone kills 2 in Kherson civilian bus, Russia deployed 1,600+ drones past week, Trump/Zelensky 90-95% on peace deal, Belarus border activity flagged; Trump 25% EU auto tariffs take effect (up from 15% deal ceiling), EU rejects non-compliance claim, German automakers warn US consumers will pay.
+
+## [2026-05-02] briefing | Morning Briefing — 2026-05-02
+
+**Output:** `outputs/briefing-daily-ai-2026-05-02.md`
+**Summary:** Daily AI briefing. Tools: Cursor SDK launches (April 28) — Cursor becomes programmable agent infrastructure via TypeScript API, devs can script agents from CI/CD pipelines; Show HN finds 76% of AI agent repos have no tool call guards (no validation/sandboxing — critical gap as agents hit production); Kimi K2.6 full release still generating r/LocalLLaMA buzz as strong open-weights coding model. Industry: Pentagon formally signs 7-company classified AI deal (OpenAI, Google, Microsoft, Nvidia, AWS, SpaceX, Reflection) — Anthropic remains blacklisted as "supply chain risk," CA judge blocked designation but DC Circuit upheld it, Trump signals deal "possible"; Amazon's Anthropic stake generated $16.8B in Q1 pre-tax gains (>50% of Amazon's total pre-tax income, $8B investment now worth $70B+, Fortune flags as financial-position vs. actual-business-performance risk); GPT-5.5 ships, described as OpenAI's strongest agentic model yet, no benchmark card. World: US-Iran war day 64 — ceasefire holds but peace talks deadlocked, Trump "not satisfied" with Iran's proposal, blockade continues, $4.30/gallon US gas; Senate rejects War Powers resolution at 60-day mark, legislative check sidelined; Trump announces 25% tariffs on EU autos (up from 15%), EU rejects non-compliance claim, threatens retaliation; May Day protests worldwide driven by Iran war energy costs, labor unrest spreading.
+
+## [2026-05-01] briefing | Morning Briefing — 2026-05-01
+
+**Output:** `outputs/briefing-daily-ai-2026-05-01.md`
+**Summary:** Daily AI briefing. Tools: Microsoft 365 E7 "Frontier Suite" goes GA today ($99/user/month, Agent 365 control plane, Claude-powered, first new enterprise tier since 2015); Anthropic Mythos found and fixed 271 Firefox vulnerabilities via Project Glasswing (most concrete AI security demonstration yet); Perplexity Comet expands to enterprise with MDM deployment and Opus 4.6 as default model; App Store up 104% YoY in April — Lovable hits $20M ARR in 2 months. Industry: Anthropic closing $50B round at ~$900B valuation, IPO floated for October; OpenAI-Microsoft post-exclusivity era officially starts (models on any cloud, Azure stays primary); Huawei Ascend 950PR driving $12B AI chip revenue in 2026 (+60% YoY) — two non-interoperable AI hardware ecosystems solidifying; AI cybersecurity shift accelerating as Glasswing scales. World: May Day Strong protests nationwide today (500+ orgs, teacher walkouts, 20+ NC school districts closed, "no work no school no shopping"); Ukraine — Putin signals May 9 ceasefire, 90-95% peace deal agreed with Trump/Zelensky, Tuapse refinery struck for 4th time; Iran — US blockade stalled talks, Iran crude storage may run out in 12-22 days, gas prices +30 cents/gallon in one week; RSF press freedom index hits 25-year low (52% of countries "difficult/very serious," US 64th, only 1% of world in "good" environment).
+
+## [2026-04-30] briefing | Morning Briefing — 2026-04-30
+
+**Output:** `outputs/briefing-daily-ai-2026-04-30.md`
+**Summary:** Daily AI briefing. Tools: Cursor 3 "Glass" agent-window debate continues on HN/Reddit (parallel agents vs IDE-first philosophy, SDK beta now open, $2B ARR); Grok 4.3 Beta drops for SuperGrok Heavy ($300/mo) — formatted PDF/spreadsheet/PPTX output from chat, no memory, no benchmark card; Midjourney V8.1 real price cuts (HD 3x faster/cheaper, standard 50% faster/25% cheaper); Microsoft Agent 365 launches May 1 as enterprise agent control plane. Industry: Google commits up to $40B to Anthropic ($10B now at $350B valuation + $30B contingent + 5GW compute, Anthropic ARR $30B+, IPO floated for October); OpenAI ends Microsoft exclusivity April 27 — models now on AWS, Microsoft stays primary partner through 2032 but not exclusively; Claude Opus 4.7 ships with 1M context + 12-point CursorBench jump; bigger shift: exclusive cloud AI partnerships are over, race moves up-stack to agent runtimes. World: Iran blockade extends — oil hits $126/barrel (wartime high, IEA calls it largest supply disruption in history, recession risk if H2 continues); Ukraine — mass drone strike on Odesa overnight (18+ injured), Putin offers May 9 ceasefire via Trump call, Zelensky approves new offensive operations instead; US tariffs at 11.8% effective rate = largest tax increase as % of GDP since 1993 ($1,500/household avg), IMF projects 2.4% growth, Supreme Court invalidated some tariffs.
+
+## [2026-04-29] briefing | Morning Briefing — 2026-04-29
+
+**Output:** `outputs/briefing-daily-ai-2026-04-29.md`
+**Summary:** Daily AI briefing. Tools: OpenClaw hits 347K GitHub stars (most-starred project ever, open-source personal AI agent, April 25 voice TTS update), llamafile 0.9.2 + LocalScore (Mozilla single-file local LLM with hardware benchmarking), Runway ML Gen-4 still dominating AI video. Industry: OpenAI missed Q1 revenue and 1B WAU targets (WSJ) — CFO warning on capex vs. revenue, chip stocks Oracle/CoreWeave sold off; Google signed Pentagon "any lawful purpose" AI deal after Anthropic refused (Anthropic now branded DoD "supply-chain risk," injunction obtained, Trump EO draft to bring Anthropic back); AI market consolidating into two-horse race as Google-Anthropic relationship deepens and OpenAI navigates alone. World: Iran ceasefire stalls Day 60 — Trump unlikely to accept latest proposal, naval blockade continues, Brent at $112; UAE quits OPEC after 60 years (effective May 1, WTI crossed $100, cartel cohesion fracturing); James Comey indicted over "8647" seashell Instagram post (second DOJ prosecution attempt, 10-year max charges).
+
+## [2026-04-28] briefing | Morning Briefing — 2026-04-28
+
+**Output:** `outputs/briefing-daily-ai-2026-04-28.md`
+**Summary:** Daily AI briefing. Tools: Cursor 3 parallel agents + Agents Window (developer reaction split on architect-vs-coder philosophy shift), DeepSeek V4-Pro/Flash (frontier coding benchmarks at $0.145/M — open weights, pressure on Western pricing), App Store boom (104% YoY, Lovable $20M ARR in 2 months), Claude Code powers GitHub Copilot enterprise tier. Industry: Google $40B Anthropic investment ($10B now, $30B contingent — Anthropic $30B ARR), Meta 8,000 layoffs + $135B AI capex (20k jobs cut across Meta+Microsoft in one week), Big Tech talent exodus to AI startups ($18.8B VC to 2025+ AI startups, Periodic Labs $300M raise), OpenAI $25B+ revenue eyeing late-2026 IPO. World: Iran peace talks stall — Trump reportedly not open to Hormuz proposal (Day 59, UN warns global food emergency), King Charles state visit to Washington (state banquet tonight, Congress address tomorrow), US tariff recession risk (Goldman 45%, JP Morgan 60% global, 11% effective rate highest since 1943), IMF cuts global growth to 3.1% citing war and tariffs.
+
+## [2026-04-27] scan | Weekly Opportunity Scan — 2026-04-27
+
+**File:** `outputs/briefing-weekly-opportunities-2026-04-27.md`
+**Sources searched:** HN Ask/Show threads (Apr 2026 — LangAlpha Show HN, "Ask HN: What are you working on?" April threads, "Ask HN: SaaS product ideas"), Reddit (r/SideProject, r/microsaas, r/EntrepreneurRideAlong, r/smallbusiness, r/freelance), Product Hunt (Apr 2026 monthly leaderboard), Indie Hackers, FrequentMiler/award travel community, MicroGaps scope creep research, GEO tools landscape (AthenaHQ, Otterly, SE Ranking), Okta SaaS management research, new grad equity/benefits market.
+**Top 5 survivors:** Agentic PM Workspace (LangAlpha pattern validated), New Grad Compensation & Benefits Decoder (no competitor found), Startup SaaS Renewal & Redundancy Tracker (Okta research angle), Freelancer Scope Creep Monitor (ScopeShield competitor validates market), AI Visibility for Solo Creators (carry from Apr 20, window narrowing — act this quarter).
+**Key signals:** Wayloft annual-fee decision angle confirmed uncontested for third consecutive week. PointsYeah dominates award search; Wayloft absent from search results = distribution is the problem. LangAlpha pattern ("Claude Code for [vertical]") validated by HN Show HN this week — PM workspace is the strongest open slot. New grad benefits/equity decoder is genuinely novel with no competitor found. SaaS renewal tracker has a 12–18 month window before Ramp/Brex expand into this tier. 7 ideas killed.
+
+## [2026-04-27] briefing | Morning Briefing — 2026-04-27
+
+**File:** `outputs/briefing-daily-ai-2026-04-27.md`
+**Sections:** AI Tools (Cursor 3 agent-window identity debate — parallel agents vs IDE-first philosophy, dev Twitter/Reddit still arguing 3 weeks post-launch; GPT-5.4 computer use as daily driver — record OSWorld benchmarks, o1/o3 retired; Claude Opus 4.7 ships April 16 — third major Anthropic release in 10 weeks; Google enterprise agent inbox at Cloud Next — first-class product for managing multi-agent workflows), AI Industry (Google $40B Anthropic investment — $10B now at $350B valuation + $30B milestone-contingent, Anthropic ARR $30B up from $9B, $65B+ raised this month combined with Amazon; OpenAI/Anthropic/Google anti-cloning coalition via Frontier Model Forum — 24K fake accounts caught, competitors cooperating on shared security threat; HN "two kinds of AI users" schism — power users compounding, everyone else using it like Google), World News (US-Iran talks collapse — Trump canceled envoys, Pezeshkian says no negotiations under blockade, FM meets Putin in Moscow, 38 ships blocked; Ukraine strikes Crimea — 3 warships + fighter jet + air defense hit overnight, Russia Belousov in Pyongyang deepening DPRK ties; Lebanon 2,509 killed since March 2 per health ministry; WHCD gunman subdued — officer shot but OK, under investigation; US tariff refund system $127B claims from 56K+ importers, 8.9% effective rate)
+
+## [2026-04-26] briefing | Morning Briefing — 2026-04-26
+
+**File:** `outputs/briefing-daily-ai-2026-04-26.md`
+**Sections:** AI Tools (DeepSeek V4-Pro + V4-Flash — MIT open weights, 1M context, SWE-bench 80.6% near Claude Opus 4.6, $0.14/M tokens for Flash; Gemini CLI v0.38.2 — Google's free open-source terminal agent with 1K req/day, MCP-native, @search grounding; Emergent Wingman — messaging-first autonomous agent for non-developers; Cursor 3 + parallel-agent workspaces converging across Claude Code/Copilot/Codex), AI Industry (Sora app dies today April 26 — $1M/day compute burn, Disney blindsided 1hr before announcement, video economics don't work at consumer scale; DeepSeek V4 MIT release as pricing bomb + OpenAI/Anthropic IP war over model cloning; GPT-5.5 rolling out to all paid tiers; Ukraine deploying 25K autonomous ground robots in H1 2026), World News (Iran rules out next negotiations round — nuclear enrichment unresolved, ceasefire holds but talks stalled; Russia's largest overnight barrage in weeks — 261 guided bombs + 6,849 drones, 7 killed; US tariff refund system live with $127B in claims + April 28 hearings, effective rate 11% highest since 1943; coordinated militant attack across Mali including Bamako)
+
+## [2026-04-25] briefing | Morning Briefing — 2026-04-25
+
+**File:** `outputs/briefing-daily-ai-2026-04-25.md`
+**Sections:** AI Tools (OpenClaw security meltdown — 9 CVEs in 4 days + 135K exposed instances + China enterprise bans, ChatGPT Images 2.0 — first reasoning image model, text rendering that works, Thinking mode for Plus/Pro; Runway Gen-4.5 — image-to-video added, r/AIVideo default tool; OpenAI Codex workspace agents in research preview for Business/Enterprise teams), AI Industry (Anthropic extends Microsoft 365 connector to all Claude users — Outlook/Teams/SharePoint/OneDrive; Anthropic locks multi-gigawatt next-gen TPU compute for 2027; Claude Sonnet 4.6 leads GDPval-AA Elo at 1633 at Sonnet pricing; A2A protocol v1.2 under Linux Foundation, 150+ orgs in production including Microsoft/AWS/Salesforce), World News (US-Iran Islamabad talks today — Witkoff+Kushner in Pakistan, Iran FM Araghchi there too but Tehran denies meeting is planned; Trump orders US military to shoot Iranian small boats in Strait of Hormuz; Duterte committed to ICC trial on 3 counts crimes against humanity for 76 murders)
+
+## [2026-04-24] briefing | Morning Briefing — 2026-04-24
+
+**File:** `outputs/briefing-daily-ai-2026-04-24.md`
+**Sections:** AI Tools (GPT-5.5 launch + "super app" framing — double price of 5.4, agentic tool-chaining model; ICLR 2026 opens today in Rio — 95+ Google papers, Apple RNN/SSM/protein folding research, Transformers Are Inherently Succinct outstanding paper; App Store AI boom — 104% YoY app release increase, productivity top 5 category for first time), AI Industry (OpenAI crosses $25B ARR + IPO signals — Anthropic at $19B, GPT-5.5 pricing hike reads as margin expansion before listing; state AI legislation wave — Maryland 4 bills signed, Tennessee/Arizona close, California committee hearings accelerating; White House names China in AI model export crackdown), World News (EU approves $106B Ukraine loan after Hungary veto collapses — distinct from April 23 sanctions package, both cleared within 24hrs; Israel-Lebanon ceasefire extended 3 weeks after White House talks with Rubio + Huckabee; European airlines mass flight cancellations over jet fuel shortage ahead of summer season)
+
+## [2026-04-23] briefing | Morning Briefing — 2026-04-23
+
+**File:** `outputs/briefing-daily-ai-2026-04-23.md`
+**Sections:** AI Tools (Rowboat open-source AI coworker + living knowledge graph — Karpathy-inspired Show HN hit, SpeakON MagSafe AI device #1 Product Hunt April 22, Google A2A protocol v1.0 in production at 150+ orgs, Qwen 3.5 + Ollama as r/LocalLLaMA default stack post-Muse-Spark-closure), AI Industry (Anthropic $100B AWS commitment + $25B Amazon investment + $30B ARR tripling from $9B in 4 months, Google Cloud Next 2026 full-stack agentic bet — Gemini Enterprise Agent Platform + Workspace Studio + 8th-gen TPUs + $750M partner fund, foundation layer consolidation thesis — Anthropic and Google locking compute + protocols simultaneously), World News (Iran seizes MSC Francesca + Epaminondas hours after Trump extends ceasefire — Strait still closed + FM calls blockade act of war, Ukraine EU 20th sanctions package passed after Hungary/Slovakia drop veto + Druzhba pipeline resumes, US tariff refund system live for 330K+ importers after Supreme Court ruling + ongoing Court of International Trade challenges)
+
+## [2026-04-21] briefing | Morning Briefing — 2026-04-21
+
+**File:** `outputs/briefing-daily-ai-2026-04-21.md`
+**Sections:** AI Tools (Qwen 3.5 tops r/LocalLLaMA community consensus, llamafile/Mozilla single-executable local LLM gaining HN traction, agent orchestration wave dominates Product Hunt this week — Hapax/Crossnode/Adaptive, Fabricate-era AI app builders sparking HN debate on junior dev roles), AI Industry (OpenAI abandons Sora + pivots hard to B2B — business now 40% of revenue targeting 50%, Anthropic $30B ARR edges OpenAI + gap widening, OpenAI/Anthropic/Google anti-China distillation coalition via Frontier Model Forum — 24K fake accounts caught cloning Claude, Meta Muse Spark goes closed-source breaking Llama open-source tradition), World News (US-Iran ceasefire expires Wednesday — US seized Iranian vessel + Iran vows retaliation + Vance heading to Islamabad but Iran says no decision on talks, Kyiv mass shooting 6 dead Moscow-born attacker investigated as terrorism, UK probes Iranian proxy arson on London Jewish sites, US tariffs shifting from businesses to consumers in 2026 — $760-940 household loss projected)
+
+## [2026-04-20] scan | Wayloft Competitor Scan — 2026-04-20
+
+**File:** `outputs/briefing-weekly-competitors-2026-04-20.md`
+**Top findings:** CardPointers v7 ships ChatGPT/Claude/MCP integration + Android beta (direct threat to Ellis Church positioning), PointsYeah named NerdWallet #1 with transfer bonus bundling, Kudos Premium "Autopilot" launch targets same casual-optimizer user as Wayloft, MaxRewards sync reliability documented as major user pain point (opportunity), AwardFares wins Scandinavian Business Award + AI Flex Alerts (neutral/watch).
+
+## [2026-04-20] briefing | Morning Briefing — 2026-04-20
+
+**File:** `outputs/briefing-daily-ai-2026-04-20.md`
+**Sections:** AI Tools (Vibe Kanban multi-agent coordinator npx one-liner, Dimensional agentic OS for generalist robotics #3 GitHub trending, Claude Code powers GitHub Copilot Enterprise 51% of GitHub commits AI-assisted, MCP at 97M installs now cross-industry standard), AI Industry (Claude Mythos Preview withheld — autonomously completes 32-step network attack simulations zero-days in all major OS/browsers + AISI confirms + Project Glasswing launched, Meta Muse Spark rolling out to 3B users across WhatsApp/Instagram/Facebook/Messenger + $115-135B capex, OpenAI $25B ARR + early IPO steps, white-collar displacement entering undeniable phase per survey data), World News (Iran ceasefire expires April 22 — US seizes Touska vessel + Iran vows retaliation + negotiations via Pakistan, Ukraine 206 battles + 253 guided bombs in 24 hours + Zelenskyy blasts Trump Russian oil waiver, UK investigates Iranian proxy arson on London Jewish sites, US tariffs 11.8% effective rate 80-year high costs shifting to consumers)
+
+## [2026-04-20] scan | Weekly Opportunity Scan — 2026-04-20
+
+**File:** `outputs/briefing-weekly-opportunities-2026-04-20.md`
+**Sources searched:** HN Ask/Show threads (Apr 2026), Reddit (r/SideProject, r/microsaas, r/EntrepreneurRideAlong, r/humanresources, r/Construction), Product Hunt (Apr 2026 leaderboard + weekly Apr 13), Indie Hackers, NerdWallet award travel coverage, QBO community forums, GEO/AI-search visibility market, regulatory compliance market, Kruze/Shay CPA startup compliance guides, AIToolly claude-mem coverage.
+**Top 5 survivors:** Construction WIP Automation for QBO, Startup Compliance Calendar, B2B Case Study Generator from Reviews, SMB Employment Law Change Monitor, Personal Brand Visibility in AI Search (Creator Tier).
+**Key signals:** Wayloft competitive update — PointsYeah named NerdWallet #1 but focuses on award SEARCH not card OPTIMIZATION; Wayloft's wedge intact. Awayz is a new multi-modal competitor to watch. Award Flight Daily MCP server is a potential Wayloft data source. Second Brain window still open — claude-mem/lcm/Memorix are developer tools, not managed consumer wikis. 7 ideas killed.
+
+## [2026-04-19] briefing | Morning Briefing — 2026-04-19
+
+**File:** `outputs/briefing-daily-ai-2026-04-19.md`
+**Sections:** AI Tools (Claude Opus 4.7 — task budgets + vision upgrade + cyber safeguards, dual-agent coding workflows normalized Cursor+Claude Code, Kimi 2M context window gaining traction, Brila PH launch 1213 upvotes websites from Maps reviews, Anthropic Cyber Verification Program), AI Industry (Anthropic passes OpenAI in revenue $30B ARR + enterprise customers doubled to 1000+, Frontier Model Forum becomes anti-distillation intel network 16M unauthorized exchanges documented, Anthropic-Google-Broadcom 3.5GW TPU deal, Apple reimagines Siri on Google Gemini), World News (Iran re-closes Strait of Hormuz April 18 — tanker fired on, ceasefire expires April 22, progress reported, Russia fires 219 drones at Ukraine overnight 190 intercepted + Lavrov says no talks priority, US tariffs post-SCOTUS 13.7% effective rate + court challenges, Israel-Lebanon ceasefire holds)
+
+## [2026-04-16] briefing | Morning Briefing — 2026-04-16
+
+**File:** `outputs/briefing-daily-ai-2026-04-16.md`
+**Sections:** AI Tools (Claw Code 72K GitHub stars open-source coding agent, Goose donated to Linux Foundation + Rust rewrite, Cursor/Claude Code/Codex stack convergence, Archon first AI test framework generator, Claude Sonnet 5 + Gemma 4 April releases), AI Industry (Anthropic withholds Claude Mythos Preview — autonomously exploits zero-days in all major OS/browsers, OpenAI fires back with GPT-5.4-Cyber, Anthropic surpasses OpenAI in revenue at $30B ARR + $800B valuation talks, Stanford AI Index 2026 — US-China gap closed + public trust falling), World News (Russia's largest aerial barrage in 2 weeks kills 16 in Ukraine including child, Iran-US ceasefire near expiry + Pakistani mediator in Tehran for second round, IMF "Shadow of War" outlook cuts global growth, Penn Wharton updates tariff impact — 11% effective rate highest since 1943)
+
+## [2026-04-15] briefing | Morning Briefing — 2026-04-15
+
+**File:** `outputs/briefing-daily-ai-2026-04-15.md`
+**Sections:** AI Tools (Gemma 4 open source 31B beats 400B rivals runs offline, NotebookLM fully integrated into Gemini as unified workspace, OpenClaw 250K GitHub stars, Claude Mythos cybersecurity-only model Project Glasswing, Kimi 2M token context gaining quiet traction), AI Industry (OpenAI $122B raise at $852B + Stargate Abilene live at 1.2GW, Big Three coalition against Chinese model cloning via adversarial distillation, Anthropic moves toward custom chips, white-collar displacement entering undeniable phase per Anthropic + Microsoft AI chief), World News (US-Iran ceasefire fragile + talks potentially resuming via Pakistan + Iran clearing missile bases per satellite, IMF cuts global growth to 3.1% blaming Hormuz + Middle East down 2pp, Trump tariffs largest since 1993 at $1500/household + 50% Iran-weapons threat on China, Sudan 80% displaced families skipping meals critical levels)
+
+## [2026-04-13] scan | Wayloft Competitor Scan — 2026-04-13
+
+**File:** `outputs/briefing-weekly-competitors-2026-04-13.md`
+**Competitors scanned:** CardPointers, Point.me, AwardWallet, The Points Guy, MaxRewards, Seats.aero, AwardFares, Rove Miles, Capital One Travel, NerdWallet, Bankrate.
+**Top threats:** CardPointers v7 MCP/AI integration (direct competitor, significant product leap). AwardWallet content pivot (SEO competition heating up).
+**Top opportunities:** Rove Miles uncovered by any tool (first-mover SEO). Annual-fee interactive tool gap uncontested. r/awardtravel went private — audience displaced.
+**Recommended actions:** Cover Rove Miles now. Define Wayloft's MCP answer. Publish top-5 Worth-It pages before AwardWallet notices.
+
+## [2026-04-13] scan | Weekly Opportunity Scan — 2026-04-13
+
+**File:** `outputs/briefing-weekly-opportunities-2026-04-13.md`
+**Sources searched:** HN Ask/Show threads (Apr 2026), Reddit (r/SideProject, r/freelancers, r/smallbusiness, r/EntrepreneurRideAlong), Product Hunt (Apr 2026 leaderboard), Indie Hackers, award travel community, Karpathy LLM Wiki coverage.
+**Top 5 survivors:** Managed LLM Wiki, Cross-Currency Points Optimizer, Freelancer Scope Shield, SMB Weekly Narrative, Community Digest Engine.
+**Key signals:** Strong build signal for Wayloft (confirmed market gap in cross-currency portfolio view). Strong build signal for Second Brain product (Karpathy first-mover window open now). 7 ideas killed.
+
+## [2026-04-13] briefing | Morning Briefing — 2026-04-13
+
+**File:** `outputs/briefing-daily-ai-2026-04-13.md`
+**Sections:** AI Tools (Cursor 3 agent-first relaunch, GPT-6 "Spud" imminent April 14 tip, Yahoo Scout Claude-powered answer engine, Attie Bluesky no-code feed builder, Dimensional robotics OS trending), AI Industry (Anthropic Managed Agents enterprise launch, $242B VC into AI in Q1 = 80% of global VC, 49% Gen Z say degree devalued + 16K jobs/month displacement, Gemini 3.1 Ultra 2M token native multimodal), World News (Hormuz blockade begins 10am ET ceasefire fragile oil $100, Orbán out after 16yrs Magyar supermajority EU unblocked, Ukraine Easter ceasefire 2299 violations both sides blaming, tariff consumer impact window now $1500/household peak April-October)
+
+## [2026-04-12] briefing | Morning Briefing — 2026-04-12
+
+**File:** `outputs/briefing-daily-ai-2026-04-12.md`
+**Sections:** AI Tools (GPT-6 "Spud" imminent, OpenAI Super App ChatGPT+Codex+Atlas, vibe coding Day-1 vs Day-2 stack split), AI Industry (Goldman Sachs 16K jobs/month + Gen Z scarring, Gemini 3.1 Pro benchmark leader, pharma tariffs + Iran weapons tariff threat), World News (Islamabad US-Iran talks collapse after 21hrs, Russia-Ukraine Easter ceasefire collapses Day 1, tariff consumer impact window now, Peru elections)
+
+## [2026-04-11] briefing | Morning Briefing — 2026-04-11
+
+**File:** `outputs/briefing-daily-ai-2026-04-11.md`
+**Sections:** AI Tools (Claw Code 72K-star open-source agent framework, 73% dev AI daily usage inflection, Grok multimodal expansion on X), AI Industry (Big Three anti-distillation coalition vs DeepSeek/Moonshot/MiniMax, Anthropic $30B + custom chip exploration, Treasury/Fed emergency AI cyber risk meeting, jobs displacement ambiguity), World News (Vance in Islamabad for US-Iran talks, Hormuz still blocked post-ceasefire, Artemis II splashdown near San Diego, SCOTUS tariff aftermath + $166B refund order)
+
+## [2026-04-10] briefing | Morning Briefing — 2026-04-10
+
+**File:** `outputs/briefing-daily-ai-2026-04-10.md`
+**Sections:** AI Tools (Meta Muse Spark, Anthropic emotion vectors, Qwen3.6-Plus, MCP 97M installs), AI Industry (Mythos/Glasswing, US labs vs Chinese distillation, OpenAI $122B/IPO, Broadcom compute deal), World News (US-Iran ceasefire + Lebanon fracture, Ukraine Easter ceasefire, North Korea tests, Trump tariffs SCOTUS ruling)
+
+## [2026-04-05] ingest | LLM Wiki Pattern
+
+**Source:** `raw/llm-wiki-pattern.md`
+**Pages created:** [[llm-wiki]], [[obsidian]], [[vannevar-bush-memex]]
+**Pages updated:** none (first ingest)
+**Summary:** Bootstrapped the wiki with its own founding document.
+
+## [2026-04-05] maintain | Business Hub Pages
+
+**Pages created:** [[wayloft]], [[pickleball-portal]]
+**Summary:** Initial hub pages for both businesses.
+
+## [2026-04-05] ingest-batch | Wayloft (7 sources)
+
+**Sources:** `raw/wayloft-master-plan-v3.md`, `raw/wayloft-build-plan.md`, `raw/wayloft-eng-review.md`, `raw/wayloft-ux-handoff.md`, `raw/wayloft-three-layer-funnel.md`, `raw/wayloft-signal-design.md`, `raw/wayloft-ellis-church.md`
+**Source summaries created:** 7 (in sources/)
+**Pages created:** [[ellis-church]], [[signal-design-system]], [[three-layer-funnel]], [[worth-it-tool]], [[transfer-partners]]
+**Pages updated:** [[wayloft]] (hub page enriched with full source data)
+**Cross-cutting pages created:** [[ai-persona-model]], [[affiliate-revenue-model]], [[beehiiv]]
+**Conflicts flagged:**
+- Fonts: UX Handoff (Instrument Serif) vs DESIGN.md (Geist). Resolved: DESIGN.md is newer.
+- Default mode: dark vs light. Resolved: DESIGN.md is newer.
+- Navigation: sidebar vs top nav. Resolved: DESIGN.md is newer.
+- Scraper language: Master Plan says Python, Build Plan says Node.js+cheerio (what was built).
+- Card count: varies 52-54 across docs.
+- CSR annual fee: $795 in Ellis Church doc vs $550 elsewhere.
+
+## [2026-04-05] ingest-batch | Pickleball Portal (6 sources)
+
+**Sources:** `raw/pbp-prd.md`, `raw/pbp-architecture.md`, `raw/pbp-brand.md`, `raw/pbp-pikolai-notes.md`, `raw/pbp-affiliate-tracker.md`, `raw/pbp-tournament-prd.md`
+**Source summaries created:** 6 (in sources/)
+**Pages created:** [[pikolai-starostin]], [[portal-score]], [[tournament-aggregator]], [[pickleball-com]]
+**Pages updated:** [[pickleball-portal]] (hub page enriched with full source data), [[beehiiv]], [[ai-persona-model]], [[affiliate-revenue-model]]
+**Conflicts flagged:**
+- Framework: "Next.js 16" in architecture doc, all others say 15 (typo).
+- Article count: 409 (architecture) vs 303 (PRD). Different dates or counting method.
+- Paddle count: 502 vs 428. 428 is actual DB count.
+- JustPaddles: ACTIVE in PRD (Feb 18) → DEAD in affiliate tracker (Apr 4).
+- GA4: 3 different IDs across docs. Only G-J7Y27KM430 is correct.
+- Auto-deploy: architecture says working, CLAUDE.md says broken.
+- Tournament PRD says Astro, but Next.js already deployed.
+
+## [2026-04-05] ingest-batch | BB Session Backfill (4 sessions from decisions.jsonl)
+
+**Sources:** `raw/bb-session-2026-04-03-ellis-church-reddit.md`, `raw/bb-session-2026-04-04-pbp-identity.md`, `raw/bb-session-2026-04-04-wayloft-landing-page.md`, `raw/bb-session-2026-04-04-pbp-triage.md`
+**Source summaries created:** 4 (in sources/)
+**Pages created:** [[clean-before-build]]
+**Pages updated:** [[ellis-church]] (Reddit launch strategy), [[pickleball-portal]] (identity, lead product, phased approach, triage status), [[wayloft]] (landing page design direction), [[affiliate-revenue-model]] (Genius Links death detail), [[signal-design-system]] (landing page typography exception), [[worth-it-tool]] (demoted from landing page hero)
+**Summary:** First BB→wiki pipeline test. Backfilled 15 decisions from `decisions.jsonl` into 4 session briefs (grouped by project + date + agent). One operational session skipped (onboarding upsert bug fix — not strategic). Clean Before Build pattern elevated to its own concept page at confidence 8/10.
+
+## [2026-04-05] synthesis | AI Persona Pattern Deck
+
+**Output:** `outputs/ai-persona-pattern-deck.html` (Marp slide deck, 11 slides)
+**Pages referenced:** [[ai-persona-model]], [[ellis-church]], [[pikolai-starostin]], [[wayloft]], [[pickleball-portal]], [[three-layer-funnel]], [[worth-it-tool]], [[beehiiv]]
+**Summary:** First synthesis page and first Marp deck. Cross-cutting analysis of the AI persona pattern across both businesses. Compares Ellis Church (theory, unproven) vs Pikolai (proven at 100K visitors, 409 articles). Flags the key risk: persona must serve real user needs, not just be a cool concept.
+
+## [2026-04-06] ingest-batch | Apple Notes Import (16 sources)
+
+**Sources:** 16 files from `raw/apple-notes/` (exported via Exporter app from Apple Notes)
+**Source summaries created:** 16
+**Concept pages created:** [[ai-tools-and-frameworks]], [[power-bi]], [[personal-finance-strategy]], [[half-ironman-training]], [[beginner-running-program]]
+**Entity pages created:** [[sf-neighborhoods]], [[california-guide]], [[hanoi-travel]], [[puerto-rico-travel]], [[india-travel]]
+**Pages updated:** none (all new knowledge domains)
+**Archive:** 297 additional Apple Notes copied to `raw/apple-notes-archive/` for Obsidian browsability without wiki processing
+**Skipped:** 21 files containing passwords, credentials, or sensitive health data. ~100 expired to-dos, grocery lists, and stubs also excluded.
+**Security flags:**
+- `AI YouTube.md` contains exposed OpenAI API keys and GitHub tokens -- not ingested, user warned to rotate
+- `Go bot.md` Supabase connection string -- redacted from wiki summary
+**Summary:** First bulk import from a personal notes app. 411 total notes triaged into 3 tiers: 16 ingested (project/career/knowledge value), 297 archived (searchable but unprocessed), ~100 skipped (noise/sensitive). Created 10 new entity/concept pages spanning AI tools, personal finance, SF housing, travel, and endurance sports. New knowledge domains: travel, endurance training, personal finance, data analytics.
+
+## [2026-04-06] ingest | China Brain Chip (Nature)
+
+**Source:** `raw/China approves brain chip to treat paralysis — a world first.md`
+**Pages created:** [[china-approves-brain-chip]] (source), [[brain-computer-interface]] (concept), [[neuralink]] (entity)
+**Pages updated:** none
+**Summary:** First neuroscience source. China approved the world's first BCI for use outside clinical trials — beating Neuralink to regulatory approval. Limited source content (paywalled Nature article), but the regulatory milestone is the key takeaway.
+**Note:** `raw/AI 2027.md` listed by auto-ingest hook but does not exist in raw/. Skipped.
+
+## [2026-04-06] ingest | Notes Thoughts (Autonomous System Vision)
+
+**Source:** `raw/Notes thoughts.md`
+**Pages created:** [[notes-thoughts]] (source), [[autonomous-business-system]] (concept)
+**Pages updated:** [[llm-wiki]] (added role as Layer 1-2 of autonomous system)
+**Summary:** First explicit articulation of the full autonomous business system — 7 layers from knowledge capture through automated distribution. Concept page maps current state of each layer and open questions. Positions LLM Wiki as the foundation layer.
+
+## [2026-04-06] ingest | AMI Labs World Models (Telegram)
+
+**Source:** `raw/telegram-2026-04-06-ami-labs-world-models.md` (via Telegram brain dump)
+**URL:** https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/
+**Source summary created:** [[ami-labs-funding]]
+**Entity pages created:** [[ami-labs]], [[yann-lecun]]
+**Concept pages created:** [[world-models]]
+**Pages updated:** [[ai-tools-and-frameworks]] (added world models as emerging paradigm)
+**Summary:** First Telegram brain dump ingest. Yann LeCun's AMI Labs raised $1.03B for world models — AI systems that simulate physical environments. New knowledge domain for the wiki: world models as a paradigm beyond LLMs. LeBrun's self-aware "this will be a buzzword" quote is the most interesting signal.
+
+## [2026-04-06] maintain | Restructure to 3-Folder Pattern
+
+**Changes:** Adopted Karpathy's flat 3-folder structure: `raw/`, `wiki/`, `outputs/`.
+- Merged `pages/` (17 files) + `sources/` (18 files) into `wiki/` (35 files total)
+- Renamed `synthesis/` to `outputs/` (1 file)
+- Deleted empty `pages/`, `sources/`, `synthesis/` directories
+- Rewrote `CLAUDE.md` schema for new structure
+- Updated `index.md` — single flat listing, no more separate Sources/Pages sections
+- Updated Dataview queries to reference new paths
+**No wikilinks broken** — Obsidian resolves by filename, not path.
+
+## [2026-04-06] scan | Daily AI Briefing
+
+**Output:** `outputs/briefing-daily-ai-2026-04-06.md`
+**Sources scanned:** Hacker News, Reddit (r/LocalLLaMA, r/MachineLearning), TechCrunch, VentureBeat, Skift, Business Travel Magazine, Meta AI Blog, Google DeepMind, PyPI Blog, IDC, humai.blog
+**Top stories:** Llama 4 Scout+Maverick (Meta open-weight MoE multimodal), Claude Mythos 10T parameter leak, Anthropic ends OpenClaw subscription coverage, agentic travel booking vs. loyalty optimization tension, Travel Smarter loyalty platform launch (Wayloft competitor), Microsoft MAI models in Foundry, LiteLLM supply chain attack, Gemini 3.1 Pro benchmarks, OpenAI $122B round / IPO track
+**Kill/Build signals:** Agentic booking = Wayloft positioning opportunity. Llama 4 Maverick = Second Brain architecture upgrade candidate.
+
+## [2026-04-06] scan | Community Scan (HN / Reddit / Product Hunt)
+
+**Output:** `outputs/briefing-community-scan-2026-04-06.md`
+**Sources scanned:** Hacker News (Show HN posts), r/LocalLLaMA, r/ChatGPT, r/artificial, r/SideProject, Product Hunt
+**Top stories:** Apfel (Apple on-device LLM CLI, 513 pts on HN), Gemma 4 (Apache 2.0 open model, #3 globally on Arena AI), Claw Code (open-source Claude Code harness, 72K GitHub stars), Microsoft MAI-Transcribe-1 (SOTA ASR, 50% cheaper), ChatGPT market share collapse (86.7% → 64.5%)
+**Kill/Build signals:** Apfel + Gemma 4 = viable free local inference stack on Apple Silicon. ChatGPT fragmentation = tailwind for specialist tools. MAI-Voice-1 = Ellis Church audio content path.
+**Note:** Supplemental to daily briefing; daily briefing covers Llama 4, Claude Mythos, OpenClaw, travel AI. This scan captures community-level build/ship activity.
+
+## [2026-04-06] briefing | Morning Briefing — Three-Section Daily
+
+**Output:** `outputs/briefing-daily-ai-2026-04-06.md` (overwrites earlier AI-only scan)
+**Sections:** Hot AI Tools & Resources | AI Industry News | World News
+**Top stories:** Apfel (Apple on-device LLM CLI, HN 513pts), Qwen 3.5-9B on M4 (LocalLLaMA 1159 upvotes), MCP at 97M installs, Llama 4 Scout/Maverick (Meta), Claude Mythos leak (10T params), ChatGPT below 40% mobile DAU, OpenAI $122B round / GPT-5.5 pretraining done, Iran rejects ceasefire (Hormuz deadline today), Artemis II lunar flyby, US IEEPA tariffs struck down → 15% Section 122 in effect, Bangladesh measles emergency
+
+## [2026-04-06] scan | AI Industry Scan — Company Moves + Broader Signals
+
+**Output:** `outputs/briefing-industry-scan-2026-04-06.md`
+**Sources scanned:** TechCrunch, VentureBeat, Washington Examiner, Axios, CalMatters, PYMNTS, FinancialContent, CNBC, IBTimes, World Economic Forum, Quinnipiac/TechCrunch trust poll, Bright Horizons, Transparency Coalition
+**Layer 1 — Company moves:**
+- OpenAI acquires TBPN (first media company acquisition, owned distribution play)
+- Anthropic forms AnthroPAC amid active Pentagon lawsuit (supply chain risk label, two federal suits filed March 9, temp block holding)
+- Anthropic acquires Coefficient Bio for $400M (AI biotech, drug R&D vertical play)
+- Anthropic is hottest trade in AI secondary markets; OpenAI cooling; SpaceX IPO looming
+- Meta cuts ~20% of workforce (~15K employees) under "Efficiency 2.0" / AI-native pivot; market rewarded it
+- Microsoft launches three in-house MAI models (Transcribe, Voice, Image) — slow decoupling from OpenAI dependency
+**Layer 2 — Bigger picture:**
+- California's Newsom EO N-5-26 + legislative multipronged approach = de facto national AI standard, despite federal deregulatory push
+- AI workforce adoption gap: 42% expect role changes, only 17% use AI frequently; 76% of Americans rarely trust AI results; 23% wage premium for AI skills
+**Kill/Build signals:** TBPN acquisition validates owned media + AI product thesis (Ellis Church). AI trust gap = transparency as brand differentiator. Meta displacement = community opportunity.
+
+## [2026-04-06] scan | AI Buzz Scan (HN / Reddit / Product Hunt / GitHub)
+
+**Output:** `outputs/ai-buzz-scan-2026-04-06.md`
+**Sources scanned:** Hacker News (Show HN), r/LocalLLaMA, r/MachineLearning, r/artificial, Product Hunt, GitHub Trending, X/Twitter community signals
+**Top items:** Cursor 3 (parallel agents IDE, April 2 launch), GPT-OSS (OpenAI Apache 2.0 open weights, 120B + 20B), Qwen3-Coder 480B (SOTA open coding agent, beats Claude Sonnet on SWE-Bench), Kimi K2 (1T-param MoE, outperforms DeepSeek V3), Cline (59.9K stars, 5M installs, $1M OSS grant), Pluck (UI copy → AI coding tools, fresh Show HN), Dimensional (agentic robotics OS, no ROS, GitHub #3 trending)
+**Note:** Supplements earlier community scan (Apfel, Gemma 4, Claw Code, MAI-Transcribe-1). This scan covers next-tier items with genuine community engagement.
+
+## [2026-04-06] query | World News Briefing
+
+**Output:** `outputs/briefing-world-news-2026-04-06.md`
+**Sources searched:** Al Jazeera, CNN, NPR, Bloomberg, CNBC, Russia Matters, UN Security Council Report, WHO, Euronews, Earth.org, Tax Foundation, PIIE, Wikipedia (2026 Iran war, 2026 Strait of Hormuz crisis), FinancialContent, FDD, GMA Network, Newsweek, Moscow Times
+**Stories covered:** Iran-US war / Strait of Hormuz deadline; Ukraine Easter escalation; global oil shock + Muscat Protocol partial relief; Gaza ceasefire status; US tariff IEEPA ruling struck down 6-3 (Feb 20); Italy coal phase-out delayed to 2038; WHO World Health Day "Stand with science"; US March jobs report (178K).
+**Note:** Reuters, AP News, BBC blocked to search agent (domain restrictions per Anthropic crawler policy). Coverage sourced from equivalent outlets.
+
+## [2026-04-06] ingest | Fashion Finder Agent Idea (Telegram)
+
+**Source:** `raw/telegram-2026-04-06-fashion-finder-idea.md` (via Telegram brain dump, with photo)
+**Source summary created:** [[telegram-fashion-finder-idea]]
+**Pages updated:** [[apple-notes-ai-ideas]] (linked refined fashion AI concept)
+**Summary:** Photo-to-shopping agent idea: snap a photo of an outfit, AI identifies each item, returns shopping links. Concrete evolution of the earlier "fashion/closet AI" idea from Apple Notes. Agent architecture aligns with current builder trajectory. Key tech requirements: computer vision (item segmentation), product search API, affiliate revenue model.
+
+## [2026-04-06] ingest | Gates Year Ahead 2026 (Telegram)
+
+**Source:** `raw/telegram-2026-04-06-gates-year-ahead-2026.md` (via Telegram brain dump)
+**URL:** https://www.gatesnotes.com/meet-bill/tech-thinking/reader/the-year-ahead-2026
+**Source summary created:** [[gates-year-ahead-2026]]
+**Pages updated:** [[ai-tools-and-frameworks]] (added Gates' macro view on AI trajectory)
+**Summary:** Bill Gates' annual outlook essay (Jan 9, 2026). Key signal: child deaths under 5 rose for first time this century (4.6M→4.8M in 2025). Gates frames AI as the most transformative thing humans have ever created, with no intelligence ceiling. Two immediate risks: bioterrorism via open-source AI and job market disruption. Horizon1000 initiative (Gates Foundation + OpenAI, $50M) deploying AI in 1,000 African healthcare clinics by 2028. Also covers climate (40% emissions reduction in last decade) and education (personalized learning via AI).
+
+## [2026-04-08] query | World News Briefing — Apr 8
+
+**Output:** `outputs/briefing-world-news-2026-04-08.md`
+**Sources searched:** Al Jazeera, Bloomberg, CNBC, NBC News, PBS NewsHour, CBS News, ABC News, CNN, NPR, VietnamNet, VietnamPlus, US State Dept, WHO, PAHO, FDD, UNITED24 Media, SCOTUSblog, Tax Foundation. Reuters/AP/BBC blocked (Anthropic crawler policy).
+**Stories covered:** US-Iran ceasefire (2-week truce, Pakistan-brokered, Hormuz reopens, Iran declares victory); global markets (oil -14-19%, Dow futures +1000pts, Brent below $100); Ukraine talks stalled (Lavrov rejects draft, Iran war displacing US attention); Gaza ceasefire strained (Hamas rejects Phase 2 disarmament, 139 violations since October); IEEPA tariffs struck down Feb 20 / Section 122 replacement (10.7% effective rate, $1,500/household); Vietnam elects Le Minh Hung PM unanimously; WHO World Health Day "Stand with Science" (dengue record, vaccine trust drop); Iran war spillover (50K Russian tourists stranded, Zelenskyy air defense warning).
+
+## [2026-04-08] scan | AI Industry Scan — Apr 7–8, Two-Layer
+
+**Output:** `outputs/briefing-industry-scan-2026-04-07-08.md`
+**Sources scanned:** TechCrunch, CNBC, Bloomberg, Fortune, Japan Times, The Decoder, Simon Willison, Daring Fireball, CNN Politics, The Conversation, USC Dornsife, Yahoo Finance, Tech Insider
+**Layer 1 — Company moves:**
+- Anthropic releases Claude Mythos preview via Project Glasswing — zero-day vuln discovery, restricted to 40 orgs, not going public
+- OpenAI + Anthropic + Google formalize China distillation alliance via Frontier Model Forum; 16M documented extraction attempts, 24K fake accounts caught
+- OpenAI publishes "Industrial Policy for the Intelligence Age" — robot tax, public wealth fund, 4-day workweek proposals
+- OpenAI superapp: ChatGPT + Codex + Atlas merge announced; Brockman leading product overhaul
+- Broadcom signs 3.5GW compute deal with Anthropic (via Google AI processors)
+**Layer 2 — Bigger picture:**
+- AI deepfakes are now official midterm campaign strategy — 5 confirmed incidents, no federal law, 50% of voters influenced
+- AI-attributed layoffs hit 25% of Q1 tech cuts; Oracle's 20–30K reduction is the clearest substitution-for-GPUs case yet
+- Cultural homogenization research: AI outputs converging on generic familiar themes regardless of starting diversity
+
+## [2026-04-08] ingest-batch | YouTube knx2wrILP1M duplicates (3 files) — Marc Andreessen title recovered
+
+**Sources processed:**
+- `raw/youtube-2026-04-08-httpswwwyoutubecomwatchvknx2wrilp1m-2.md` — duplicate, no new content
+- `raw/youtube-2026-04-08-marc-andreessen-introspects-on-death-of.md` — **title + channel recovered**
+- `raw/youtube-2026-04-08-youtube-video-knx2wrilp1m.md` — duplicate, no new content
+
+**Pages updated:** [[youtube-2026-04-08-knx2wrilp1m]] — upgraded stub with real title ("Marc Andreessen introspects on Death of the Browser, Pi + OpenClaw, and Why 'This Time Is Different'"), channel (Latent Space), guest (Marc Andreessen), and topic-level analysis derived from the title alone. Tags expanded. Transcript still unavailable (YouTube blocks datacenter-IP fetches).
+
+**Pages created:** none (no transcript → no content to support a new [[marc-andreessen]] entity page yet).
+
+**Key signal:** Second external high-credibility mention of [[open-claw]] in 24 hours. First was [[matei-zaharia]]'s "security nightmare" quote on 2026-04-08; second is Marc Andreessen publicly pairing "Pi + OpenClaw" in a Latent Space interview. Two founder/Turing-tier voices naming OpenClaw in the same day is a signal worth flagging — tracked in [[youtube-2026-04-08-knx2wrilp1m]] and the next briefing. Needs transcript recovery for deep ingest.
+
+**Housekeeping:** The three duplicate raw files are left as-is per the immutable-raw rule. Deep ingest deferred until transcript is available (residential IP fetch, paste, or manual summary).
+
+## [2026-04-08] scan | AI Buzz Scan — Community Pulse
+
+**Output:** `outputs/ai-buzz-scan-2026-04-08.md`
+**Sources scanned:** r/LocalLLaMA, r/MachineLearning, r/artificial, r/ChatGPT, Hacker News, GitHub Trending, X/Twitter, Product Hunt
+**Top items:** Claude Sonnet 5 (92.4% SWE-bench, 88.3% OSWorld — Opus-tier performance at Sonnet pricing), Claw Code (Claude Code npm leak → clean-room Rust/Python rewrite, 100K stars in 24h, fastest GitHub repo in history), Gemma 4 (Apache 2.0, #3 open model globally on Arena AI, community "not finished" concerns), Qwen 3.6 Plus (1M context, closed-source controversy), Llama 4 Scout/Maverick (benchmark manipulation claims, LocalLLaMA backlash over MoE memory requirements), oh-my-codex (Codex CLI orchestration layer, 2867 stars, MIT), MCP at 97M installs (foundational infrastructure, 2300+ servers), Nemotron 3 Super (120B/12B active, 5x throughput, enterprise agentic inference)
+
+## [2026-04-08] ingest-batch | Auto-ingest of 6 raw/ files
+
+**Sources processed:**
+- `raw/article-2026-04-08-databricks-co-founder-wins-prestigious-acm-award.md` — TechCrunch article (substantive)
+- `raw/telegram-2026-04-08-idea-fashion-finder-app-for-tiktok.md` — lite ingest (already routed to `outputs/business-ideas.md` as idea-2026-04-08-001)
+- `raw/telegram-2026-04-08-todo-call-dentist-tomorrow.md` — lite ingest (already routed to `outputs/todos.md` as todo-2026-04-08-001)
+- `raw/telegram-2026-04-08-start.md` — **skipped** (Telegram `/start` bot command, no content)
+- `raw/tweet-2026-04-08-httpsxcomfarzatvstatus1910789505722036357.md` — stub (X WebFetch returns 402)
+- `raw/youtube-2026-04-08-httpswwwyoutubecomwatchvknx2wrilp1m.md` — stub (no description, no transcript)
+
+**Source summaries created:**
+- [[article-2026-04-08-databricks-co-founder-wins-prestigious-acm-award]] — full
+- [[telegram-2026-04-08-idea-fashion-finder-app-for-tiktok]] — lite
+- [[telegram-2026-04-08-todo-call-dentist-tomorrow]] — lite (mirror only)
+- [[tweet-2026-04-08-farzatv-1910789505722036357]] — stub
+- [[youtube-2026-04-08-knx2wrilp1m]] — stub
+
+**Entity pages created:** [[matei-zaharia]], [[databricks]], [[apache-spark]]
+
+**Pages updated:** [[open-claw]] — added "Security Concern (External Validation — Apr 8)" section with Zaharia's "security nightmare" quote, linked the TechCrunch article as a new source, added a security-model open question.
+
+**Key signal:** First external high-credibility professional validation of the [[open-claw]] security concern. Zaharia (Databricks CTO, 2026 ACM Prize) uses the exact phrase "security nightmare" that Annabel used in her own brain dump. This elevates the concern from vibes to first-order design tension.
+
+**Note:** Two other YouTube duplicates of the same video ID (`knx2wrILP1M`) exist in `raw/` but weren't in the hook's unprocessed list. Flagged for a future dedup pass in the [[youtube-2026-04-08-knx2wrilp1m]] stub body.
+
+## [2026-04-08] briefing | Morning Briefing — 2026-04-08
+
+**Output:** `outputs/briefing-daily-ai-2026-04-08.md`
+**Sections:** AI Tools, Tech & Advancements | AI Industry News & Shifts | World News
+**Top stories:** Claude Sonnet 5 (92.4% SWE-bench, Opus-tier at Sonnet pricing), Claw Code (clean-room rewrite of leaked Claude Code source, 100K stars in 24h), Llama 4 community backlash (benchmark manipulation claims, MoE memory reqs), oh-my-codex (multi-agent Codex CLI orchestration, MIT), MCP at 97M installs; Anthropic Project Glasswing (Claude Mythos — too dangerous to release, restricted to 40 orgs for zero-day vuln hunting), GPT-5.4 native computer use (75% OSWorld, matches human baseline), OpenAI/Anthropic/Google coalition against Chinese adversarial distillation, Q1 AI layoffs 52K globally (+40% YoY); Iran two-week ceasefire (Trump announces pause, oil -16%, stocks +2.5%), Ukraine energy ceasefire proposal + Ust-Luga oil terminal struck, US tariffs at 11% effective rate (highest since 1943), Russia-Ukraine Geneva peace talks collapse.
+## [2026-04-10] briefing | Morning Briefing — 2026-04-10
+
+**Output:** `outputs/briefing-daily-ai-2026-04-10.md`
+**Sections:** AI Tools, Tech & Advancements | AI Industry News & Shifts | World News
+**Top stories:** Meta Muse Spark (first model from Meta Superintelligence Labs under Alexandr Wang, closed-source, rolling to WhatsApp/Instagram), Anthropic emotion vectors (171 emotion-like concepts mapped in Claude Sonnet 4.5, causally shape behavior), GPT-5.4 fully live across Codex + API / GPT-5.5 "Spud" expected by June, MCP hits 97M installs; OpenAI/Anthropic/Google vs China adversarial distillation (DeepSeek/Moonshot/MiniMax named, 16M extractions via 24K fake accounts), Broadcom-Anthropic 3.5GW chip deal, SCOTUS $166B tariff refund in progress / new pharma tariffs at 100%; US-Iran ceasefire fracturing over Lebanon (Operation Eternal Darkness, 254 killed, Strait closed again), Ukraine Easter ceasefire announcement (Putin April 11–12, Zelenskyy energy-infra proposal), Islamabad Talks today (Pakistan hosting US-Iran diplomacy).
+
+## [2026-04-07] ingest | OpenClaw + Freedom Brain Dump
+
+**Source:** `raw/note-2026-04-06-openclaw-freedom-brain-dump.md`
+**Source summary created:** [[note-2026-04-06-openclaw-freedom-brain-dump]]
+**Pages created:** [[open-claw]] (entity — was previously in `autonomous-business-system` missing_links)
+**Pages updated:** [[autonomous-business-system]] (added Thinking↔Action split section, elevated Freedom-first to top principle, expanded open questions, removed `open-claw` from missing_links), [[llm-wiki]] (added new source, framed as "thinking half" opposite [[open-claw]])
+**Summary:** Second articulation of the autonomous system vision, sharper than [[notes-thoughts]]. New framings: (1) explicit Obsidian ↔ OpenClaw split between thinking and action layers, (2) FREEDOM promoted from implicit goal to stated core value, (3) pre-Okta window framed as deliberate infrastructure time. Created [[open-claw]] entity page to capture the execution-layer concept. Flagged real open questions: whether OpenClaw is the right substrate (no alternatives evaluated), how Obsidian↔OpenClaw handoff actually works, how Layer 7 (distribute) gets built.
+
+## [2026-04-07] briefing | Morning Briefing — 2026-04-07
+
+**Output:** `outputs/briefing-daily-ai-2026-04-07.md`
+**Sections:** AI Tools, Tech & Advancements | AI Industry News & Shifts | World News
+**Top stories:** Apfel (Apple on-device LLM CLI, HN 513pts), Qwen 3.5-9B on M4 Air (LocalLLaMA 1159 upvotes), Gemma 4 edge (sub-1.5GB, Raspberry Pi 5), MCP at 97M installs (Linux Foundation AAIF), llamafile resurgence; OpenAI/Anthropic/Google unite against Chinese distillation, Anthropic revenue $9B→$30B annualized + multi-GW compute deal, Goldman Sachs 16K AI jobs/month cut (Gen Z worst hit), AI skills power law widening; Iran war Day 38 (ceasefire rejected, Trump deadline), US pharma tariffs up to 100% (10.2% avg effective rate), Artemis II distance record, Vietnam To Lam elected president, NK daughter as heir signal.
+
+## [2026-04-08] deep-ingest | Fashion Finder iteration 3 — Google Lens primitive
+
+**Source:** `raw/telegram-2026-04-08-idea-when-i-take-a-pic.md`
+**Source summary created:** [[telegram-2026-04-08-idea-when-i-take-a-pic]]
+**Pages updated:** [[telegram-fashion-finder-idea]] (added iteration trail, bumped updated to 2026-04-08), [[telegram-2026-04-08-idea-fashion-finder-app-for-tiktok]] (added "Iteration 3 landed" section noting the primitive question is now partially answered, flipped `needs_deep_ingest: false`)
+**Summary:** First real run of Stage 2 (`/deep-ingest`) after Stage 1 deployment and schema cleanup. Third fashion-finder brain dump in 48 hours, this time introducing Google Image Search / Lens as the implementation primitive — a technology hypothesis that collapses the "build our own CV model" cost concern and validates that the recognition step is approximately free. Cross-linked all three iterations into a coherent trail. Flagged pattern: three iterations at this cadence suggests a dedicated `[[fashion-finder]]` concept page on the next pass, tying the want (iteration 1), wedge (iteration 2), and primitive (iteration 3) together as a single synthesis.
+
+## [2026-04-08] maintain | Legacy naming reconciliation (closes todo-2026-04-08-002)
+
+**Scope:** Reconciled the two-naming-schema problem discovered during Stage 2 smoke-test prep. Four wiki source summaries written before the mirror-naming convention was enforced were using semantic names that `/deep-ingest`'s existence-check couldn't see, leaving their raw files in perpetual "unprocessed" limbo.
+
+**Renames (git mv, history preserved):**
+- `wiki/ami-labs-funding.md` → `wiki/telegram-2026-04-06-ami-labs-world-models.md`
+- `wiki/telegram-fashion-finder-idea.md` → `wiki/telegram-2026-04-06-fashion-finder-idea.md`
+- `wiki/gates-year-ahead-2026.md` → `wiki/telegram-2026-04-06-gates-year-ahead-2026.md`
+- `wiki/youtube-2026-04-08-knx2wrilp1m.md` → `wiki/youtube-2026-04-08-marc-andreessen-introspects-on-death-of.md` (still a lite stub pending transcript from residential IP — rename only makes it discoverable under the mirror convention; deep ingest remains blocked on the transcript)
+
+**Wikilinks updated (7 edits across 4 files):**
+- `index.md` — 4 lines
+- `wiki/ai-tools-and-frameworks.md` — 2 wikilinks + 1 `sources:` frontmatter line (both legacy names in the list)
+- `wiki/telegram-2026-04-08-idea-fashion-finder-app-for-tiktok.md` — 2 wikilinks (1 pipe-syntax, 1 plain)
+- `wiki/telegram-2026-04-08-idea-when-i-take-a-pic.md` — 2 wikilinks (1 pipe-syntax, 1 plain)
+
+**`sources:` frontmatter updates (3 additional files):**
+- `wiki/yann-lecun.md`, `wiki/ami-labs.md`, `wiki/world-models.md` — all three pointed at `ami-labs-funding`, now point at the new mirror name.
+
+**Deletions (authorized raw/ modification, same pattern as 6d439b4 hygiene cleanup):**
+- `raw/tweet-2026-04-08-httpsxcomfarzatvstatus1910789505722036357.md` + `wiki/tweet-2026-04-08-farzatv-1910789505722036357.md` — FarzaTV tweet stub pair. Raw was an ugly-slug artifact from before the 16:25 slug-fix. Both files were stubs (X paywall blocked fetch; wiki page literally said "not worth re-attempting"). If the tweet content is ever re-shared directly, it gets captured cleanly under the new slug logic.
+- `raw/telegram-2026-04-08-start.md` — trivial `/start` bot-init message, no content.
+
+**Not touched:** `log.md` historical entries. Log is append-only chronological — rewriting old entries would falsify what actually happened. Old wikilinks in prior log entries will 404 in Obsidian; that's correct behavior for a historical record.
+
+**Closes:** `todo-2026-04-08-002` in `outputs/todos.md`.
+
+**Next:** Run `/deep-ingest` to verify the 4 renamed files are now correctly recognized as "already processed" (mirror exists → skip). The only raw file that should remain unprocessable is any content that legitimately hasn't been ingested yet.
+
+## [2026-04-22] briefing | Morning Briefing — 2026-04-22
+
+**Output:** `outputs/briefing-daily-ai-2026-04-22.md`
+**Summary:** Daily AI briefing. Tools: GPT-Rosalind (OpenAI life sciences model, drug discovery, 50+ science tool integrations, Amgen/Moderna/Allen Institute partners), Mythos URL-guessing breach (Discord group accessed "too dangerous" model via guessed API endpoint, Bloomberg live demo, Anthropic investigating), Nature paper (human scientists still outperform AI agents on complex open-ended research tasks). Industry: NSA using Mythos despite Pentagon blacklisting Anthropic (DoD supply-chain-risk label, NSA using for vuln scanning, Dario met Wiles + Bessent), Novo Nordisk x OpenAI full-stack deal (discovery → manufacturing, end-of-2026 target), PwC AI performance study (20% of companies capturing 75% of gains, AI-native wins over AI-retrofitted), Microsoft $10B Japan AI infrastructure commitment (data centers + 1M engineer training). World: Iran ceasefire extended indefinitely (blockade stays, Iran won't negotiate under pressure, gunboat fires on ship hours after extension — day 54), Ukraine (143 Russian drones, 116 intercepted, Sumy medical facility struck, 194 ground attacks, 1.32M cumulative Russian losses), Israel-Lebanon round 2 talks at State Dept today (Rubio + Huckabee leading, 2,454 Lebanese dead, strikes continuing despite ceasefire).
+
+## [2026-04-17] briefing | Morning Briefing — 2026-04-17
+
+**Output:** `outputs/briefing-daily-ai-2026-04-17.md`
+**Summary:** Daily AI briefing. Tools: Claude Opus 4.7 (3x vision resolution, xhigh reasoning, Glasswing cybersecurity kill switch baked in), Anthropic Managed Agents Studio (no-code agent deployment, enterprise waitlist), Plain Python framework for humans + agents (Show HN trending), MCP 2026 roadmap (97M installs, Linux Foundation governance, enterprise readiness push), "Ask HN: Where's the disruptive AI software?" thread capturing builder community self-audit. Industry: OpenAI CEO/CFO IPO split (Altman wants Q4 2026, Friar citing $14B loss forecast), Opus 4.7's architecture-level cybersecurity blocking as safety precedent, $242B AI VC in Q1 2026 (80% of all global VC), Stanford AI Index trust + incident trends. World: Russia's deadliest Ukraine strike of 2026 (659 drones + 44 missiles, 18 killed including child, Easter ceasefire broken, Zelenskyy touring Europe), US-Iran Hormuz blockade fully implemented (13 ships turned back, April 21 ceasefire expiry, Islamabad talks collapsed, Pakistan hosting round 2), Pope Leo XIV condemns war tyrants on Africa visit (Sudan "forgotten catastrophe"), US tariff one-year-later accounting (11% effective rate, highest since 1943, IEEPA ruled illegal, Section 122 replacement).
+
+## [2026-04-14] briefing | Morning Briefing — 2026-04-14
+
+**Output:** `outputs/briefing-daily-ai-2026-04-14.md`
+**Summary:** Daily AI briefing. Tools: OpenClaw security meltdown (9 CVEs in 4 days, 135K exposed instances, Hong Kong ban — despite 351K GitHub stars), Dimensional OS/dimos (agentic OS for physical robots — humanoids, drones, quadrupeds — in pure Python, no ROS, GitHub #3 trending), GPT-5.4 record computer-use benchmarks (OSWorld-Verified + WebArena Verified, record scores). Industry: OpenAI shareholder memo attacking Anthropic ("operating on meaningfully smaller curve" — 30GW vs 7–8GW compute by 2030, both near IPO), Anthropic exploring custom AI chips (early-stage, NVIDIA dependency reduction play), Claude Mythos zero-day discovery + Project Glasswing governance precedent (every major OS/browser, autonomous 17-year-old FreeBSD RCE exploit — model withheld, restricted to 40 orgs). World: US naval blockade of Iranian ports in effect (April 13, Islamabad talks collapsed, Brent crude $102/barrel, UK not joining, France/UK pursuing parallel talks), Hungary election — Orban ousted after 16 years (Tisza 53.6% vs Fidesz 37.8%, record 76.5% turnout, 2/3 majority, EU Ukraine aid veto expected to end), Russia violates Easter ceasefire ~11,000 times (artillery, drones, assault actions during declared pause).
+
+## [2026-04-09] briefing | Morning Briefing — 2026-04-09
+
+**Output:** `outputs/briefing-daily-ai-2026-04-09.md`
+**Summary:** Daily AI briefing. Tools: Google Gemma 4 (Apache 2.0, 31B beats 400B rivals), Claude Mythos withheld via Project Glasswing (sandbox escape, zero-days, 11-partner restricted release), vibe coding driving 84% App Store surge + Apple crackdown, ElevenLabs ElevenMusic iOS app. Industry: frontier labs anti-China distillation pact (DeepSeek/Moonshot/MiniMax named), Anthropic $30B revenue run rate + Google/Broadcom compute expansion, national AI legislative framework + state employment AI laws. World: US-Iran ceasefire fragile with Islamabad talks beginning today (Vance leading), North Korea cluster-bomb warhead missile tests, US tariffs one-year anniversary (doubled down, $29B/month revenue, consumer prices rising), Israel/Lebanon continuing outside ceasefire terms.
+
+2026-04-09: Lite ingest — note-2026-04-09-ai-agency-playbook.md (AI agency → SaaS playbook framework)
