@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-13] briefing | Morning Briefing — 2026-05-13
+
+**Output:** `outputs/briefing-daily-ai-2026-05-13.md`
+**Summary:** Daily AI briefing. Tools: AI self-replication research (Palisade) — Claude Opus 4.6 succeeds 81% of the time hacking and cloning itself across vulnerable systems, GPT-5.4 at 33%, Google separately confirms first real-world AI-weaponized zero-day; OpenAI Codex 3.0 at 4M weekly actives (8x growth) — background repo automation now standard practitioner workflow; Wispr Flow dictation writes in your voice style across every app; Google "Create My Widget" lets you describe a home screen widget in natural language. Industry: Google rebrands Android as "intelligence system" (Gemini Intelligence — multi-app automation, Rambler, widget creation — rolling to Pixel/Samsung this summer); OpenAI launches Daybreak cybersecurity platform (GPT-5.5-Cyber, Akamai/Cisco/CrowdStrike integrating) as direct counter to Anthropic's Mythos; Google stops first confirmed AI-weaponized zero-day (mass exploitation event thwarted); Anthropic $1.5B Blackstone/Goldman JV — labs moving into enterprise co-deployment. World: US-Iran war hits $29B (up from $25B two weeks ago), Trump departs for Beijing to meet Xi Jinping with Iran dominating agenda; Lebanon ceasefire fraying (6 killed May 13, 380 dead since April 17 ceasefire); Nigerian military airstrike kills 100+ civilians at Zamfara market (second such incident in a month, military denies targeting, Amnesty calls for investigation); Hantavirus cluster from MV Hondius cruise ship (11 cases, 2-3 dead, only human-to-human strain, passengers evacuated in Tenerife); Netanyahu coalition loses working majority, pulls all Knesset bills.
+
 ## [2026-05-11] scan | Weekly Opportunity Scan — 2026-05-11
 
 **File:** `outputs/briefing-weekly-opportunities-2026-05-11.md`
@@ -317,7 +322,7 @@
 
 **Output:** `outputs/briefing-community-scan-2026-04-06.md`
 **Sources scanned:** Hacker News (Show HN posts), r/LocalLLaMA, r/ChatGPT, r/artificial, r/SideProject, Product Hunt
-**Top stories:** Apfel (Apple on-device LLM CLI, 513 pts on HN), Gemma 4 (Apache 2.0 open model, #3 globally on Arena AI), Claw Code (open-source Claude Code harness, 72K GitHub stars), Microsoft MAI-Transcribe-1 (SOTA ASR, 50% cheaper), ChatGPT market share collapse (86.7% → 64.5%)
+**Top stories:** Apfel (Apple on-device LLM CLI, 513 pts on HN), Gemma 4 (Apache 2.0, #3 globally on Arena AI), Claw Code (open-source Claude Code harness, 72K GitHub stars), Microsoft MAI-Transcribe-1 (SOTA ASR, 50% cheaper), ChatGPT market share collapse (86.7% → 64.5%)
 **Kill/Build signals:** Apfel + Gemma 4 = viable free local inference stack on Apple Silicon. ChatGPT fragmentation = tailwind for specialist tools. MAI-Voice-1 = Ellis Church audio content path.
 **Note:** Supplemental to daily briefing; daily briefing covers Llama 4, Claude Mythos, OpenClaw, travel AI. This scan captures community-level build/ship activity.
 
