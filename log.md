@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-14] briefing | Morning Briefing — 2026-05-14
+
+**Output:** `outputs/briefing-daily-ai-2026-05-14.md`
+**Summary:** Daily AI briefing. Tools: Cerebras IPO priced above range ($150–160/share, 30M shares) — first major AI chip IPO, Wall Street conviction on specialized compute; Lovable hits $20M ARR in 2 months — fastest-growing AI app builder, vibe-coding moment; n8n + local LLM stacks (Ollama, Qdrant) emerging as builder default for private AI orchestration; YouTube Brandcast launches AI-led ad sponsorships and commerce media stack. Industry: Cisco +17% stock on AI orders surge while simultaneously cutting 4,000 jobs — cleanest single data point on enterprise AI's dual motion; Trump-Xi summit's AI governance dimension — Xi invokes Thucydides Trap for AI competition, US pushing Nvidia access, China pushing joint standards; MIT's McAfee warns entry-level automation destroys talent pipeline, 89% of class of 2026 worried (up from 64%); Microsoft/Google/xAI agree to Commerce Dept pre-deployment testing — governance norm being set without Anthropic/Meta. World: Trump-Xi Beijing summit day 1 — "strategic stability" 3-year framework agreed, Xi sharpest on Taiwan ("could lead to conflict"); Iran ceasefire "on massive life support" (Trump's words, Day 75), 52 senators + 177 reps write letter demanding no uranium enrichment in any deal; US tariff legal battle — appeals court paused lower court block of 10% global tariff, consumer prices rising (apparel +0.6%, toys +0.8%); Russia Sarmat ICBM test — nuclear modernization signal, entering service end of 2026.
+
 ## [2026-05-13] briefing | Morning Briefing — 2026-05-13
 
 **Output:** `outputs/briefing-daily-ai-2026-05-13.md`
@@ -131,7 +136,7 @@
 ## [2026-04-23] briefing | Morning Briefing — 2026-04-23
 
 **File:** `outputs/briefing-daily-ai-2026-04-23.md`
-**Sections:** AI Tools (Rowboat open-source AI coworker + living knowledge graph — Karpathy-inspired Show HN hit, SpeakON MagSafe AI device #1 Product Hunt April 22, Google A2A protocol v1.0 in production at 150+ orgs, Qwen 3.5 + Ollama as r/LocalLLaMA default stack post-Muse-Spark-closure), AI Industry (Anthropic $100B AWS commitment + $25B Amazon investment + $30B ARR tripling from $9B in 4 months, Google Cloud Next 2026 full-stack agentic bet — Gemini Enterprise Agent Platform + Workspace Studio + 8th-gen TPUs + $750M partner fund, foundation layer consolidation thesis — Anthropic and Google locking compute + protocols simultaneously), World News (Iran seizes MSC Francesca + Epaminondas hours after Trump extends ceasefire — Strait still closed + FM calls blockade act of war, Ukraine EU 20th sanctions package passed after Hungary/Slovakia drop veto + Druzhba pipeline resumes, US tariff refund system live for 330K+ importers after Supreme Court ruling + ongoing Court of International Trade challenges)
+**Sections:** AI Tools (Rowboat open-source AI coworker + living knowledge graph — Karpathy-inspired Show HN hit, SpeakON MagSafe AI device #1 Product Hunt April 22, Google A2A protocol v1.0 in production at 150+ orgs, Qwen 3.5 + Ollama as r/LocalLLaMA default stack post-Muse-Spark-closure), AI Industry (Anthropic $100B AWS commitment + $25B Amazon investment + $30B ARR tripling from $9B in 4 months, Google Cloud Next 2026 full-stack agentic bet — Gemini Enterprise Agent Platform + Workspace Studio + 8th-gen TPUs + $750M partner fund, foundation layer consolidation thesis — Anthropic and Google locking compute + protocols simultaneously), World News (US-Iran Islamabad talks today — Witkoff+Kushner in Pakistan, Iran FM Araghchi there too but Tehran denies meeting is planned; Trump orders US military to shoot Iranian small boats in Strait of Hormuz; Duterte committed to ICC trial on 3 counts crimes against humanity for 76 murders)
 
 ## [2026-04-21] briefing | Morning Briefing — 2026-04-21
 
