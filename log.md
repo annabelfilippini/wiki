@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-15] briefing | Morning Briefing — 2026-05-15
+
+**Output:** `outputs/briefing-daily-ai-2026-05-15.md`
+**Summary:** Daily AI briefing. Tools: OpenAI acquires Astral (uv/Ruff/ty) to fold into Codex — HN reaction skews negative, OSS control concerns; Google confirms first AI-built zero-day exploit, hackers used AI to bypass 2FA in planned mass exploitation event; Anthropic Mythos restricted to ~40 US orgs under Project Glasswing — unauthorized access already happening, global cybersecurity equity gap forming; Google Android Show — Gemini Intelligence rebrands Android as an "intelligence system," agentic layer rolling out this summer. Industry: Anthropic's three-day sprint — $200M Gates Foundation partnership, PwC deal, Blackstone enterprise AI company, SpaceX compute deal; Microsoft/Google/xAI agree to Commerce Dept pre-deployment testing (Anthropic/Meta absent); AI offense confirmed crossing a threshold — Daybreak, Mythos, MDASH all defensive responses to confirmed AI-powered attacks; Anthropic NLA ships as developer tool for interpretability. World: Trump-Xi Beijing summit wraps — $250B+ in deal commitments (Boeing, LNG, beef), warm tone but no breakthroughs on Taiwan or Iran; Iran ceasefire stalled — 20-year vs 5-year enrichment moratorium gap, Hormuz still blocked, Trump losing patience; Lebanon ceasefire talks in DC; US announces $1.8B humanitarian funding.
+
 ## [2026-05-14] briefing | Morning Briefing — 2026-05-14
 
 **Output:** `outputs/briefing-daily-ai-2026-05-14.md`
