@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-16] briefing | Morning Briefing — 2026-05-16
+
+**Output:** `outputs/briefing-daily-ai-2026-05-16.md`
+**Summary:** Daily AI briefing. Tools: OpenClaw surpasses 350k GitHub stars — most-starred project ever, self-hosted persistent AI agent going viral with devs; Garry Tan's Claude Code "god mode" setup (10 parallel workers, 3 projects) went viral on X — clearest real-world solo founder agentic demo yet; Wispr Flow voice dictation gaining power-user traction with style-adaptive writing across apps; Kilo Code v7 brings parallel agents to VS Code free/open-source. Industry: Anthropic seeking $30-50B at ~$950B valuation (Bloomberg, May 12) — would surpass OpenAI's $825B; Mythos new angles — EU locked out while OpenAI gave EU access to its Cyber model, unauthorized group already accessed Mythos; Musk-Altman trial closing arguments done May 14, advisory jury deliberating, judge's binding ruling expected this week; Google rebuilding Android as "intelligence system" around Gemini Intelligence; CAISI formalizes pre-deployment testing with Google/Microsoft/xAI. World: Trump-Xi summit wrapped — warm tone, $14B Taiwan arms sale still undecided, Xi warned of "clashes and conflicts" over Taiwan, Rubio confirmed US policy unchanged; Russia's biggest aerial assault of the war — 1,560+ drones, 56 missiles, 24 dead in Kyiv apartment building, 3 children among them, post-Trump ceasefire; Strait of Hormuz — vessel seized near UAE taken toward Iranian waters, Indian-flagged ship sunk off Oman, Iran asserts right to seize US-linked tankers.
+
 ## [2026-05-15] briefing | Morning Briefing — 2026-05-15
 
 **Output:** `outputs/briefing-daily-ai-2026-05-15.md`
