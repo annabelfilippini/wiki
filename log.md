@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-17] briefing | Morning Briefing — 2026-05-17
+
+**Output:** `outputs/briefing-daily-ai-2026-05-17.md`
+**Summary:** Daily AI briefing. Tools: Claude Managed Agents ships Dreaming (session memory + self-improvement), Outcomes (grader agent re-runs tasks, +10.1% benchmark), and Multiagent Orchestration (parallel specialists on shared filesystem); Claude Code adds agent view for multi-session CLI management; Googlebook announced — AI-native laptop replacing Chromebook, Gemini-built widgets + Magic Pointer, launching fall 2026 with Acer/ASUS/Dell/HP/Lenovo; NVIDIA Ising open-source AI for quantum error-correction (2.5x faster, 3x more accurate); Kimi 2M token context gaining developer traction. Industry: Anthropic Mythos stays restricted to ~40 US orgs, EU locked out while OpenAI gives EU access to GPT-5.5-Cyber — two diverging access philosophies; Google I/O May 19 pre-loaded with Googlebook, Gemini 3.1 Ultra/Flash-Lite, Android Gemini Intelligence — racing Apple's AI reboot; OpenAI Deployment Co. consulting arm launched, both labs now full-stack service companies; Novo Nordisk + OpenAI full enterprise integration (drug discovery through supply chain); CAISI pre-deployment review now covers Google/Microsoft/xAI/OpenAI/Anthropic, Meta conspicuously absent. World: Iran-US ceasefire on "massive life support" — Trump rejected Iran's counter-proposal, 5-year vs 20-year enrichment moratorium gap remains, back-channel talks continuing; Ukraine ceasefire collapsed May 12 — Russia refused extension, 200+ drones fired immediately, record 9,153 drones deployed May 15-16; Fed Chair transition — Powell out May 15, Warsh in, 3.3% CPI + Middle East oil shock + softening consumer, dual-mandate conflict; WHO emergency briefing on simultaneous Hantavirus (Dutch cruise ship cluster, human-to-human strain) and new DRC Ebola outbreak (no known vaccine).
+
 ## [2026-05-16] briefing | Morning Briefing — 2026-05-16
 
 **Output:** `outputs/briefing-daily-ai-2026-05-16.md`
