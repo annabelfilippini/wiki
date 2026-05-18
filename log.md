@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-18] briefing | Weekly Opportunity Scan — 2026-05-18
+
+**Output:** `outputs/briefing-weekly-opportunities-2026-05-18.md`
+**Summary:** Weekly opportunity scan. Top 5: (1) Multi-Week Award Calendar Scanner — AwardHacker shut down, day-by-day search is #1 FlyerTalk complaint, no tool does multi-week heatmap; direct Wayloft feature signal. (2) Agentic PM Workspace — YC S26 RFS explicitly named "Cursor for PMs," 3rd week carry with strongest validation yet. (3) Niche AI Briefing Service — wiki is the prototype, Fortune May 18 article validates solo founder automation wave. (4) New Grad Total Comp Decoder — 4th consecutive week, zero competitors found, Annabel IS the user right now. (5) Solo Founder Context Manager — Anthropic published context engineering guide this week; per-project state across Claude Code sessions is unserved. Killed: AI Displacement Career Pivot Plan (competition entering), Managed LLM Wiki as product (maintenance burden), Regulatory Pulse (Vanta/Ramp closing gap), Community Engine (4th week, officially dead). Wayloft STRONG BUILD signal hits week 5 — AwardHacker shutdown is clearest market gap event yet.
+
 ## [2026-05-18] briefing | Morning Briefing — 2026-05-18
 
 **Output:** `outputs/briefing-daily-ai-2026-05-18.md`
