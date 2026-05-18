@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-18] briefing | Wayloft Competitor Scan — 2026-05-18
+
+**Output:** `outputs/briefing-weekly-competitors-2026-05-18.md`
+**Summary:** Wayloft weekly competitor scan. Top 5: (1) CardPointers v7 MCP AI integration (March 27) — closest competitor plugged real card data into ChatGPT/Claude via MCP; direct attack on Ellis Church differentiation; Wayloft response: native AI vs. AI plumbing double-paywall. (2) PointsYeah named NerdWallet's #1 award search tool 2026 — new entrant, free + $11.99/mo, doesn't compete with Wayloft's card-decision lane; opportunity to sharpen positioning. (3) Capital One Travel App launched March 17 — Hopper tech in-house, issuer-specific; validates multi-issuer neutral positioning for Wayloft. (4) Gondola free hotel points optimizer with $3M seed — free model raises bar for Wayloft's free tier; complementary tool (hotel spend vs. card decisions). (5) Rove Miles (YC-backed) added 18th transfer partner May 7 with 25% bonus — emerging 6th transfer currency to add to Wayloft tracker. Actions: launch worth-it SSG now, position Ellis Church against MCP double-paywall, add Rove to transfer tracker roadmap, stay out of award search.
+
 ## [2026-05-18] briefing | Weekly Opportunity Scan — 2026-05-18
 
 **Output:** `outputs/briefing-weekly-opportunities-2026-05-18.md`
