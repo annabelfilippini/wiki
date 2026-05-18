@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-18] briefing | Morning Briefing — 2026-05-18
+
+**Output:** `outputs/briefing-daily-ai-2026-05-18.md`
+**Summary:** Daily AI briefing. Tools: Claude Opus 4.7 releases across all platforms at same price as 4.6, Anthropic verticalizing hard into finance/legal; vibe coding tool split crystallizes — Claude Code wins architecture, Cursor wins daily feel, Lovable/Bolt for prototyping; OpenAI collapses ChatGPT + Codex + API into unified super app; Gemini 3.1 Flash-Lite at $0.25/M tokens becomes cheapest capable model; OpenAI Daybreak + Microsoft MDASH launch as defensive AI cybersecurity tools. Industry: Anthropic deepens Wall Street push — pre-built bank agents + PwC global rollout; OpenAI closes $122B at $852B valuation, retail IPO allocation confirmed, H2 2026 listing targeted; Microsoft/Google/xAI sign pre-deployment testing agreement with US Commerce Dept, Anthropic/Meta absent; AI offense/defense race now at product layer — three defensive tools launched in 72 hours. World: Moody's strips US of last perfect Aaa credit rating, downgrades to Aa1 — first time all three agencies below top tier, debt projected 134% of GDP by 2035; Ukraine holds — 279/287 drones shot down overnight, 3,170+ drones fired past week, no peace signals; Gaza ceasefire paralyzed at 6 months — Israel controls 64% of territory, Hamas won't disarm, 850+ killed since truce; US inflation 3.8% (April), two-thirds of Americans say Trump policies worsening economy, midterm outlook shifting toward Democrats; Pentagon announces withdrawal of ~5,000 troops from Germany.
+
 ## [2026-05-17] briefing | Morning Briefing — 2026-05-17
 
 **Output:** `outputs/briefing-daily-ai-2026-05-17.md`
