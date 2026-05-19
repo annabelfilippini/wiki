@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-19] briefing | Morning Briefing — 2026-05-19
+
+**Output:** `outputs/briefing-daily-ai-2026-05-19.md`
+**Summary:** Daily AI briefing. Tools: Google I/O 2026 keynote live today (Gemini 4.0, Gemini Intelligence for Android 17, Gemini Spark persistent agent, Veo upgrade, XR glasses); agentic engineering trend crystallizes — Boris Cherny quote "no manually written code at Anthropic" circulating, Gas Town orchestrates dozens of Claude Code instances in parallel; Stainless acquisition closes the SDK pipeline for OpenAI/Google/Cloudflare. Industry: Anthropic acquires Stainless for $300M+ — first infrastructure "choke point" acquisition in model wars, rivals lose SDK compiler; OpenAI opens ChatGPT Ads Manager self-serve to all ($2.5B ad revenue target, no min spend); four-player model race compresses — Opus 4.7 tops LMArena, GPT-5.5 out, Meta Muse Spark within striking distance; Copilot Cowork (Claude + Microsoft 365) generally available. World: Ukraine fires 500-drone strike on Moscow — largest in over a year, 5 killed, oil refinery hit, Zelensky calls it justified retaliation; Israel kills Hamas military wing leader Izz al-Din al-Haddad in Gaza — last senior Oct 7 architect; UAE Barakah nuclear plant hit by drone — fire in generator, no radiological impact, source unattributed; Trump-Xi summit delivers Boeing/soybean/rare earth deals as US court strikes down blanket 10% tariffs, $166B refund pool opened.
+
 ## [2026-05-18] briefing | Wayloft Competitor Scan — 2026-05-18
 
 **Output:** `outputs/briefing-weekly-competitors-2026-05-18.md`
