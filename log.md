@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-20] briefing | Morning Briefing — 2026-05-20
+
+**Output:** `outputs/briefing-daily-ai-2026-05-20.md`
+**Summary:** Daily AI briefing. Tools: Gemini Spark ("24/7 AI agent") and AI Ultra $100/mo tier unveiled at Google I/O today; Claude Code desktop app redesigned with parallel sessions, SSH support — Code with Claude London running today; llamafile 0.10 ships Stable Diffusion + Whisper support, gaining r/LocalLLaMA traction as no-Docker Ollama alternative; Ask YouTube and Universal Cart are Google's Gemini-surface plays. Industry: Anthropic closing $30B round at $900B+ valuation (passing OpenAI's March mark), ARR above $44B, 80x YoY growth, Mythos reasoning model released; OpenAI Daybreak launches AI-powered vulnerability detection with GPT-5.5-Cyber tier for authorized red teams, Cisco/CrowdStrike/Cloudflare integrating; Microsoft/Google/xAI agree to give US government early frontier model access for national security testing. World: Xi and Putin meet in Beijing today — days after Trump's visit, extending friendship treaty and discussing Power of Siberia 2 pipeline, calibrated show of alignment; WHO declared Ebola PHEIC May 16 (Bundibugyo strain, 500+ cases, 130 deaths across DRC/Uganda, no vaccine); Ukraine 3-day ceasefire (May 9–11) expired with talks stalled — Russia demands Donetsk, Ukraine demands security guarantees; Bolivia President Paz faces blockades and political crisis six months into office.
+
 ## [2026-05-19] briefing | Morning Briefing — 2026-05-19
 
 **Output:** `outputs/briefing-daily-ai-2026-05-19.md`
