@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-21] briefing | Morning Briefing — 2026-05-21
+
+**Output:** `outputs/briefing-daily-ai-2026-05-21.md`
+**Summary:** Daily AI briefing. Tools: Gemini 3.5 Flash rolling out now — 4× faster than comparable models at ~1/3 the price, outperforms 3.1 Pro on coding/agentic benchmarks; Gemini Spark 24/7 personal agent (email interface, Gmail/Docs/Canva/Instacart integration, $100/mo Ultra tier) debuted at I/O; Anthropic Mythos cybersecurity controversy — emergent exploit capabilities prompted Glasswing consortium, Schneier analysis circulating; Claude Code hits 46% developer adoption (vs 19% Cursor, 9% Copilot), agent-user enthusiasm 2× non-agent. Industry: Karpathy joins Anthropic pre-training team, will use Claude to accelerate pre-training R&D; frontier race now genuinely three-way — Google (speed/price), Anthropic (talent/capability), OpenAI (distribution/money); both OpenAI ($4B) and Anthropic ($1.5B) moving on consulting firm acquisitions. World: Iran warns of "surprises" as Trump gives 2-3 day ultimatum, ceasefire MOU framework still live but stalled; Xi-Putin Beijing summit yields "multipolar world" declaration + 40 cooperation agreements, joint criticism of Golden Dome; Barney Frank dies at 86; DOJ prosecutor charged with stealing Jack Smith investigation files; WHO Ebola PHEIC (Bundibugyo strain, 500+ cases, DRC/Uganda) continues expanding.
+
 ## [2026-05-20] briefing | Morning Briefing — 2026-05-20
 
 **Output:** `outputs/briefing-daily-ai-2026-05-20.md`
