@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-22] briefing | Morning Briefing — 2026-05-22
+
+**Output:** `outputs/briefing-daily-ai-2026-05-22.md`
+**Summary:** Daily AI briefing. Tools: Gemini 3.5 Flash hits GA today (76.2% Terminal-Bench 2.1, $1.50/$9 per 1M tokens, 4× speed, beats 3.1 Pro on coding/agents); OpenClaw security crisis — CVE-2026-25253 (one-click RCE), 135k+ exposed instances, ClawHavoc supply chain attack seeds 800 malicious skills in ClawHub (~20% of registry), Cisco ships DefenseClaw; Gemini Spark live for AI Ultra ($100/mo); OpenHuman GitHub trending with "model user first" agent design philosophy. Industry: OpenAI filing confidential S-1 as early as today targeting $852B–$1T September listing, Musk lawsuit rejected; SpaceX S-1 reveals Anthropic paying $1.25B/month for GPU compute through May 2029 ($45B commitment) + $60B Cursor acquisition option; Anthropic projects first quarterly operating profit, $10.9B Q2 revenue (130% QoQ growth); open-source agent security now the dominant AI security theme as Cisco/OpenAI/NVIDIA all ship defenses simultaneously. World: Iran strikes paused — Gulf states (Qatar, Saudi, UAE) intervene, Trump confirms hold, diplomatic clock expiring this weekend; Russia fires 500+ drone/missile barrage at Ukraine, one of largest of the war; Palestinian delegation drops UN bid after US visa threat; US tariff refunds ($166B) flowing, Walmart may cut prices, G7 finance ministers meeting in Paris on global economic outlook.
+
 ## [2026-05-21] briefing | Morning Briefing — 2026-05-21
 
 **Output:** `outputs/briefing-daily-ai-2026-05-21.md`
