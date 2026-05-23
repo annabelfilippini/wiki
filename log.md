@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-23] briefing | Morning Briefing — 2026-05-23
+
+**Output:** `outputs/briefing-daily-ai-2026-05-23.md`
+**Summary:** Daily AI briefing. Tools: OpenAI general reasoning model disproves 80-year Erdős unit distance conjecture using algebraic number theory (not geometry) — Fields medalist Gowers calls it "a milestone in AI mathematics"; Kilo Code v7 hits Product Hunt #1 (parallel subagents, inline diff review, free/open-source, the Cursor alternative); Alteryx Agent Studio + MCP Server converts existing data workflows to autonomous agents at Inspire 2026. Industry: Trump's AI executive order killed hours before signing — Musk, Zuckerberg, and Sacks lobbied overnight, Trump cited not wanting to "get in the way" of AI lead over China; OpenAI S-1 confirmed filed May 22 ($852B–$1T target, Q4 2026, $25B annualized revenue, still unprofitable at -$1.22/$1); bigger picture: Erdős solve + Karpathy-at-Anthropic signal AI is now eating the research process that produces better AI. World: Iran-US Round 5 Rome talks end without breakthrough — stalled on enrichment dismantlement, both sides agree to continue; Ukraine gaining 29 sq miles net in past week, tactical initiative shifting; US households net-negative from tariff + OBBBA combination for bottom 95%.
+
 ## [2026-05-22] briefing | Morning Briefing — 2026-05-22
 
 **Output:** `outputs/briefing-daily-ai-2026-05-22.md`
