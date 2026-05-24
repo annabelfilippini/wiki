@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-24] briefing | Morning Briefing — 2026-05-24
+
+**Output:** `outputs/briefing-daily-ai-2026-05-24.md`
+**Summary:** Daily AI briefing. Tools: Statewright (Show HN) brings visual state machines to AI agent reliability — builder community responding to the production-gap problem; Kimi K2 from Moonshot AI holds longest commercial context window (2M tokens, MoE) and gaining r/LocalLLaMA traction; Runway Gen-4.5 follows Gen-4, cementing professional video gen standard with consistent characters + native audio; WebMCP (Google, Chrome 149 origin trial) proposes open browser standard for AI agents using structured page tools natively. Industry: Gemini Omni is Google's any-input-to-any-output multimodal model, now shipping post-I/O; Anthropic accelerates enterprise verticalization with 10 finance agent templates, Jamie Dimon meeting, Moody's data partnership — moving from API-sell to solution-sell; AI agent discourse on Reddit/HN has shifted from "wow" to "does this actually work in production?" — the maturation moment; OpenAI Daybreak enterprise security partners confirmed (Cisco, Cloudflare, CrowdStrike, Palo Alto, etc.). World: Trump says Iran deal "largely negotiated" (60-day ceasefire + Strait reopens + nuclear talks deferred) — Tehran calls it "inconsistent with reality," Pakistan mediating; Russia launches 524-drone + 22-missile barrage on Ukraine overnight, one of heaviest attacks of the war; Staten Island shipyard explosion kills 1, injures 34 FDNY including fire marshal in critical condition; EEOC proposes eliminating 60-year EEO-1 workforce diversity reporting requirement.
+
 ## [2026-05-23] briefing | Morning Briefing — 2026-05-23
 
 **Output:** `outputs/briefing-daily-ai-2026-05-23.md`
