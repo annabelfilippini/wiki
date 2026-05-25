@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-25] briefing | Morning Briefing — 2026-05-25
+
+**Output:** `outputs/briefing-daily-ai-2026-05-25.md`
+**Summary:** Daily AI briefing. Tools: Google AI Search fully redesigned — generates custom visuals, interactive graphics, and mini-apps inline ("biggest change in 25 years"), paradigm shift away from link-based navigation; Contextberg feeds live screen/browser/chat context into MCP-compatible coding agents, addressing the context-blindness problem for Claude Code/Cursor power users; Claude Code at 4% of GitHub public commits (doubling in 8 weeks), on pace for 20%+ by year-end, average dev spending 20hrs/week per Dario Amodei. Industry: Pope Leo XIV publishes *Magnifica Humanitas* (today, May 25), first papal encyclical on AI — Anthropic co-founder Christopher Olah presenting at the Vatican, AI enters Catholic social doctrine; Anthropic overtakes OpenAI in US business AI payments for first time ever (Ramp AI Index: 34.4% vs 32.3%), Claude Code the engine, three structural threats flagged; broader realization that AI didn't upgrade search, it replaced it — SEO/media/publishing facing platform-shift reckoning; Gemini 3.5 Pro delayed to June, live I/O audience groaned. World: Russia deploys Oreshnik hypersonic missile in largest-ever attack on Kyiv (600 drones + 90 missiles overnight), Chernobyl museum destroyed, 4 dead 80+ wounded, largest location count damaged of entire war; WHO declares Bundibugyo Ebola a global health emergency (PHEIC), 968 suspected cases + 216 deaths in DRC/Uganda, no vaccine/treatment for this strain; China launches Shenzhou 23 with one astronaut scheduled for a full year in space.
+
 ## [2026-05-24] briefing | Morning Briefing — 2026-05-24
 
 **Output:** `outputs/briefing-daily-ai-2026-05-24.md`
