@@ -4,6 +4,13 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-25] scan | Wayloft Competitor Scan — 2026-05-25
+
+**File:** `outputs/briefing-weekly-competitors-2026-05-25.md`
+**Sources searched:** CardPointers v7 (9to5Mac, Cloud9Club, CardPointers.com), Kudos Premium (Kudos blog), NerdWallet/TPG/Bankrate AI citation dominance (5W PR AI Visibility Index, deBanked, Search Engine Land), Seats.aero Seat Map Viewer (Upgraded Points), Alaska Atmos Rewards (Alaska Airlines newsroom), Capital One Travel App (TPG), MaxRewards/AwardWallet (CNBC Select, US News), Point.me/AwardFares/Seats.aero comparison (AwardTravelFinder, Frugal Flyer).
+**Top 5:** CardPointers on-device Apple Intelligence closes double-paywall gap + 50% sale ($45/yr) — threat escalation; Kudos Premium portfolio-level AI insights — new threat from below; NerdWallet/TPG/Bankrate own 62%+ AI search citations, organic traffic obsolete — structural SEO threat; Seats.aero Pro $9.99/mo with Seat Map Viewer anchors category price — neutral/pricing signal; Alaska Atmos Rewards program rebrand + TPG innovation award — watch/data update needed.
+**Key actions:** Ship worth-it SSG pages immediately; audit AI assistant answers for Wayloft's target queries; revisit Pro pricing vs. CardPointers $45/yr; sharpen Ellis Church vs. Kudos positioning; update Atmos Rewards in transfer partner database.
+
 ## [2026-05-25] briefing | Morning Briefing — 2026-05-25
 
 **Output:** `outputs/briefing-daily-ai-2026-05-25.md`
