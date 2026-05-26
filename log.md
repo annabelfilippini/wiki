@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-26] briefing | Morning Briefing — 2026-05-26
+
+**Output:** `outputs/briefing-daily-ai-2026-05-26.md`
+**Summary:** Daily AI briefing. Tools: Runway GWM-1 General World Model launched (three variants: Worlds, Robotics, Characters) built on Gen-4.5 — Runway enters the world-simulation/robotics race; Cursor 3 Agents Window enabling parallel coding agents shifts product from editor to orchestration platform; developer community converging on workflow-beats-model insight (Sonnet 4.6 + structured planning > Opus 4.7 unstructured); Google Managed Agents (Gemini API) provisions remote Linux sandbox for agentic apps. Industry: Karpathy joins Anthropic pre-training team, building team that uses Claude to accelerate pretraining R&D — biggest talent move of the month; Google I/O 2026 full digest — "agentic Gemini era" officially declared, Gemini 3.5 Flash default in Search, $100 AI Ultra tier, Search box redesigned for agents; Anthropic acquires Stainless SDK infrastructure (~$300M), directly undercutting OpenAI/Google developer tooling; OpenAI >$25B ARR + IPO signals, Anthropic ~$19B; US government gets voluntary early access to frontier models from Microsoft/Google/xAI. World: Iran-US deal "largely negotiated" — 60-day ceasefire, Hormuz reopens, nuclear terms still disputed; California chemical tank emergency, state of emergency + mass evacuation; Kevin Warsh sworn in as Fed chair at White House, Trump 30% approval on economy; Hajj 2026 underway at Arafat.
+
 ## [2026-05-25] scan | Wayloft Competitor Scan — 2026-05-25
 
 **File:** `outputs/briefing-weekly-competitors-2026-05-25.md`
