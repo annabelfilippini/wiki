@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-27] briefing | Morning Briefing — 2026-05-27
+
+**Output:** `outputs/briefing-daily-ai-2026-05-27.md`
+**Summary:** Daily AI briefing. Tools: Kimi K2.6 tops SWE-Bench Pro at 58.6% (open-weight, now inside Cursor) — cost-efficient coding model putting pressure on Claude/GPT pricing; Cursor/Claude Code/Codex converging into unified orchestration stack where the orchestrator wins, not the model; Stitch 2.0 prompt-to-editable-UI gaining Product Hunt traction; Wispr Flow voice dictation buzzing among power users. Industry: OpenAI model autonomously disproves Erdős 80-year-old planar unit distance conjecture using algebraic number theory — first AI-solved prominent open math problem, verified by external mathematicians including Tim Gowers; Google I/O releases Gemini 3.5 Flash (faster/cheaper, 4x speed vs 3.1 Pro, $1.50/$9 per 1M tokens) while delaying Pro — explicit agents-not-chatbots bet; Anthropic projects first-ever profitable Q2 at $10.9B revenue / $559M operating profit (130% revenue jump, caveats around compute obligations); Trump AI executive order pulled at last minute — Sacks + Trump both hated regulation, no new date set. World: Iran-US ceasefire under strain — new US strikes in Hormozgan province called "gross violation" by Iran, US says defensive, deal still possible in days; Trump-Xi summit aftermath crystallizes China's leverage shift from tariffs to critical minerals/rare earths; Putin signals Ukraine war "coming to a settlement" with Zelenskyy meeting planned, details unconfirmed; China launches Shenzhou 23 with year-long crew mission; Ebola hospitals in DRC attacked three times in a week.
+
 ## [2026-05-26] briefing | Morning Briefing — 2026-05-26
 
 **Output:** `outputs/briefing-daily-ai-2026-05-26.md`
