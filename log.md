@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-28] briefing | Morning Briefing — 2026-05-28
+
+**Output:** `outputs/briefing-daily-ai-2026-05-28.md`
+**Summary:** Daily AI briefing. Tools: Kilo Code (community fork of Roo Code, archived May 15) going viral on Bilibili and developer communities as Cursor alternative; Google Antigravity CLI (from I/O, May 19) brings terminal-native agent harness creation; Gemini Spark personal agent takes actions in Gmail/Calendar, most consumer-forward Google AI product yet; MCP crosses 97M monthly SDK downloads + 10K public servers — structural ubiquity now locked in; Claude Code Opus 4.7 at 87.6% SWE-bench with 1M context still leading agentic coding conversation. Industry: OpenAI's DeployCo ($4B consulting arm, backed by Goldman/TPG/McKinsey/Bain/Capgemini) signals AI-as-service phase; KPMG deploys Claude to 276,000 employees across 138 countries — largest single enterprise rollout on record, further evidence Anthropic winning enterprise; Altman + Amodei both soften AI jobs doom, repositioning for IPOs, but Anthropic co-founder Chris Olah doubles down at Vatican AI ethics conference — internal split signals honest uncertainty; Google/Microsoft/xAI formalizing early government model access for national security testing. World: US-Iran deal not signed today — Iran committed in principle to Hormuz reopening + uranium disposal but mechanics still being negotiated, Trump Cabinet meeting today; Gaza stabilization force still hasn't materialized three months after announced; Israeli strike near Tyre kills 14; Europe record-breaking heatwave (UK 35°C, France unprecedented heat), wildfires near Edinburgh; US economy adding jobs (178K March, 4.3% unemployment) but OECD warns inflation could hit 4.2% driven by Hormuz supply shock; Belgium train-bus crash kills 4 including 2 children.
+
 ## [2026-05-27] briefing | Morning Briefing — 2026-05-27
 
 **Output:** `outputs/briefing-daily-ai-2026-05-27.md`
