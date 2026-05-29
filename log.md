@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-29] briefing | Morning Briefing — 2026-05-29
+
+**Output:** `outputs/briefing-daily-ai-2026-05-29.md`
+**Summary:** Daily AI briefing. Tools: OpenAI Daybreak cybersecurity platform (GPT-5.5-Cyber, CrowdStrike/Palo Alto integrating) building buzz in security space; Pragmatic Engineer survey confirms Claude Code at 46% developer love vs Cursor 19%/Copilot 9%, 41% of all code now AI-generated; Alteryx Agent Studio + MCP lets business analysts convert legacy workflows to autonomous agents; workflow > model realization consolidating — orchestration stacks (n8n + Composio + Claude Code) now the conversation, not model selection. Industry: Anthropic $900B valuation round expected to close THIS WEEK ($30B raise, 3x Feb valuation), annualized revenue at $14B with Claude Code contributing $2.5B — fastest private company rerating in history; Anthropic overtakes OpenAI on enterprise adoption (34.4% vs 32.3%); AI white-collar job displacement going concrete — Dario 50% entry-level warning, Block cut 50% of 10K workforce citing AI, Mustafa Suleyman says 18 months to automate most professional work. World: US-Iran tentative deal reached May 28 but Trump hasn't signed — 60-day ceasefire + Hormuz reopening + sanctions relief for oil sales, IRGC fired warning shots near strait; Gaza ceasefire fraying — Hamas accuses Israel of moving demarcation line, stabilization force still absent; Supreme Court struck down IEEPA tariff authority, Trump pivoted to Section 122 flat 10% — $1,500/household/year, inflation at 3.8%; China's Shenzhou 23 includes year-long mission, China's first long-duration spaceflight milestone.
+
 ## [2026-05-28] briefing | Morning Briefing — 2026-05-28
 
 **Output:** `outputs/briefing-daily-ai-2026-05-28.md`
