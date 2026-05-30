@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-30] briefing | Morning Briefing — 2026-05-30
+
+**Output:** `outputs/briefing-daily-ai-2026-05-30.md`
+**Summary:** Daily AI briefing. Tools: Cursor 3.2 ships /multitask for parallel subagents (now $2B ARR, doubling in 3 months); Anthropic Claude Managed Agents gets self-hosted sandboxes (public beta) + MCP tunnels (research preview) at Code with Claude London — enterprise perimeter-security answer; GPT-5.5 Instant now default for all ChatGPT users (free tier included), hallucination resistance the headline for regulated industries. Industry: Anthropic closes $65B Series H at $965B post-money valuation — overtakes OpenAI ($852B) for first time, likely final private raise before IPO, Samsung/SK Hynix/Micron join as infrastructure partners; Andrej Karpathy (OpenAI co-founder, former Tesla Autopilot lead) joins Anthropic pretraining team — highest-profile AI talent move of 2026; Google bets on Gemini 3.5 Flash (fast/cheap/deployable) over frontier one-upmanship — executives across OpenAI/Google/Anthropic all say race is now "neck-and-neck." World: US-Iran 60-day Hormuz framework "largely negotiated" per Trump — clears mines, lifts blockade, sanctions waivers, defers nuclear program question; DRC/Uganda Ebola PHEIC (Bundibugyo strain, no vaccine) hits ~1,262 cases/241 deaths, spreading to Kampala; Shangri-La Dialogue opens with Hegseth on Indo-Pacific strategy, China skips defense minister for 2nd year; US designates Brazil's Red Command + PCC as Foreign Terrorist Organizations.
+
 ## [2026-05-29] briefing | Morning Briefing — 2026-05-29
 
 **Output:** `outputs/briefing-daily-ai-2026-05-29.md`
