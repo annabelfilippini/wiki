@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-05-31] briefing | Morning Briefing — 2026-05-31
+
+**Output:** `outputs/briefing-daily-ai-2026-05-31.md`
+**Summary:** Daily AI briefing. Tools: Claude Opus 4.8 + Dynamic Workflows research preview (Claude Code spawns hundreds of parallel subagents per session, 4× less likely to pass code flaws silently, effort-control slider); Anthropic Mythos safety-staged under Project Glasswing — first lab to gate release on safety cert vs readiness, coming weeks; Gemini 3.5 Pro in internal testing, ships June (follows Flash now default in AI Search globally, 4× faster than 3.1 Pro). Industry: AI job displacement quantified — Goldman 16K jobs/month, Yale entry-level "stepping-stone" roles disappearing before Gen Z career starts, 20% employment decline for devs 22–25; Anthropic revenue $10B → $47B ARR in six months, growing faster than OpenAI ($25B ARR); frontier race "neck-and-neck" per all three labs but strategy divergence is the real story (breadth vs safety-depth vs product embedding). World: US-Iran ceasefire straining — Hegseth says military ready to resume combat, Iran fired ballistic missile at Kuwait US base (intercepted), tentative deal unsigned; Israel crosses Litani River, on outskirts of Nabatieh first time since 2006, civilian displacement ordered, Hezbollah counterattacking, complicates Iran deal; Colombia presidential election underway, runoff June 21 expected; Virginia I-95 bus crash kills 5.
+
 ## [2026-05-30] briefing | Morning Briefing — 2026-05-30
 
 **Output:** `outputs/briefing-daily-ai-2026-05-30.md`
