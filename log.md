@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-06-01] briefing | Weekly Opportunity Scan — 2026-06-01
+
+**Output:** `outputs/briefing-weekly-opportunities-2026-06-01.md`
+**Summary:** Weekly opportunity scan. Top 5: Non-Engineering Offer Decoder (URGENT — 14 days left, week 7); Agentic PM Workspace (week 6, no winner shipped); Loyalty Devaluation Alert Engine (week 8 Wayloft-native); GEO Copilot for Local Service Contractors (NEW — 45% of consumers use AI for contractor search, local operators invisible); Vibe-to-Production Diagnostic (week 2, no new competition). Killed: Award Calendar Heatmap (7 weeks without a build = a decision; demoted to Wayloft feature decision); AI Freelancer Invoice Recovery (HoneyBook AI covers market). Watch list: Discord Community Health Dashboard, AI Agent Reliability for small teams, GEO for indie brands. Wayloft signal: devaluation alert still cleanest uncontested gap; full-trip optimizer is the remaining differentiation vs. commoditized flight search.
+
 ## [2026-06-01] briefing | Morning Briefing — 2026-06-01
 
 **Output:** `outputs/briefing-daily-ai-2026-06-01.md`
