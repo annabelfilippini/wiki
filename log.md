@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-06-01] briefing | Wayloft Competitor Scan — 2026-06-01
+
+**Output:** `outputs/briefing-weekly-competitors-2026-06-01.md`
+**Summary:** Weekly Wayloft competitor scan. Top threats: CardPointers v7 (biggest upgrade ever — Apple Intelligence, Watch, custom cards, 50% sale); Capital One Travel App launch (issuer-native, siloed). Top opportunity: Bilt 2.0 confusion backlash drives live search intent for "is Bilt worth it" — directly maps to Wayloft Worth-It tool. Point.me World Cup hub (events.point.me) shows contextual demand spikes. Seats.aero/AwardFares deepening in award search lane (not Wayloft's lane). Recommended: write Bilt 2.0 Worth-It SSG pages this week; run complexity-as-the-enemy content angle.
+
 ## [2026-06-01] briefing | Weekly Opportunity Scan — 2026-06-01
 
 **Output:** `outputs/briefing-weekly-opportunities-2026-06-01.md`
