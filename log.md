@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-06-01] briefing | Morning Briefing — 2026-06-01
+
+**Output:** `outputs/briefing-daily-ai-2026-06-01.md`
+**Summary:** Daily AI briefing. Tools: Google Antigravity 2.0 agentic platform (multi-agent orchestration desktop app, background Search agents); Gemini 3.5 Flash beats 3.1 Pro on agentic benchmarks but API price tripled, 3.5 Pro due this month; OpenAI Codex + GPT-5.5 at 4M weekly users, Gartner Leader, NVIDIA deploying at 10K+ employees; vibe-coding r/vibecoding at 89K members, "prototype in Lovable, graduate to Cursor/Claude Code" as emerging standard workflow. Industry: Karpathy joins Anthropic pretraining team (announced May 19, starting this week) + launching new team using Claude to accelerate pretraining research; Anthropic $30B+ run-rate ARR (up from $9B six months ago), 1000+ customers at $1M+/year, Google/Broadcom compute expansion for multiple GW; OpenAI IPO Q4 2026 target, $852B–$1T valuation, Brockman unifying product org; AI workforce squeeze hitting entry-level devs hardest — 20% employment decline for 22-25-year-olds, Goldman 16K jobs/month, 77% of new AI roles require master's degree. World: US struck Qeshm/Goruk, Iran hit Kuwait US base, Israel expanded Lebanon ground assault (3000+ dead, 1M+ displaced), US-Iran ceasefire drafts being traded; Ukraine June peace deadline now here, Trump-Zelensky at 90-95%, Russia still demanding Donbas withdrawal; NJ ICE Delaney Hall protests day 9, state police took over, senator pepper-sprayed, 300 detainees on hunger strike; Colombia runoff June 21, Xi warns Trump on Taiwan.
+
 ## [2026-05-31] briefing | Morning Briefing — 2026-05-31
 
 **Output:** `outputs/briefing-daily-ai-2026-05-31.md`
