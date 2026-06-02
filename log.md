@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-06-02] briefing | Morning Briefing — 2026-06-02
+
+**Output:** `outputs/briefing-daily-ai-2026-06-02.md`
+**Summary:** Daily AI briefing. Tools: Mina Meeting Assistant (#1 Product Hunt launch, 29K votes — AI that participates and executes during live calls); OpenClaw hitting 250K GitHub stars (always-on local agent); local AI going mainstream via Ollama + Gemini 4 Open; Gemini 3.5 Pro imminent. Industry: Anthropic files confidential S-1 with SEC at $965B valuation ($47B run-rate ARR, beats OpenAI's $852B first time), Goldman/JPMorgan/MS expected underwriters, ~Oct 2026 listing; frontier race neck-and-neck with Google betting on cost/speed over benchmark supremacy; AI compressing value of early-career work is now mainstream discourse. World: Iran suspends US ceasefire talks (Iran says talks halted over Israel/Lebanon violations; Trump says talks "at rapid pace" — direct contradiction); Ebola Congo outbreak at ~300 confirmed, Kenya quarantine facility in court today; daraxonrasib pancreatic cancer drug nearly doubles survival (13.2 vs 6.6 months) — "grand slam" at ASCO 2026, FDA submission imminent; California gubernatorial primary today.
+
 ## [2026-06-01] briefing | Wayloft Competitor Scan — 2026-06-01
 
 **Output:** `outputs/briefing-weekly-competitors-2026-06-01.md`
