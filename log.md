@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-06-03] briefing | Morning Briefing — 2026-06-03
+
+**Output:** `outputs/briefing-daily-ai-2026-06-03.md`
+**Summary:** Daily AI briefing. Tools: Mina Meeting Assistant (live in-call execution, #1 Product Hunt June, 29K votes), Databox MCP (#3 PH — live business metrics in Claude/ChatGPT via MCP), llamafile renewed HN buzz (single-file local LLM, now that open-weight quality crosses production bar), Microsoft MAI-Code-1-Flash + MAI-Thinking-1 (Build 2026 debut, coding + reasoning, OpenAI independence play). Industry: Anthropic confidential S-1 filed June 1 ($965B valuation, $47B ARR run-rate, October IPO target, potentially largest AI listing ever); Karpathy starts at Anthropic this week (pre-training team, using Claude to accelerate training); Trump signs voluntary AI model review EO (30-day pre-release government testing, not mandatory); coding agent race now four-horse (Claude Code leads, Microsoft + Google both moving fast, Pichai admits Google is behind). World: Russia launches 73 missiles + 656 drones at Ukraine overnight (22 killed, 138 wounded, 5 medical facilities hit, Ukraine appeals to Trump); Israel seizes Beaufort Castle in Lebanon — deepest incursion in 26 years (3,300+ killed, 1.2M displaced, ceasefire nominally in place); US drug-boat military strikes kill 200+ since September (legality and effectiveness disputed, fentanyl not on these routes); New Delhi hotel fire kills 21.
+
 ## [2026-06-02] briefing | Morning Briefing — 2026-06-02
 
 **Output:** `outputs/briefing-daily-ai-2026-06-02.md`
