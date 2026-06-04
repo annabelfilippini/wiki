@@ -5,3 +5,9 @@
 .obsidian/plugins/
 .scripts/
 .trash/
+
+# Local Obsidian/media imports kept out of git
+raw/assets/*
+!raw/assets/telegram-2026-04-06-fashion-finder-outfit.jpg
+raw/*.mov
+wiki-explorer.html

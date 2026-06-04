@@ -67,6 +67,7 @@
 ### Tools & History
 - [[llm-wiki]] -- This wiki system. Karpathy-inspired LLM knowledge base pattern. Layer 1-2 of autonomous system.
 - [[vannevar-bush-memex]] -- 1945 Memex vision. Intellectual ancestor of the LLM Wiki.
+- [[design-library]] -- Curated design references by vertical. Read first by `/audit-redesign` + `/audit-dashboard`. Replaces vague "check raw/" instruction.
 
 ### Source Summaries
 - [[wayloft-master-plan-v3]] -- v3.5 strategy: self-reliant architecture, revenue model, 5-layer data strategy, growth targets
@@ -108,6 +109,7 @@
 - [[briefing-weekly-opportunities-2026-05-11]] -- **Weekly Opportunity Scan, May 11.** Top 5: Loyalty Devaluation Alerter (Cathay 3rd devaluation), New Grad Total Comp Decoder (no competitor, week 3), Regulatory Pulse ($49-99/mo compliance monitor), AI Displacement Career Pivot Plan, Managed LLM Wiki. CardPointers MCP = active Wayloft threat. Community Engine no signal x3.
 - [[briefing-weekly-opportunities-2026-05-04]] -- **Weekly Opportunity Scan, May 4.** (See file for details.)
 - [[briefing-weekly-opportunities-2026-04-27]] -- **Weekly Opportunity Scan, Apr 27.** Top 5: Agentic PM Workspace (LangAlpha pattern), New Grad Compensation & Benefits Decoder (no competitor), Startup SaaS Renewal Tracker (Okta angle), Freelancer Scope Creep Monitor (ScopeShield validates market), AI Visibility for Solo Creators (act this quarter). Wayloft annual-fee angle uncontested x3 weeks. LangAlpha Show HN validates "Claude Code for vertical" pattern.
+- [[consulting-engagement-playbook-research]] -- **Consulting engagement playbook synthesis.** How Dunn, Stark, Weiss, Morgan, Welsh run $2–10k engagements for solo pros. Review-loop design separates adoption from graveyard. Source for `~/Documents/AI-OS/projects/consulting/framework/engagement-playbook.md`.
 - [[briefing-weekly-opportunities-2026-04-20]] -- **Weekly Opportunity Scan, Apr 20.** Top 5: Construction WIP Automation (QBO gap), Startup Compliance Calendar, B2B Case Study Generator from Reviews, SMB Employment Law Monitor, Personal Brand Visibility in AI Search (creator tier). Wayloft signal: PointsYeah #1 NerdWallet but card-opt wedge intact; Awayz multi-modal is new threat. 7 ideas killed.
 - [[briefing-weekly-competitors-2026-04-13]] -- **Wayloft Competitor Brief, Apr 13.** Top threats: CardPointers v7 MCP/AI integration, AwardWallet content pivot. Top opps: Rove Miles uncovered, annual-fee tool gap uncontested. Actions: cover Rove Miles now, define MCP answer, publish Worth-It top 5.
 - [[briefing-weekly-opportunities-2026-04-13]] -- **Weekly Opportunity Scan, Apr 13.** Top 5: Managed LLM Wiki (Karpathy first-mover window), Cross-Currency Points Optimizer (Wayloft build signal), Freelancer Scope Shield, SMB Weekly Narrative, Community Digest Engine. 7 ideas killed. Strong build signals for Wayloft and Second Brain product.

@@ -19,7 +19,7 @@ Annabel's sharpened model (Apr 6): the system splits into a thinking half and an
 - **Thinking half — Obsidian / [[llm-wiki]].** Where raw knowledge lives because it has context on her entire life. Covers Layers 1-2.
 - **Action half — [[open-claw]].** Where execution happens. Wayloft, [[pickleball-portal]], [[bb-agent-system]], and future businesses all run here. Covers Layers 3-7.
 
-The unresolved design question is how these two halves actually connect. Shared filesystem is the obvious answer (both already live under `~/Documents/Claude/`), but no explicit handoff trigger exists yet.
+The unresolved design question is how these two halves actually connect. Shared filesystem is the obvious answer (both already live under `~/Documents/AI-OS/`), but no explicit handoff trigger exists yet.
 
 ## Architecture (7 Layers)
 

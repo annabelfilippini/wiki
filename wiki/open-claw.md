@@ -32,7 +32,7 @@ His argument: the design choice that makes OpenClaw-class agents useful — mimi
 
 ## Open Questions
 - **Identity:** Is "Open Claw" a specific product/tool Annabel plans to download, or a conceptual label for the Claude Code + gstack stack she already uses? The brain dump treats it as something to install ("i think i want to download openclaw"), which suggests she sees it as a distinct tool.
-- **Bridge to Obsidian:** How does a note in `wiki/raw/` trigger action in OpenClaw? Shared filesystem is the obvious answer (both already live under `~/Documents/Claude/`), but no explicit handoff exists yet.
+- **Bridge to Obsidian:** How does a note in `wiki/raw/` trigger action in OpenClaw? Shared filesystem is the obvious answer (both already live under `~/Documents/AI-OS/`), but no explicit handoff exists yet.
 - **Autonomy:** Annabel wants the system to run while she's away. Current Claude Code sessions are interactive. What makes execution truly autonomous — scheduled triggers, a daemon, long-running agents?
 - **Right tool?** No alternative has been evaluated. This could be a "sounds right" decision that deserves a direct comparison to other agent runtimes before committing.
 - **Security model:** Per Zaharia's critique — what is the isolation/permission model if OpenClaw is given access to authenticated browser sessions? This is now a first-order design question, not an afterthought.

@@ -671,3 +671,11 @@
 **Summary:** Daily AI briefing. Tools: Google Gemma 4 (Apache 2.0, 31B beats 400B rivals), Claude Mythos withheld via Project Glasswing (sandbox escape, zero-days, 11-partner restricted release), vibe coding driving 84% App Store surge + Apple crackdown, ElevenLabs ElevenMusic iOS app. Industry: frontier labs anti-China distillation pact (DeepSeek/Moonshot/MiniMax named), Anthropic $30B revenue run rate + Google/Broadcom compute expansion, national AI legislative framework + state employment AI laws. World: US-Iran ceasefire fragile with Islamabad talks beginning today (Vance leading), North Korea cluster-bomb warhead missile tests, US tariffs one-year anniversary (doubled down, $29B/month revenue, consumer prices rising), Israel/Lebanon continuing outside ceasefire terms.
 
 2026-04-09: Lite ingest — note-2026-04-09-ai-agency-playbook.md (AI agency → SaaS playbook framework)
+
+2026-04-16: Created [[design-library]] — curated design references by vertical (restaurant/DTC/luxury/portfolio/editorial/dashboard/portfolio). Replaces the single-line "check raw/" pointer in /audit-redesign and /audit-dashboard. Flags 3 GAP verticals (restaurant/editorial/dashboard) with explicit TODO capture targets.
+2026-04-16: Updated [[design-library]] — added URL lists to Restaurant (12 URLs + 4 galleries), DTC (6 URLs), Luxury (2 URLs), Dashboard (7 SaaS marketing URLs), plus new Personal Brand / Creator section (8 URLs + 9 galleries). Restaurant + dashboard GAP status resolved. Hop Alley redesign mapping logged inline.
+
+## [2026-04-22] synthesis | Consulting Engagement Playbook — Research Synthesis
+
+**Output:** `outputs/consulting-engagement-playbook-research.md`
+**Summary:** Research synthesis on how successful consultants serving solo pros / creator-founders run $2–10k engagements. Operators studied: Brennan Dunn, Jonathan Stark, Alan Weiss, Philip Morgan, Justin Welsh. Plus adoption-failure analysis (Privalikhina, Future Humanism, MarTech). Central finding: flow is commodity (questionnaire → discovery → short written report → build → handoff → 30-day review → retainer). Differentiator is adoption design at handoff — review-loop architecture (drafts land in inbox → one-click approve → auto-publish). Source material for consulting project's `framework/engagement-playbook.md`; commissioned to plan Marta Brummell pilot (Friday 2026-04-24).
