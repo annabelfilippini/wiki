@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-06-04] briefing | Morning Briefing — 2026-06-04
+
+**Output:** `outputs/briefing-daily-ai-2026-06-04.md`
+**Summary:** Daily AI briefing. Tools: Odysseus (PewDiePie's open-source self-hosted AI workspace, 44K GitHub stars in days — chat + agents + deep research + 270 models, privacy-first alternative to ChatGPT/Claude subscriptions, massive HN buzz); OpenAI Codex expands into vertical workspace with 6 role-specific plugins (data analytics, sales, product design, equity, banking) plus shareable sites and inline annotations; Workday launches enterprise agent infra (Developer Agent, Agent-Ready Tools, Agent Passport — guardrailed production agents for HR/finance). Industry: Anthropic S-1 triggers AI bubble vs fundamentals debate — Fortune "dotcom comparisons fly," Camp A cites $47B ARR (up from $30B in 6 weeks), Camp B warns of record tech S&P weighting and retail risk transfer; Anthropic Project Glasswing expands to 150+ orgs in 15+ countries as commercial cybersecurity play; OpenAI Rosalind Biodefense program gives US gov and allies a specialized epidemiological AI model. World: Ukraine drones fly 1,000+ km to strike St. Petersburg oil terminal as Putin hosts annual economic forum — plus overnight hits on Kronstadt naval base and Tambov weapons plant (Russia says 354 drones downed); Iranian drones hit Kuwait International Airport terminal (1 killed, 63 wounded, Iran denies) — latest test of fragile US-Iran ceasefire in its 4th month; Trump EO strips 8,000 GS-15 senior civil servants of job protections via Schedule Policy/Career reclassification; EU passes sweeping migration overhaul — offshore return hubs, 2-year detention cap, 10-year entry bans, raids without warrants, auto-deportation appeal suspension removed (human rights groups draw Trump comparisons).
+
 ## [2026-06-03] briefing | Morning Briefing — 2026-06-03
 
 **Output:** `outputs/briefing-daily-ai-2026-06-03.md`
