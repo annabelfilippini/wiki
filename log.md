@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-06-05] briefing | Morning Briefing — 2026-06-05
+
+**Output:** `outputs/briefing-daily-ai-2026-06-05.md`
+**Summary:** Daily AI briefing. Tools: GitHub Copilot token-billing chaos (users reporting 10x-50x cost jumps after June 1 switch to AI Credits, mass migration threats to Claude Code/Cursor); Grok 5 mid-June target (6T params, 1.5M context, but prediction markets at 33% odds); Gemini 3.5 Pro still in Vertex preview (Pichai said "give us until next month" at I/O — still waiting); Anthropic Opus 4.8 ships with Dynamic Workflows preview for parallel subagents in Claude Code; Devin Desktop (ex-Windsurf) relaunched with open Agent Client Protocol. Industry: Anthropic IPO S-1 confidentially filed June 1 (~$1T valuation, $47B ARR) — largest AI listing ever if it sticks; Project Glasswing expands to 150 orgs ahead of road show; flat-rate AI era officially over as usage-based pricing normalizes; Microsoft Project Polaris targets Claude Code lead in August Copilot default swap. World: Iran ceasefire holding tenuously — IAEA called on Tehran to engage on nuclear material June 4, US-Iran talks stalled over Hormuz/nuclear/asset demands; Ukraine drone campaign at record levels, Zelensky floats ending hot phase before winter; Israel-Lebanon strikes continue, Hezbollah rejects US ceasefire, IDF strikes Gaza tent shelter; US inflation hits 3.8% (April CPI), consumer sentiment at all-time low (44.8), Trump economic approval at 38% record low; Senate takes up "Secure America Act" reconciliation.
+
 ## [2026-06-04] briefing | Morning Briefing — 2026-06-04
 
 **Output:** `outputs/briefing-daily-ai-2026-06-04.md`
