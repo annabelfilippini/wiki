@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-06-06] briefing | Morning Briefing — 2026-06-06
+
+**Output:** `outputs/briefing-daily-ai-2026-06-06.md`
+**Summary:** Daily AI briefing. Tools: MiniMax M3 (Chinese open-weight model claiming frontier performance at 5-10% cost — 1M context, 1/20th compute, but weights still not shipped; dev buzz cautiously high); ChatGPT Ads Manager goes self-serve + UK expansion June 6 (OpenAI is now an ad business); OpenAI real-time audio models for voice agents; ZoomMate ($20/user Zoom meeting AI that executes into Salesforce/Jira); HN "State of App Dev 2026" thread vibe check. Industry: Anthropic IPO gross margin is the real test (CNBC June 5 analysis — $965B valuation lives or dies on inference economics, not revenue); SpaceX IPO June 12 roadshow starts Monday ($135/share, $1.77T, Grok baked in but is weakest segment at -$6.4B ops); OpenAI GPT-5.5-Cyber delivered to EU (first government-scoped model variant, new regulatory playbook); flat-rate AI officially dead — usage-based era and sticker shock now mainstream. World: Iran-US nuclear talks split signals — Trump says "nuclear wasn't agreed," Iran FM says "inches away but maximalist demands"; Iran-Russia sign $25B nuclear cooperation deal; Senate passes $70B immigration enforcement bill 52-47 after 19-hour session (House next week); North Korea reveals new uranium enrichment plant, Kim calls for "exponential" nuclear buildup; IEA calls Hormuz closure "largest oil supply disruption in history," stagflation risks elevated.
+
 ## [2026-06-05] briefing | Morning Briefing — 2026-06-05
 
 **Output:** `outputs/briefing-daily-ai-2026-06-05.md`
