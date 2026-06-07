@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-06-07] briefing | Morning Briefing — 2026-06-07
+
+**Output:** `outputs/briefing-daily-ai-2026-06-07.md`
+**Summary:** Daily AI briefing. Tools: MiniMax M3 developer skepticism deepening — weights still not shipped, benchmarks company-reported, China's National Intelligence Law flagged for enterprise; Perplexity Personal Computer for Windows (desktop AI agent with IT governance controls, Product Hunt trending); Replicas (cloud-sandbox engineering agent returning tested PRs); Pragmatic Engineer 2026 survey (Claude Code 46%, Cursor 19%, 41% of code AI-generated, agentic engineering now the dominant practitioner frame); BYD enters humanoid robotics. Industry: SpaceX IPO roadshow live, June 12 Nasdaq debut ($135/share, $1.75T ask, Morningstar fair value $780B, xAI/Grok burning $6B/year, all 11 co-founders gone); Anthropic + OpenAI both racing to IPO this fall ($965B and $730B-$1T respectively — inference economics is the test both valuations will face); Trump signs new AI EO "Promoting Advanced AI Innovation and Security" (Scientific American calls it drastic shift); OpenAI expands GPT-5.5-Cyber to EU institutions; inference cost vs. revenue margin is the unresolved question under every AI IPO this summer. World: House passes Iran War Powers rebuke 215-208 (symbolic, four Republicans joined Democrats, Senate unlikely to act); Ukraine strikes near St. Petersburg during SPIEF economic forum; North Korea reveals new uranium enrichment plant + Kim calls for exponential nuclear buildup (DIA confirms US homeland now targetable, Russia likely providing submarine tech in exchange for troops); $70B immigration enforcement bill heads to House after Senate 52-47 vote; IEA designates Hormuz closure largest oil supply disruption in history, stagflation risk elevated, Polymarket 63.5% chance no nuclear deal by July 31.
+
 ## [2026-06-06] briefing | Morning Briefing — 2026-06-06
 
 **Output:** `outputs/briefing-daily-ai-2026-06-06.md`
