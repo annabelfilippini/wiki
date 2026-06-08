@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-06-08] scan | Wayloft Competitor Scan — 2026-06-08
+
+**File:** `outputs/briefing-weekly-competitors-2026-06-08.md`
+**Summary:** Weekly Wayloft competitor scan. Top threats: Thrifty Traveler benefits tracker expanded to 53 cards + Player 2 companion tracking — free, no-auth, SEO collision with Worth-It pages (TPG coverage driving backlinks); CardPointers v7 Android beta achieves full iOS parity + 50% sale still live — closes last gap in Wayloft's target segment. Top opportunities: Rove Miles launches triple-dip hotel stacking + adds transfer partner #18 (Virgin Atlantic) — Wayloft's transfer DB missing this 6th currency; NerdWallet's 2026 lane structure confirms card-decision layer (annual fee ROI) is uncontested. Neutral: AwardFares AI-powered alert overhaul + Travel Technology Innovator award — award-search lane, not Wayloft's. Recommended: add Rove to transfer partner DB this week; publish Rove triple-dip Ellis Church content; expedite Worth-It SSG page indexing before Thrifty Traveler compounds; write "smart tracker vs. spreadsheet" positioning piece.
+
 ## [2026-06-08] scan | Weekly Opportunity Scan — 2026-06-08
 
 **File:** `outputs/briefing-weekly-opportunities-2026-06-08.md`
