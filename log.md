@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-06-08] scan | Weekly Opportunity Scan — 2026-06-08
+
+**File:** `outputs/briefing-weekly-opportunities-2026-06-08.md`
+**Summary:** Weekly opportunity scan. Top 5: Loyalty Devaluation Alert Engine (week 9 — Hyatt +67%, Cap1/Emirates 25%, Aeroplan pricing, all in May with zero warning — strongest signal yet); GEO Copilot for Local Service Contractors (week 2 — 78% of trades AI-invisible, YC P26 Rudus validates segment, Klariqo PH launch confirms buying behavior); Non-Engineering Offer Decoder (week 7, June window still open); Vibe-to-Production Guided Remediation (checklist tier crowded, guided action plan layer still open — Microsoft Rayfin fills enterprise end); AI License Rationalization for Small Teams (NEW — 52% of AI licenses unused, 88% context-switching damage, no SMB tool). Killed: Agentic PM Workspace generic framing (ChatPRD 100K users + 4 others in PRD tier), EU AI Act Compliance Checker, Solo Founder Agent Ops (maintenance 3×), Community Engine (dead week 9), Second Brain horizontal (Obsidian 1.5M users, crowded), Award Calendar Heatmap (AwardHack covers it). Wayloft signal: hottest week yet — build the devaluation alerter.
+
 ## [2026-06-08] briefing | Morning Briefing — 2026-06-08
 
 **Output:** `outputs/briefing-daily-ai-2026-06-08.md`
