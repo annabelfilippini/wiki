@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-06-09] briefing | Morning Briefing — 2026-06-09
+
+**Output:** `outputs/briefing-daily-ai-2026-06-09.md`
+**Summary:** Daily AI briefing. Tools: OpenCode open-source terminal coding agent at 160K+ GitHub stars and 7.5M MAU — model-agnostic, no subscription, terminal-native, winning the "terminal vs IDE agent" debate; Viktor AI raises $75M Series A, $15M ARR in 3 months, 2,000 orgs — Slack-embedded AI coworker that takes autonomous action across 3,000+ tools, clearest "AI as headcount" signal yet; Cursor 3 Agents Window — parallel multi-agent fleet orchestration changing dev workflows; June model wave — GPT-5.6 spotted in Codex logs (89% Polymarket odds by June 30), Claude Mythos 1 imminent (enterprise agentic architecture), Gemini 3.5 Pro confirmed-undated, Grok 5 still absent (12–33% odds). Industry: OpenAI filed confidential S-1 June 8 — one week after Anthropic ($965B valuation), both pre-IPO in same week for first time in AI history; AI coding market $9.3B growing 26%/yr to $30B by 2031, Microsoft Build this week expected to announce Polaris coding agent; "AI assistant → AI headcount" shift now a business reality per Gartner (40% enterprise apps embedding agents by year-end). World: Philippines 7.8 earthquake — 41 dead, 450+ injured, 130+ aftershocks including 6.7, 803K homes without power, two plants offline; Israel-Iran ceasefire worst exchange since April — Israel struck Tehran/Tabriz/Karaj/Isfahan, Iran fired at northern Israel over Lebanon operations, both paused but ceasefire conditional; DRC-Uganda Ebola (Bundibugyo, no vaccine) at 515 cases/91 deaths, 27 new in 24hrs, CDC projects 65% chance of 20K+ cases in 3 months at current isolation rates; US economy — CPI 3.3%, payrolls +122K, Fed independence under pressure as Trump nominee expected to push sharp rate cuts.
+
 ## [2026-06-08] scan | Wayloft Competitor Scan — 2026-06-08
 
 **File:** `outputs/briefing-weekly-competitors-2026-06-08.md`
