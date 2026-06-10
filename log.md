@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-06-10] briefing | Morning Briefing — 2026-06-10
+
+**Output:** `outputs/briefing-daily-ai-2026-06-10.md`
+**Summary:** Daily AI briefing. Tools: Claude Fable 5 launched June 9 — Mythos-class capabilities public, free through June 22 on Pro/Max/Team, then $10/$50/M tokens, hard safety limits falling back to Opus 4.8 (<5% sessions), 30-day retention mandate voiding zero-retention enterprise contracts; June model wave — GPT-5.6 at 89% Polymarket odds (1.5M context), Gemini 3.5 Pro GA, Mythos 5 live, densest frontier model window in AI history; llamafile (Mozilla single-file LLM) back in Reddit top lists for "just works" local LLM simplicity; Lovable/AI app builder wave — non-devs shipping apps in 47 min, $20M ARR in 2 months. Industry: Anthropic released Fable 5 days after warning AI is getting dangerous + revoked zero-retention enterprise contracts (healthcare/finance/legal pushback); OpenAI ($730B-$850B, Sept) and Anthropic ($965B, Oct) in same IPO window — Bloomberg asks if simultaneous filings cannibalize demand; SpaceX prices tonight ($135/share, $75B raise, $1.75T ask, Morningstar FV $780B), trades tomorrow June 12, Nasdaq-100 eligible in 15 days ($7B forced index buying). World: US struck Iran June 9 after Apache helicopter downed — Iran retaliated (mostly intercepted), ceasefire "extremely fragile," Iran won't negotiate until it trusts Trump, 3,666+ Lebanon dead since March 2; 2026 FIFA World Cup opens with Countdown Concert today, ceremonies June 11-12 across Mexico/Canada/US, first 48-team 3-nation tournament; California primary — Steve Hilton (R, Trump-backed) vs. Javier Becerra (D) for governor, Nevada also set (Ford vs. Lombardo); Belfast anti-immigration riots after Sudanese man's stabbing arrest, UK leaders calling for calm.
+
 ## [2026-06-09] briefing | Morning Briefing — 2026-06-09
 
 **Output:** `outputs/briefing-daily-ai-2026-06-09.md`
