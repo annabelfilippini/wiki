@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-06-12] briefing | Morning Briefing — 2026-06-12
+
+**Output:** `outputs/briefing-daily-ai-2026-06-12.md`
+**Summary:** Daily AI briefing. Tools: Claude Code/Codex/OpenCode composable stack moment — 84% dev adoption, agent users 2x more excited, composable > competitive framing wins; HN June 2026 mood shifts to security/trust — MCP exploits aftermath, Postgres agent sandboxing pattern emerging; GPT-5.6 still unconfirmed but ~80% Polymarket odds, 1.5M context expected, five new frontier models in June; Product Hunt small-sharp launches (T-Rex Label, Mina, Handler) signal "one friction point" era; Runway Gen-4 dominating AI video with full-scene quality. Industry: Anthropic $30B run-rate, 1,000+ $1M+ enterprise customers, Apollo/Blackstone structuring $36B debt for $35B compute expansion; OpenAI/Anthropic/Google CEOs all attending G7 Évian summit June 15-17 — AI governance enters geopolitical room; HN hiring: "secure, production-ready AI engineers" is the real job title; Microsoft Polaris + Gemini 3.5 Pro targeting Claude Code's developer moat; May CPI 4.2% (3-year high), PPI 6.5%, AI capex partly fueling sticky inflation, Fed won't cut, Warsh FOMC June 16-17. World: Trump says Iran deal "this weekend," ceasefire fragile after June 7-8 exchanges + 2 Iranian drones downed at Strait of Hormuz; Taiwan fires HIMARS into Taiwan Strait for first time in public drill (June 10, Taichung), $82-unit sale on hold after Trump-Xi meeting; FIFA World Cup 2026 opens — Mexico 2-0 South Africa, South Korea 2-1 Czechia; Belfast second night of riots after Sudanese stabbing arrest, 27 families displaced; Uppsala data: 244,600 conflict deaths in 2025, highest since 1994.
+
 ## [2026-06-11] briefing | Morning Briefing — 2026-06-11
 
 **Output:** `outputs/briefing-daily-ai-2026-06-11.md`
