@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-06-13] briefing | Morning Briefing — 2026-06-13
+
+**Output:** `outputs/briefing-daily-ai-2026-06-13.md`
+**Summary:** Daily AI briefing. Tools: MiniMax M3 (open-weights, 1M context, multimodal, 59% SWE-bench Pro, buzzing on r/LocalLLaMA at 50% off launch promo); OpenCode 160K GitHub stars, zero marketing, developer word-of-mouth signal; Project Glasswing expanding to 150+ orgs in 15 countries (power/water/healthcare) after finding 10K+ zero-days; HN pivot to agent sandboxing — Postgres branching per agent, MCP-layer state machine guardrails; Copilot usage-based billing forces composable stack rethink. Industry: US export control directive received June 12 5:21pm — Fable 5 + Mythos 5 hard-shutdown worldwide, first-ever LLM export control, foreign-national rule can't be enforced in real-time so all users lose access; Altman/Amodei/Hassabis all attending G7 Évian June 15-17, US blocking multilateral AI governance, summit set to water down safety commitments; export control establishes trained model access as new controllable export category; DXC integrating Claude into bank/airline/regulated-industry back-ends. World: Pakistan says Iran-US peace deal final text agreed, Trump "not 100% certain," Geneva signing likely before G7; SpaceX IPO largest ever ($75B raised), closed +19% at $161, Musk first trillionaire, S&P +0.5%; USA 4-1 Paraguay in World Cup day 2 on US soil for first time in 32 years, Canada 1-1 Bosnia; Russia lost 93 sq miles in 4 weeks (double prior period), Ukraine pay raised to 300K hryvnia/month for front-line; Taiwan-China maritime standoff east of island, PRC vessels briefly entered Itu Aba restricted waters June 11.
+
 ## [2026-06-12] briefing | Morning Briefing — 2026-06-12
 
 **Output:** `outputs/briefing-daily-ai-2026-06-12.md`
