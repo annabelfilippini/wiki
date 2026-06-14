@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-06-14] briefing | Morning Briefing — 2026-06-14
+
+**Output:** `outputs/briefing-daily-ai-2026-06-14.md`
+**Summary:** Daily AI briefing. Tools: Agentjacking attack disclosed June 12 by Tenet Security — fake Sentry errors hijack Claude Code/Cursor via MCP, executes attacker code, bypasses all traditional controls, Sentry declined to patch; June 2026 dev tool power rankings: OpenCode #1 open-source (160K stars, 7.5M MAU), Cursor best IDE, Claude Code quality leader; GPT-5.6 expected imminently (~90% Polymarket odds before June 30), improved agentic workflows + 1.5M context; MCP security anxiety is the month's defining developer story (SymJack/TrustFall/Agentjacking pattern); Base44 + Vibeocus Lens small but sharp vibe-coding Product Hunt launches. Industry: G7 Évian summit opens June 15 — Altman/Amodei/Hassabis all attending, US blocking multilateral AI governance, AI CEOs now geopolitical actors; Anthropic at $965B valuation with confidential IPO filing, OpenAI Q4 2026 IPO target; AI coding market $9.3B→$30B by 2031, Microsoft Polaris + Google Gemini 3.5 Pro targeting Anthropic/OpenAI dominance; US AI export controls on Fable 5 + Mythos 5 continue reshaping global access; security architecture 12–18 months behind agentic capability. World: Iran-US deal expected to sign tomorrow — Pakistan PM says finalization in "next 24 hours," Strait of Hormuz to reopen, Trump on Truth Social confirmed signing expected June 15, Iran more cautious on nuclear specifics; Russia struck Ukraine with 118 drones overnight, Russia occupies ~20% Ukraine, 56K+ civilian casualties; G7 opens tomorrow in Évian; World Cup Day 4 — Germany vs Curaçao in Houston, Ivory Coast vs Ecuador in Philadelphia; US Fed holding at 3.50–3.75%, 70% odds of rate hike by December per CME FedWatch, S&P all-time high 7,209.
+
 ## [2026-06-13] briefing | Morning Briefing — 2026-06-13
 
 **Output:** `outputs/briefing-daily-ai-2026-06-13.md`
