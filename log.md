@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-06-15] scan | Weekly Opportunity Scan — 2026-06-15
+
+**File:** `outputs/briefing-weekly-opportunities-2026-06-15.md`
+**Summary:** Weekly opportunity scan. Top 5: Loyalty Devaluation Alert Engine (week 10 — Hyatt 1.65→1.55 cents/point drop in June TPG valuations with zero warning, still no tool); Non-Engineering Offer Decoder (week 8, graduation season NOW, Annabel is the user, zero competitors in 8 weeks); AI Dev Stack Cost Optimizer (NEW — Copilot usage-based billing shock June 1 trigger, teams of 3–10 paying for overlapping tools with zero cost-per-task visibility); Vibe-to-Production Guided Remediation (week 3, r/vibecoding 89K members, checklist tier crowding but per-blocker action plan layer still open); EU Article 50 Sprint Tool (NEW — August 2 enforcement deadline 48 days away, indie devs with EU users have no lightweight compliance check). Killed: MCP Server Security Scanner (MCP-Scan/MCPGuard/Enkrypt AI all launched in past 30 days, crowded), Community Engine (week 10, dead — removed from active scan), GEO Copilot for Contractors (week 3 → Watch List, no new trigger), AI Agent Verification Framework (Statewright enterprise-first), Content Repurposing AI (10+ competitors). Wayloft signal: Hyatt devaluation is the exact event devaluation alerter exists to catch — week 10 carry, clearest uncontested gap, flag it for June scope decision.
+
 ## [2026-06-15] briefing | Morning Briefing — 2026-06-15
 
 **Output:** `outputs/briefing-daily-ai-2026-06-15.md`
