@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-06-15] scan | Wayloft Competitor Scan — 2026-06-15
+
+**File:** `outputs/briefing-weekly-competitors-2026-06-15.md`
+**Summary:** Weekly Wayloft competitor scan. Top threats: CardPointers v7 ships ChatGPT + Apple Intelligence + Siri integration — the "ask AI about my portfolio" move directly attacks Ellis Church's differentiation, though at a double-paywall (CardPointers + ChatGPT Plus); NerdWallet doubles down on PointsYeah as #1 award tool 2026, compounding structural SEO authority headwind for Wayloft. Top opportunity: Chase Sapphire Reserve $795 fee increase (June 2025) is generating sustained high-intent searches — "CSR worth $795," "Chase Sapphire Reserve worth annual fee 2026" — that map exactly to Wayloft's worth-it tool; CSR SSG page not yet indexed. Neutral: Gondola adds price alerts (hotel-booking lane, not Wayloft's); Seats.aero expands to 25+ programs and JetBlue Move to Mint finder (award-search lane). New entrant watch: HeyMax (Singapore/HK travel-fintech, 30+ transfer partners, no fees) on PhocusWire Hot 25 — no US launch yet, 30-day flag. Recommended: ship CSR worth-it SSG page this week; publish Ellis Church vs. ChatGPT-wrapper positioning piece; reference Gondola in hotel spend content; stay out of award search.
+
 ## [2026-06-15] scan | Weekly Opportunity Scan — 2026-06-15
 
 **File:** `outputs/briefing-weekly-opportunities-2026-06-15.md`
