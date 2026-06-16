@@ -4,6 +4,11 @@
 > 
 > `grep "^## \[" log.md | tail -5` — last 5 operations.
 
+## [2026-06-16] briefing | Morning Briefing — 2026-06-16
+
+**Output:** `outputs/briefing-daily-ai-2026-06-16.md`
+**Summary:** Daily AI briefing. Tools: Claude Fable 5 (June 9) dominated the week — ecstatic initial reviews, then "secret sabotage" backlash over hidden capability limits, then US export ban June 12 for foreign nationals (first LLM classified under export control), model burned through $100 Max plan in under 9 minutes; OpenCode at 160K stars/7.5M MAU, model-agnostic terminal-native coding agent topping June dev tool power rankings; vibe-to-production app builders (Lovable/Bolt/v0/NxCode) are the fastest-growing AI category with full-stack non-dev apps now shipping; AI video (Kling AI, Seedance, PixVerse) reaching Midjourney-level community obsession with quality indistinguishable from stock footage; last30days agent skill (launched June 10) for multi-platform social trend research across Reddit/X/YouTube/HN/Polymarket. Industry: Anthropic confidential IPO S-1 filed June 1 at $965B valuation, $47B ARR run-rate (5× in 12 months), Oct 2026 Nasdaq listing target — racing OpenAI (Q4 2026 IPO); Fable 5 export ban created global access split — EU locked out of Anthropic models while OpenAI expands to EU institutions; Google enters coding market at $100/month developer subscription to attack Claude Code/OpenAI dominance; 49% Gen Z say AI has devalued their college degree — skills reckoning happening in real time with new graduates. World: US-Iran framework deal signed virtually June 15 — naval blockade lifted, Hormuz reopens, nuclear inspectors return, 60-day technical negotiations begin, formal signing June 19 Geneva (major specifics deferred); G7 Évian (June 15-17) opens with Ukraine/Middle East on agenda — Zelenskyy attending, proposed Zelenskyy-Putin meeting at summit, Russia declined and launched massive drone/missile attack (hundreds of aerial objects, 11 killed) hours before summit opened; new Ebola outbreak in eastern Congo's Ituri province.
+
 ## [2026-06-15] scan | Wayloft Competitor Scan — 2026-06-15
 
 **File:** `outputs/briefing-weekly-competitors-2026-06-15.md`
